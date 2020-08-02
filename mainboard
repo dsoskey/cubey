@@ -62,6 +62,9 @@ Solemn Simulacrum	sld	1113	Owned	~~	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Hangarback Walker	ori	229	Owned	~~	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Everflowing Chalice	f11	1	Owned	~~	Foil	0	~~	~~	~~	Artifact
 Mind Stone	pw21	5	Owned	~~	Foil	2	~~	~~	~~	Artifact
+Murderous Rider	eld	97	Owned	Black	Non-foil	3	B	~~	~~	Creature — Zombie Knight
+Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
+Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -113,6 +116,7 @@ Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sidisi, Brood Tyrant	2x2	276	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -128,6 +132,7 @@ Thopter Engineer	c21	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
+Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -186,6 +191,7 @@ Necromantic Summons	ori	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bygone Bishop	voc	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
