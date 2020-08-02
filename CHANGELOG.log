@@ -6,3 +6,535 @@ Timestamp	Board	ChangeType	Name
 2020-08-02T19:38:05.712+00:00	mainboard	add	Expansion // Explosion
 2020-08-02T19:38:05.712+00:00	mainboard	add	Fire // Ice
 2020-08-02T19:38:05.712+00:00	mainboard	add	Emeria, the Sky Ruin
+2020-08-02T19:38:06.712+00:00	mainboard	add	Elite Vanguard
+2020-08-02T19:38:06.712+00:00	mainboard	add	Isamaru, Hound of Konda
+2020-08-02T19:38:06.712+00:00	mainboard	add	Student of Warfare
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hanweir Militia Captain
+2020-08-02T19:38:06.712+00:00	mainboard	add	Knight of Meadowgrain
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kor Spiritdancer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Selfless Spirit
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stoneforge Mystic
+2020-08-02T19:38:06.712+00:00	mainboard	add	Suture Spirit
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wall of Omens
+2020-08-02T19:38:06.712+00:00	mainboard	add	War Priest of Thune
+2020-08-02T19:38:06.712+00:00	mainboard	add	Auramancer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ballynock Cohort
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bygone Bishop
+2020-08-02T19:38:06.712+00:00	mainboard	add	Danitha Capashen, Paragon
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mesa Enchantress
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mirror Entity
+2020-08-02T19:38:06.712+00:00	mainboard	add	Soulsworn Jury
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thalia, Heretic Cathar
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ajani's Chosen
+2020-08-02T19:38:06.712+00:00	mainboard	add	Emeria Angel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sublime Archangel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Valor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Archangel Avacyn
+2020-08-02T19:38:06.712+00:00	mainboard	add	Battlegrace Angel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Reveillark
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sun Titan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sunblast Angel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Victory's Herald
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gideon, Ally of Zendikar
+2020-08-02T19:38:06.712+00:00	mainboard	add	Elspeth, Sun's Champion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Porcelain Legionnaire
+2020-08-02T19:38:06.712+00:00	mainboard	add	Path to Exile
+2020-08-02T19:38:06.712+00:00	mainboard	add	Swords to Plowshares
+2020-08-02T19:38:06.712+00:00	mainboard	add	Crib Swap
+2020-08-02T19:38:06.712+00:00	mainboard	add	White Sun's Zenith
+2020-08-02T19:38:06.712+00:00	mainboard	add	Declaration in Stone
+2020-08-02T19:38:06.712+00:00	mainboard	add	Spectral Procession
+2020-08-02T19:38:06.712+00:00	mainboard	add	Day of Judgment
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hallowed Burial
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ethereal Armor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Honor of the Pure
+2020-08-02T19:38:06.712+00:00	mainboard	add	Murder Investigation
+2020-08-02T19:38:06.712+00:00	mainboard	add	Always Watching
+2020-08-02T19:38:06.712+00:00	mainboard	add	Arrest
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ghostly Prison
+2020-08-02T19:38:06.712+00:00	mainboard	add	Oblivion Ring
+2020-08-02T19:38:06.712+00:00	mainboard	add	Prison Term
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rule of Law
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stasis Snare
+2020-08-02T19:38:06.712+00:00	mainboard	add	Story Circle
+2020-08-02T19:38:06.712+00:00	mainboard	add	Armored Ascension
+2020-08-02T19:38:06.712+00:00	mainboard	add	Endless Horizons
+2020-08-02T19:38:06.712+00:00	mainboard	add	Marshal's Anthem
+2020-08-02T19:38:06.712+00:00	mainboard	add	Suppression Bonds
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sigil of the Empty Throne
+2020-08-02T19:38:06.712+00:00	mainboard	add	Starfield of Nyx
+2020-08-02T19:38:06.712+00:00	mainboard	add	Quarantine Field
+2020-08-02T19:38:06.712+00:00	mainboard	add	Eidolon of Obstruction
+2020-08-02T19:38:06.712+00:00	mainboard	add	Archetype of Courage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cursecatcher
+2020-08-02T19:38:06.712+00:00	mainboard	add	Delver of Secrets
+2020-08-02T19:38:06.712+00:00	mainboard	add	Augury Owl
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lighthouse Chronologist
+2020-08-02T19:38:06.712+00:00	mainboard	add	Snapcaster Mage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thing in the Ice
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tidebinder Mage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Grand Architect
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sai, Master Thopterist
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sea Gate Oracle
+2020-08-02T19:38:06.712+00:00	mainboard	add	Treasure Mage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wake Thrasher
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wall of Frost
+2020-08-02T19:38:06.712+00:00	mainboard	add	Clone
+2020-08-02T19:38:06.712+00:00	mainboard	add	Faerie Swarm
+2020-08-02T19:38:06.712+00:00	mainboard	add	Forgotten Creation
+2020-08-02T19:38:06.712+00:00	mainboard	add	Glen Elendra Archmage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Geralf's Masterpiece
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mulldrifter
+2020-08-02T19:38:06.712+00:00	mainboard	add	Frost Titan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jace Beleren
+2020-08-02T19:38:06.712+00:00	mainboard	add	Etherium Sculptor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Master of Etherium
+2020-08-02T19:38:06.712+00:00	mainboard	add	Phyrexian Metamorph
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sharding Sphinx
+2020-08-02T19:38:06.712+00:00	mainboard	add	Torrential Gearhulk
+2020-08-02T19:38:06.712+00:00	mainboard	add	Brainstorm
+2020-08-02T19:38:06.712+00:00	mainboard	add	Opt
+2020-08-02T19:38:06.712+00:00	mainboard	add	Anticipate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Counterspell
+2020-08-02T19:38:06.712+00:00	mainboard	add	Disdainful Stroke
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mana Leak
+2020-08-02T19:38:06.712+00:00	mainboard	add	Negate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Remove Soul
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cancel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sinister Sabotage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cryptic Command
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jace's Ingenuity
+2020-08-02T19:38:06.712+00:00	mainboard	add	Clash of Wills
+2020-08-02T19:38:06.712+00:00	mainboard	add	Blue Sun's Zenith
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ponder
+2020-08-02T19:38:06.712+00:00	mainboard	add	Preordain
+2020-08-02T19:38:06.712+00:00	mainboard	add	See Beyond
+2020-08-02T19:38:06.712+00:00	mainboard	add	Day's Undoing
+2020-08-02T19:38:06.712+00:00	mainboard	add	Breakthrough
+2020-08-02T19:38:06.712+00:00	mainboard	add	Part the Waterveil
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mind Spring
+2020-08-02T19:38:06.712+00:00	mainboard	add	Treasure Cruise
+2020-08-02T19:38:06.712+00:00	mainboard	add	Quest for Ancient Secrets
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ice Cage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Omen of the Sea
+2020-08-02T19:38:06.712+00:00	mainboard	add	Search for Azcanta
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dictate of Kruphix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Oath of Jace
+2020-08-02T19:38:06.712+00:00	mainboard	add	Reality Acid
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sphinx's Tutelage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thopter Spy Network
+2020-08-02T19:38:06.712+00:00	mainboard	add	Shark Typhoon
+2020-08-02T19:38:06.712+00:00	mainboard	add	Knight of the Ebon Legion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Asylum Visitor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Blood Seeker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gatekeeper of Malakir
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mire Triton
+2020-08-02T19:38:06.712+00:00	mainboard	add	Oona's Prowler
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vampire Hexmage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Zulaport Cutthroat
+2020-08-02T19:38:06.712+00:00	mainboard	add	Corrosive Mentor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cunning Lethemancer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Drana, Liberator of Malakir
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dusk Urchins
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hypnotic Specter
+2020-08-02T19:38:06.712+00:00	mainboard	add	Isareth the Awakener
+2020-08-02T19:38:06.712+00:00	mainboard	add	Midnight Reaper
+2020-08-02T19:38:06.712+00:00	mainboard	add	Pestilent Spirit
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vampire Nighthawk
+2020-08-02T19:38:06.712+00:00	mainboard	add	Yahenni, Undying Partisan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Crowd of Cinders
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dread Presence
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rankle, Master of Pranks
+2020-08-02T19:38:06.712+00:00	mainboard	add	Skinrender
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gray Merchant of Asphodel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Shriekmaw
+2020-08-02T19:38:06.712+00:00	mainboard	add	Grave Titan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Massacre Wurm
+2020-08-02T19:38:06.712+00:00	mainboard	add	Liliana, Death's Majesty
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ob Nixilis Reignited
+2020-08-02T19:38:06.712+00:00	mainboard	add	Salvage Titan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Executioner's Capsule
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dark Ritual
+2020-08-02T19:38:06.712+00:00	mainboard	add	Doom Blade
+2020-08-02T19:38:06.712+00:00	mainboard	add	Grasp of Darkness
+2020-08-02T19:38:06.712+00:00	mainboard	add	Terror
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ultimate Price
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dismember
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hideous End
+2020-08-02T19:38:06.712+00:00	mainboard	add	Makeshift Mannequin
+2020-08-02T19:38:06.712+00:00	mainboard	add	Duress
+2020-08-02T19:38:06.712+00:00	mainboard	add	Inquisition of Kozilek
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sign in Blood
+2020-08-02T19:38:06.712+00:00	mainboard	add	Transgress the Mind
+2020-08-02T19:38:06.712+00:00	mainboard	add	Read the Bones
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ruinous Path
+2020-08-02T19:38:06.712+00:00	mainboard	add	Languish
+2020-08-02T19:38:06.712+00:00	mainboard	add	Fearsome Awakening
+2020-08-02T19:38:06.712+00:00	mainboard	add	Necromantic Summons
+2020-08-02T19:38:06.712+00:00	mainboard	add	Remorseless Punishment
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ever After
+2020-08-02T19:38:06.712+00:00	mainboard	add	Killing Wave
+2020-08-02T19:38:06.712+00:00	mainboard	add	Black Sun's Zenith
+2020-08-02T19:38:06.712+00:00	mainboard	add	Profane Command
+2020-08-02T19:38:06.712+00:00	mainboard	add	Quest for the Gravelord
+2020-08-02T19:38:06.712+00:00	mainboard	add	Call the Bloodline
+2020-08-02T19:38:06.712+00:00	mainboard	add	Phyrexian Scriptures
+2020-08-02T19:38:06.712+00:00	mainboard	add	Triskaidekaphobia
+2020-08-02T19:38:06.712+00:00	mainboard	add	Brain Maggot
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nightmare Shepherd
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragonmaster Outcast
+2020-08-02T19:38:06.712+00:00	mainboard	add	Goblin Guide
+2020-08-02T19:38:06.712+00:00	mainboard	add	Monastery Swiftspear
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kargan Dragonlord
+2020-08-02T19:38:06.712+00:00	mainboard	add	Plated Geopede
+2020-08-02T19:38:06.712+00:00	mainboard	add	Robber of the Rich
+2020-08-02T19:38:06.712+00:00	mainboard	add	Runaway Steam-Kin
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scourge Wolf
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stormblood Berserker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tilonalli's Summoner
+2020-08-02T19:38:06.712+00:00	mainboard	add	Young Pyromancer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Brazen Scourge
+2020-08-02T19:38:06.712+00:00	mainboard	add	Chandra's Phoenix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jund Battlemage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Legion Warboss
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scab-Clan Berserker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Spellgorger Weird
+2020-08-02T19:38:06.712+00:00	mainboard	add	Taurean Mauler
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thopter Engineer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Akoum Firebird
+2020-08-02T19:38:06.712+00:00	mainboard	add	Pia and Kiran Nalaar
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thunderbreak Regent
+2020-08-02T19:38:06.712+00:00	mainboard	add	Torbran, Thane of Red Fell
+2020-08-02T19:38:06.712+00:00	mainboard	add	Caldera Hellion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Embermaw Hellion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Goblin Dark-Dwellers
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hoarding Dragon
+2020-08-02T19:38:06.712+00:00	mainboard	add	Magmaw
+2020-08-02T19:38:06.712+00:00	mainboard	add	Siege-Gang Commander
+2020-08-02T19:38:06.712+00:00	mainboard	add	Chandra, Torch of Defiance
+2020-08-02T19:38:06.712+00:00	mainboard	add	Koth of the Hammer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sarkhan, the Dragonspeaker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Chandra, Flamecaller
+2020-08-02T19:38:06.712+00:00	mainboard	add	Combustible Gearhulk
+2020-08-02T19:38:06.712+00:00	mainboard	add	Moltensteel Dragon
+2020-08-02T19:38:06.712+00:00	mainboard	add	Burst Lightning
+2020-08-02T19:38:06.712+00:00	mainboard	add	Galvanic Blast
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lightning Bolt
+2020-08-02T19:38:06.712+00:00	mainboard	add	Incinerate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Searing Blaze
+2020-08-02T19:38:06.712+00:00	mainboard	add	Smash to Smithereens
+2020-08-02T19:38:06.712+00:00	mainboard	add	Flame Javelin
+2020-08-02T19:38:06.712+00:00	mainboard	add	Resounding Thunder
+2020-08-02T19:38:06.712+00:00	mainboard	add	Staggershock
+2020-08-02T19:38:06.712+00:00	mainboard	add	Fall of the Titans
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragon Fodder
+2020-08-02T19:38:06.712+00:00	mainboard	add	Pyroclasm
+2020-08-02T19:38:06.712+00:00	mainboard	add	Radiant Flames
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rift Bolt
+2020-08-02T19:38:06.712+00:00	mainboard	add	Relentless Assault
+2020-08-02T19:38:06.712+00:00	mainboard	add	Banefire
+2020-08-02T19:38:06.712+00:00	mainboard	add	Blaze
+2020-08-02T19:38:06.712+00:00	mainboard	add	Burn from Within
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hellion Eruption
+2020-08-02T19:38:06.712+00:00	mainboard	add	Red Sun's Zenith
+2020-08-02T19:38:06.712+00:00	mainboard	add	Goblin Assault
+2020-08-02T19:38:06.712+00:00	mainboard	add	Seismic Assault
+2020-08-02T19:38:06.712+00:00	mainboard	add	Anax, Hardened in the Forge
+2020-08-02T19:38:06.712+00:00	mainboard	add	Birds of Paradise
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gnarlwood Dryad
+2020-08-02T19:38:06.712+00:00	mainboard	add	Llanowar Elves
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scute Mob
+2020-08-02T19:38:06.712+00:00	mainboard	add	Deathcap Cultivator
+2020-08-02T19:38:06.712+00:00	mainboard	add	Druid of the Anima
+2020-08-02T19:38:06.712+00:00	mainboard	add	Duskwatch Recruiter
+2020-08-02T19:38:06.712+00:00	mainboard	add	Fauna Shaman
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gyre Sage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jolrael, Mwonvuli Recluse
+2020-08-02T19:38:06.712+00:00	mainboard	add	Paradise Druid
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rattleclaw Mystic
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scavenging Ooze
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sylvan Advocate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Urborg Elf
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vinelasher Kudzu
+2020-08-02T19:38:06.712+00:00	mainboard	add	Abzan Beastmaster
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nissa, Vastwood Seer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Omnath, Locus of Mana
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tireless Tracker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Undergrowth Champion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Yavimaya Enchantress
+2020-08-02T19:38:06.712+00:00	mainboard	add	Chameleon Colossus
+2020-08-02T19:38:06.712+00:00	mainboard	add	Drove of Elves
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mold Shambler
+2020-08-02T19:38:06.712+00:00	mainboard	add	Soul Swallower
+2020-08-02T19:38:06.712+00:00	mainboard	add	Woodland Wanderer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Acidic Slime
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ant Queen
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mitotic Slime
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mycoloth
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cloudthresher
+2020-08-02T19:38:06.712+00:00	mainboard	add	Primeval Titan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Soul of the Harvest
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ulvenwald Hydra
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ghoultree
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ghalta, Primal Hunger
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nissa, Voice of Zendikar
+2020-08-02T19:38:06.712+00:00	mainboard	add	Naturalize
+2020-08-02T19:38:06.712+00:00	mainboard	add	Harrow
+2020-08-02T19:38:06.712+00:00	mainboard	add	Collected Company
+2020-08-02T19:38:06.712+00:00	mainboard	add	Slice in Twain
+2020-08-02T19:38:06.712+00:00	mainboard	add	Explore
+2020-08-02T19:38:06.712+00:00	mainboard	add	Farseek
+2020-08-02T19:38:06.712+00:00	mainboard	add	Life's Legacy
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cultivate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kodama's Reach
+2020-08-02T19:38:06.712+00:00	mainboard	add	Search for Tomorrow
+2020-08-02T19:38:06.712+00:00	mainboard	add	Explosive Vegetation
+2020-08-02T19:38:06.712+00:00	mainboard	add	Harmonize
+2020-08-02T19:38:06.712+00:00	mainboard	add	Genesis Wave
+2020-08-02T19:38:06.712+00:00	mainboard	add	Oath of Nissa
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rancor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Evolutionary Leap
+2020-08-02T19:38:06.712+00:00	mainboard	add	Fertile Ground
+2020-08-02T19:38:06.712+00:00	mainboard	add	Khalni Heart Expedition
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lignify
+2020-08-02T19:38:06.712+00:00	mainboard	add	Awakening Zone
+2020-08-02T19:38:06.712+00:00	mainboard	add	Frontier Siege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mistmeadow Witch
+2020-08-02T19:38:06.712+00:00	mainboard	add	Reflector Mage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Spell Queller
+2020-08-02T19:38:06.712+00:00	mainboard	add	Swans of Bryn Argoll
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thistledown Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dovin Baan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mirrorweave
+2020-08-02T19:38:06.712+00:00	mainboard	add	Supreme Verdict
+2020-08-02T19:38:06.712+00:00	mainboard	add	Inkfathom Witch
+2020-08-02T19:38:06.712+00:00	mainboard	add	Glen Elendra Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sire of Stagnation
+2020-08-02T19:38:06.712+00:00	mainboard	add	Baleful Strix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tidehollow Strix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Memory Plunder
+2020-08-02T19:38:06.712+00:00	mainboard	add	Deny Reality
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stormfist Crusader
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cryptborn Horror
+2020-08-02T19:38:06.712+00:00	mainboard	add	Murderous Redcap
+2020-08-02T19:38:06.712+00:00	mainboard	add	Swift Warkite
+2020-08-02T19:38:06.712+00:00	mainboard	add	Terminate
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bituminous Blast
+2020-08-02T19:38:06.712+00:00	mainboard	add	Angrath's Rampage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Blightning
+2020-08-02T19:38:06.712+00:00	mainboard	add	Boggart Ram-Gang
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bloodbraid Elf
+2020-08-02T19:38:06.712+00:00	mainboard	add	Boartusk Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragonlair Spider
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragonlord Atarka
+2020-08-02T19:38:06.712+00:00	mainboard	add	Arlinn Kord
+2020-08-02T19:38:06.712+00:00	mainboard	add	Firespout
+2020-08-02T19:38:06.712+00:00	mainboard	add	Emmara, Soul of the Accord
+2020-08-02T19:38:06.712+00:00	mainboard	add	Qasali Pridemage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kitchen Finks
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wilt-Leaf Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragonlord Dromoka
+2020-08-02T19:38:06.712+00:00	mainboard	add	Behemoth Sledge
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mercy Killing
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cruel Celebrant
+2020-08-02T19:38:06.712+00:00	mainboard	add	Deathbringer Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sorin, Grim Nemesis
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tidehollow Sculler
+2020-08-02T19:38:06.712+00:00	mainboard	add	Anguished Unmaking
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mortify
+2020-08-02T19:38:06.712+00:00	mainboard	add	Unmake
+2020-08-02T19:38:06.712+00:00	mainboard	add	Utter End
+2020-08-02T19:38:06.712+00:00	mainboard	add	Fiend Artisan
+2020-08-02T19:38:06.712+00:00	mainboard	add	Catacomb Sifter
+2020-08-02T19:38:06.712+00:00	mainboard	add	Creakwood Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	The Gitrog Monster
+2020-08-02T19:38:06.712+00:00	mainboard	add	Underrealm Lich
+2020-08-02T19:38:06.712+00:00	mainboard	add	Putrefy
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cold-Eyed Selkie
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mystic Snake
+2020-08-02T19:38:06.712+00:00	mainboard	add	Murkfiend Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kiora, Master of the Depths
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nissa, Steward of Elements
+2020-08-02T19:38:06.712+00:00	mainboard	add	Growth Spiral
+2020-08-02T19:38:06.712+00:00	mainboard	add	Biomass Mutation
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bounty of the Luxa
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mindwrack Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nucklavee
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ral, Izzet Viceroy
+2020-08-02T19:38:06.712+00:00	mainboard	add	Brudiclad, Telchor Engineer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Electrolyze
+2020-08-02T19:38:06.712+00:00	mainboard	add	Improbable Alliance
+2020-08-02T19:38:06.712+00:00	mainboard	add	Figure of Destiny
+2020-08-02T19:38:06.712+00:00	mainboard	add	Balefire Liege
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nahiri, the Harbinger
+2020-08-02T19:38:06.712+00:00	mainboard	add	Boros Charm
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lightning Helix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Intimidation Bolt
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rise of the Hobgoblins
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sprouting Thrinax
+2020-08-02T19:38:06.712+00:00	mainboard	add	Broodmate Dragon
+2020-08-02T19:38:06.712+00:00	mainboard	add	Violent Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Knotvine Mystic
+2020-08-02T19:38:06.712+00:00	mainboard	add	Realm Razer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Titanic Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jenara, Asura of War
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rafiq of the Many
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stoic Angel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Zur the Enchanter
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sphinx of the Steel Wind
+2020-08-02T19:38:06.712+00:00	mainboard	add	Brilliant Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sedris, the Traitor King
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cruel Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jodah, Archmage Eternal
+2020-08-02T19:38:06.712+00:00	mainboard	add	Kykar, Wind's Fury
+2020-08-02T19:38:06.712+00:00	mainboard	add	Inspired Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tariel, Reckoner of Souls
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ruinous Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Doran, the Siege Tower
+2020-08-02T19:38:06.712+00:00	mainboard	add	Siege Rhino
+2020-08-02T19:38:06.712+00:00	mainboard	add	Eerie Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sidisi, Brood Tyrant
+2020-08-02T19:38:06.712+00:00	mainboard	add	Emergent Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Maelstrom Wanderer
+2020-08-02T19:38:06.712+00:00	mainboard	add	Genesis Ultimatum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Atraxa, Praetors' Voice
+2020-08-02T19:38:06.712+00:00	mainboard	add	Farfinder
+2020-08-02T19:38:06.712+00:00	mainboard	add	Karn Liberated
+2020-08-02T19:38:06.712+00:00	mainboard	add	Memnite
+2020-08-02T19:38:06.712+00:00	mainboard	add	Signal Pest
+2020-08-02T19:38:06.712+00:00	mainboard	add	Copper Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gold Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hedron Crawler
+2020-08-02T19:38:06.712+00:00	mainboard	add	Iron Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Leaden Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Phyrexian Revoker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scrapheap Scrounger
+2020-08-02T19:38:06.712+00:00	mainboard	add	Silver Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Etched Champion
+2020-08-02T19:38:06.712+00:00	mainboard	add	Palladium Myr
+2020-08-02T19:38:06.712+00:00	mainboard	add	Pilgrim's Eye
+2020-08-02T19:38:06.712+00:00	mainboard	add	Snapsail Glider
+2020-08-02T19:38:06.712+00:00	mainboard	add	Solemn Simulacrum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Treasure Keeper
+2020-08-02T19:38:06.712+00:00	mainboard	add	Steel Hellkite
+2020-08-02T19:38:06.712+00:00	mainboard	add	Thopter Assembly
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hangarback Walker
+2020-08-02T19:38:06.712+00:00	mainboard	add	Everflowing Chalice
+2020-08-02T19:38:06.712+00:00	mainboard	add	Expedition Map
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mana Cylix
+2020-08-02T19:38:06.712+00:00	mainboard	add	Relic of Progenitus
+2020-08-02T19:38:06.712+00:00	mainboard	add	Armillary Sphere
+2020-08-02T19:38:06.712+00:00	mainboard	add	Azorius Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Boros Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cranial Plating
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dimir Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Golgari Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Gruul Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Izzet Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mind Stone
+2020-08-02T19:38:06.712+00:00	mainboard	add	Orzhov Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Prophetic Prism
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rakdos Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Ratchet Bomb
+2020-08-02T19:38:06.712+00:00	mainboard	add	Selesnya Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Simic Signet
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cryptolith Fragment
+2020-08-02T19:38:06.712+00:00	mainboard	add	Darksteel Ingot
+2020-08-02T19:38:06.712+00:00	mainboard	add	Obelisk of Bant
+2020-08-02T19:38:06.712+00:00	mainboard	add	Obelisk of Esper
+2020-08-02T19:38:06.712+00:00	mainboard	add	Obelisk of Grixis
+2020-08-02T19:38:06.712+00:00	mainboard	add	Obelisk of Jund
+2020-08-02T19:38:06.712+00:00	mainboard	add	Obelisk of Naya
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sword of Body and Mind
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sword of Feast and Famine
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sword of Fire and Ice
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sword of Light and Shadow
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sword of War and Peace
+2020-08-02T19:38:06.712+00:00	mainboard	add	Temple Bell
+2020-08-02T19:38:06.712+00:00	mainboard	add	Unstable Obelisk
+2020-08-02T19:38:06.712+00:00	mainboard	add	Whispersilk Cloak
+2020-08-02T19:38:06.712+00:00	mainboard	add	Aligned Hedron Network
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hedron Archive
+2020-08-02T19:38:06.712+00:00	mainboard	add	Seer's Sundial
+2020-08-02T19:38:06.712+00:00	mainboard	add	Eldrazi Monument
+2020-08-02T19:38:06.712+00:00	mainboard	add	Argentum Armor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Arcane Sanctum
+2020-08-02T19:38:06.712+00:00	mainboard	add	Arid Mesa
+2020-08-02T19:38:06.712+00:00	mainboard	add	Badlands
+2020-08-02T19:38:06.712+00:00	mainboard	add	Battlefield Forge
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bayou
+2020-08-02T19:38:06.712+00:00	mainboard	add	Blood Crypt
+2020-08-02T19:38:06.712+00:00	mainboard	add	Bloodstained Mire
+2020-08-02T19:38:06.712+00:00	mainboard	add	Breeding Pool
+2020-08-02T19:38:06.712+00:00	mainboard	add	Canopy Vista
+2020-08-02T19:38:06.712+00:00	mainboard	add	Caves of Koilos
+2020-08-02T19:38:06.712+00:00	mainboard	add	Celestial Colonnade
+2020-08-02T19:38:06.712+00:00	mainboard	add	Cinder Glade
+2020-08-02T19:38:06.712+00:00	mainboard	add	Clifftop Retreat
+2020-08-02T19:38:06.712+00:00	mainboard	add	Creeping Tar Pit
+2020-08-02T19:38:06.712+00:00	mainboard	add	Crumbling Necropolis
+2020-08-02T19:38:06.712+00:00	mainboard	add	Dragonskull Summit
+2020-08-02T19:38:06.712+00:00	mainboard	add	Drowned Catacomb
+2020-08-02T19:38:06.712+00:00	mainboard	add	Emeria, the Sky Ruin
+2020-08-02T19:38:06.712+00:00	mainboard	add	Evolving Wilds
+2020-08-02T19:38:06.712+00:00	mainboard	add	Exotic Orchard
+2020-08-02T19:38:06.712+00:00	mainboard	add	Flooded Strand
+2020-08-02T19:38:06.712+00:00	mainboard	add	Frontier Bivouac
+2020-08-02T19:38:06.712+00:00	mainboard	add	Glacial Fortress
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hallowed Fountain
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hinterland Harbor
+2020-08-02T19:38:06.712+00:00	mainboard	add	Hissing Quagmire
+2020-08-02T19:38:06.712+00:00	mainboard	add	Isolated Chapel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Jungle Shrine
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lavaclaw Reaches
+2020-08-02T19:38:06.712+00:00	mainboard	add	Llanowar Wastes
+2020-08-02T19:38:06.712+00:00	mainboard	add	Lumbering Falls
+2020-08-02T19:38:06.712+00:00	mainboard	add	Marsh Flats
+2020-08-02T19:38:06.712+00:00	mainboard	add	Misty Rainforest
+2020-08-02T19:38:06.712+00:00	mainboard	add	Mystic Monastery
+2020-08-02T19:38:06.712+00:00	mainboard	add	Needle Spires
+2020-08-02T19:38:06.712+00:00	mainboard	add	Nomad Outpost
+2020-08-02T19:38:06.712+00:00	mainboard	add	Opulent Palace
+2020-08-02T19:38:06.712+00:00	mainboard	add	Overgrown Tomb
+2020-08-02T19:38:06.712+00:00	mainboard	add	Plateau
+2020-08-02T19:38:06.712+00:00	mainboard	add	Polluted Delta
+2020-08-02T19:38:06.712+00:00	mainboard	add	Prairie Stream
+2020-08-02T19:38:06.712+00:00	mainboard	add	Raging Ravine
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rogue's Passage
+2020-08-02T19:38:06.712+00:00	mainboard	add	Rootbound Crag
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sacred Foundry
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sandsteppe Citadel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Savage Lands
+2020-08-02T19:38:06.712+00:00	mainboard	add	Savannah
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scalding Tarn
+2020-08-02T19:38:06.712+00:00	mainboard	add	Scrubland
+2020-08-02T19:38:06.712+00:00	mainboard	add	Seaside Citadel
+2020-08-02T19:38:06.712+00:00	mainboard	add	Shambling Vent
+2020-08-02T19:38:06.712+00:00	mainboard	add	Shivan Reef
+2020-08-02T19:38:06.712+00:00	mainboard	add	Smoldering Marsh
+2020-08-02T19:38:06.712+00:00	mainboard	add	Steam Vents
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stirring Wildwood
+2020-08-02T19:38:06.712+00:00	mainboard	add	Stomping Ground
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sulfur Falls
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sunken Hollow
+2020-08-02T19:38:06.712+00:00	mainboard	add	Sunpetal Grove
+2020-08-02T19:38:06.712+00:00	mainboard	add	Taiga
+2020-08-02T19:38:06.712+00:00	mainboard	add	Temple Garden
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tropical Island
+2020-08-02T19:38:06.712+00:00	mainboard	add	Tundra
+2020-08-02T19:38:06.712+00:00	mainboard	add	Underground Sea
+2020-08-02T19:38:06.712+00:00	mainboard	add	Valakut, the Molten Pinnacle
+2020-08-02T19:38:06.712+00:00	mainboard	add	Verdant Catacombs
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vivid Crag
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vivid Creek
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vivid Grove
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vivid Marsh
+2020-08-02T19:38:06.712+00:00	mainboard	add	Vivid Meadow
+2020-08-02T19:38:06.712+00:00	mainboard	add	Volcanic Island
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wandering Fumarole
+2020-08-02T19:38:06.712+00:00	mainboard	add	Watery Grave
+2020-08-02T19:38:06.712+00:00	mainboard	add	Westvale Abbey
+2020-08-02T19:38:06.712+00:00	mainboard	add	Windswept Heath
+2020-08-02T19:38:06.712+00:00	mainboard	add	Wooded Foothills
+2020-08-02T19:38:06.712+00:00	mainboard	add	Woodland Cemetery
+2020-08-02T19:38:06.712+00:00	mainboard	add	Yavimaya Coast
