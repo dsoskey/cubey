@@ -68,6 +68,7 @@ Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Damnation	sld	121	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
 Bitterblossom	uma	85	Owned	~~	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
+Jace, the Mind Sculptor	wwk	31	Owned	~~	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -99,6 +100,7 @@ Scab-Clan Berserker	ori	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yisan, the Wanderer Bard	sld	1196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Keeper	j21	758	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa, God of the Sea	sld	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eidolon of Obstruction	thb	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blue Sun's Zenith	sta	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isareth the Awakener	m19	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -155,6 +157,7 @@ Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Starfield of Nyx	ori	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thopter Foundry	plst	ARB-133	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindwrack Liege	eve	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -166,6 +169,7 @@ Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rift Bolt	f10	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystalline Crawler	cm2	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lighthouse Chronologist	roe	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grand Architect	2xm	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -193,6 +197,7 @@ Genesis Ultimatum	prm	80901	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	prm	37610	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Undergrowth Champion	pbfz	197s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ancestral Vision	jvc	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Necromantic Summons	ori	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -218,6 +223,7 @@ Profane Command	ddh	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Executioner's Capsule	2xm	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brazen Scourge	kld	107†	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Reflecting Pool	pclb	358s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Awakening Zone	roe	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -264,13 +270,17 @@ Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grasp of Darkness	m21	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of Mana	cc1	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Meek	2xm	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tilonalli's Summoner	rix	121	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystical Tutor	dmr	421	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clone	10e	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Murkfiend Liege	2x2	259	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cranial Plating	c16	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -310,6 +320,7 @@ Woodland Cemetery	dmr	401	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glacial Fortress	pxln	255p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crawler	ogw	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Armillary Sphere	cma	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kulrath Knight	shm	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thistledown Liege	shm	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glen Elendra Liege	2x2	217	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Boartusk Liege	2x2	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -321,7 +332,9 @@ Tidehollow Sculler	mma	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Body and Mind	som	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sublime Archangel	uma	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Corrosive Mentor	shm	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Elsha of the Infinite	c19	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Broodmate Dragon	mm3	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kess, Dissident Mage	c17	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zur the Enchanter	pcel	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stoic Angel	mm3	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mistmeadow Witch	cma	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -459,6 +472,7 @@ Rafiq of the Many	2x2	268	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jenara, Asura of War	v15	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Intimidation Bolt	arb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nahiri, the Harbinger	med	WS7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Akiri, Line-Slinger	c16	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nucklavee	eve	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ral, Izzet Viceroy	pana	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Steward of Elements	ps17	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -484,6 +498,7 @@ Murderous Redcap	mma	192	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Angrath's Rampage	war	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dovin Baan	pkld	179s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swans of Bryn Argoll	shm	151	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Taigam, Ojutai Master	pz2	65739	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflector Mage	sld	1108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sire of Stagnation	bfz	206	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deny Reality	pc2	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -526,18 +541,3 @@ Battlefield Forge	ori	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	plst	C21-316	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valakut, the Molten Pinnacle	zen	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlair Spider	pc2	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wall of Frost	m10	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-See Beyond	pca	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Quest for Ancient Secrets	zen	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dictate of Kruphix	prm	52326	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Emeria, the Sky Ruin			~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Snapsail Glider	som	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mana Cylix	con	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kykar, Wind's Fury	pm20	212s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Memory Plunder	clb	849	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Resounding Thunder	ala	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mercy Killing	shm	231	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Underrealm Lich	grn	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Swift Warkite	dtk	233	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Boros Charm	onc	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mirrorweave	cm2	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
