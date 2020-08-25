@@ -65,9 +65,13 @@ Mind Stone	pw21	5	Owned	~~	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	97	Owned	Black	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
+Damnation	sld	121	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
+Bitterblossom	uma	85	Owned	~~	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
+Thalia, Guardian of Thraben	vow	38	Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Anafenza, Kin-Tree Spirit	pdtk	2s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marsh Flats	mh2	248	Owned	~~	Foil	0	W,B	~~	~~	Land
 Misty Rainforest	zne	10	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	~~	~~	Land
@@ -93,6 +97,7 @@ Ever After	psoi	109s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scab-Clan Berserker	ori	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Yisan, the Wanderer Bard	sld	1196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Keeper	j21	758	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eidolon of Obstruction	thb	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blue Sun's Zenith	sta	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -140,6 +145,7 @@ Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	2xm	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Improbable Alliance	eld	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Brimaz, King of Oreskos	sld	497	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	dd2	1★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -234,6 +240,7 @@ Goblin Dark-Dwellers	c20	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Silver Myr	nec	158	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ob Nixilis Reignited	bfz	119	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kenrith, the Returned King	eld	303	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rattleclaw Mystic	pktk	144s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Specter	p06	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -376,6 +383,7 @@ Crib Swap	cm2	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ballynock Cohort	plst	EMA-3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Suppression Bonds	plst	ORI-34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Armored Ascension	m10	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Containment Priest	prm	81918	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 War Priest of Thune	ema	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Murder Investigation	ori	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unstable Obelisk	40k	260★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -533,11 +541,3 @@ Underrealm Lich	grn	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Swift Warkite	dtk	233	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Boros Charm	onc	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirrorweave	cm2	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ant Queen	mm2	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Killing Wave	avr	111	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Quest for the Gravelord	ddr	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kor Spiritdancer	roe	31	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hanweir Militia Captain	soi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Porcelain Legionnaire	nph	19	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Knight of Meadowgrain	lrw	28	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Victory's Herald	cm2	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
