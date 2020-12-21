@@ -69,6 +69,8 @@ Damnation	sld	121	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
 Bitterblossom	uma	85	Owned	~~	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	~~	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Jace, the Mind Sculptor	wwk	31	Owned	~~	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
+Thraben Inspector	2xm	35	Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
+Giver of Runes	mh1	13	Owned	~~	Non-foil	1	W	~~	~~	Creature — Kor Cleric
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -116,6 +118,7 @@ Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wake Thrasher	j22	369	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Fodder	ddg	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Honor of the Pure	ps11	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hokori, Dust Drinker	bok	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vinelasher Kudzu	rav	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spellgorger Weird	j22	605	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thunderbreak Regent	pdtk	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -281,6 +284,7 @@ Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Benalish Marshal	dom	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tilonalli's Summoner	rix	121	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	421	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clone	10e	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -293,6 +297,7 @@ Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Augury Owl	plst	PCA-14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whispersilk Cloak	c16	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eldrazi Monument	plst	CMA-216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tundra	30a	577	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -449,8 +454,3 @@ Pia and Kiran Nalaar	prm	57594	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Embermaw Hellion	pori	141s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hoarding Dragon	m11	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seismic Assault	10e	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Suture Spirit	eve	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Soulsworn Jury	psal	G43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Danitha Capashen, Paragon	plst	DOM-12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Valor	jud	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Battlegrace Angel	mm2	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
