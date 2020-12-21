@@ -71,6 +71,10 @@ Thalia, Guardian of Thraben	vow	38	Owned	~~	Foil	2	W	~~	~~	Legendary Creature �
 Jace, the Mind Sculptor	wwk	31	Owned	~~	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Thraben Inspector	2xm	35	Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
 Giver of Runes	mh1	13	Owned	~~	Non-foil	1	W	~~	~~	Creature — Kor Cleric
+Abrade	vow	139	Owned	Red	Foil	2	R	~~	~~	Instant
+Goblin Rabblemaster	pm15	145	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Warrior
+Kari Zev, Skyship Raider	paer	87s	Owned	Red	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
+Sulfuric Vortex	ema	150	Owned	Red	Non-foil	3	R	~~	~~	Enchantment
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -101,6 +105,7 @@ Ever After	psoi	109s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scab-Clan Berserker	ori	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tormenting Voice	sir	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yisan, the Wanderer Bard	sld	1196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Keeper	j21	758	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thassa, God of the Sea	sld	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -145,6 +150,7 @@ Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -158,6 +164,7 @@ Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gray Merchant of Asphodel	scd	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Burn from Within	psoi	148s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Zurgo Bellstriker	dtk	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Starfield of Nyx	ori	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -171,6 +178,7 @@ Inquisition of Kozilek	sta	31	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Asylum Visitor	soi	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rift Bolt	f10	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thermo-Alchemist	scd	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Crawler	cm2	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -178,6 +186,7 @@ Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lighthouse Chronologist	roe	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grand Architect	2xm	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Call the Bloodline	f16	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relentless Assault	hop	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Genesis Wave	ima	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -445,12 +454,3 @@ Treasure Mage	plst	DDU-40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Frost Titan	pdp12	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Geralf's Masterpiece	sir	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tidebinder Mage	m14	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blaze	9ed	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fall of the Titans	pogw	109s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Scourge Wolf	soi	179	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Smash to Smithereens	f16	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jund Battlemage	ala	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Pia and Kiran Nalaar	prm	57594	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Embermaw Hellion	pori	141s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hoarding Dragon	m11	144	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Seismic Assault	10e	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
