@@ -75,6 +75,7 @@ Abrade	vow	139	Owned	Red	Foil	2	R	~~	~~	Instant
 Goblin Rabblemaster	pm15	145	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Warrior
 Kari Zev, Skyship Raider	paer	87s	Owned	Red	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Sulfuric Vortex	ema	150	Owned	Red	Non-foil	3	R	~~	~~	Enchantment
+Brazen Borrower	eld	39	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -119,6 +120,8 @@ Searing Blaze	wwk	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fiend Artisan	piko	220s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormblood Berserker	e01	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlord Dromoka	2x2	487	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chief Engineer	m15	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wake Thrasher	j22	369	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Fodder	ddg	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -132,6 +135,7 @@ Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sidisi, Brood Tyrant	2x2	276	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -450,7 +454,3 @@ Boggart Ram-Gang	prm	31439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fearsome Awakening	frf	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crowd of Cinders	shm	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Treasure Mage	plst	DDU-40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Frost Titan	pdp12	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Geralf's Masterpiece	sir	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tidebinder Mage	m14	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
