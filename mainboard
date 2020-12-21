@@ -76,6 +76,8 @@ Goblin Rabblemaster	pm15	145	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Warrio
 Kari Zev, Skyship Raider	paer	87s	Owned	Red	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Sulfuric Vortex	ema	150	Owned	Red	Non-foil	3	R	~~	~~	Enchantment
 Brazen Borrower	eld	39	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
+Bomat Courier	kld	199	Owned	~~	Non-foil	1	R	Red	~~	Artifact Creature — Construct
+Smuggler's Copter	pkld	235s	Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -174,6 +176,7 @@ Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Starfield of Nyx	ori	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Foundry	plst	ARB-133	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindwrack Liege	eve	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -187,6 +190,7 @@ Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Crawler	cm2	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lighthouse Chronologist	roe	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grand Architect	2xm	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Call the Bloodline	f16	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -239,6 +243,7 @@ The Gitrog Monster	soi	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Profane Command	ddh	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Executioner's Capsule	2xm	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Radha, Heart of Keld	pm21	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brazen Scourge	kld	107†	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflecting Pool	pclb	358s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -295,6 +300,7 @@ Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -364,6 +370,7 @@ Stoic Angel	mm3	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mistmeadow Witch	cma	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cryptborn Horror	rtr	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolving Wilds	ddo	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ferropede	5dn	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Farseek	c19	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pestilent Spirit	rna	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -431,6 +438,7 @@ Life's Legacy	m15	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ethereal Armor	q06	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Salvage Titan	ala	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cunning Lethemancer	ala	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Winter Orb	fbb	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Part the Waterveil	bfz	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Remove Soul	s99	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Day's Undoing	ori	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -447,10 +455,3 @@ Lumbering Falls	c21	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Fumarole	plst	OGW-182	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Needle Spires	ogw	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sarkhan, the Dragonspeaker	ktk	119	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doran, the Siege Tower	2x2	486	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Farfinder	iko	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Steel Hellkite	prm	37859	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Etched Champion	mm2	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cryptolith Fragment	emn	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Expedition Map	prm	82800	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Boggart Ram-Gang	prm	31439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
