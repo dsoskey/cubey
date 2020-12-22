@@ -82,6 +82,7 @@ Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anafenza, Kin-Tree Spirit	pdtk	2s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Marsh Flats	mh2	248	Owned	~~	Foil	0	W,B	~~	~~	Land
 Misty Rainforest	zne	10	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	~~	~~	Land
@@ -153,7 +154,15 @@ Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Engineer	c21	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	wc04	jn328	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	zen	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	mh2	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	zne	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ons	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	exp	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	exp	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
+Marsh Flats	pmh2	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -319,6 +328,7 @@ Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Augury Owl	plst	PCA-14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whispersilk Cloak	c16	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eldrazi Monument	plst	CMA-216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tundra	30a	577	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -446,13 +456,3 @@ Remove Soul	s99	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Day's Undoing	ori	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ice Cage	m10	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectral Procession	shm	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Celestial Colonnade	puma	U33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Creeping Tar Pit	wwk	134	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lavaclaw Reaches	uma	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Raging Ravine	nec	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Stirring Wildwood	uma	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shambling Vent	clb	914	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hissing Quagmire	ogw	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lumbering Falls	c21	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wandering Fumarole	plst	OGW-182	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Needle Spires	ogw	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
