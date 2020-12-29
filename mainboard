@@ -80,6 +80,7 @@ Bomat Courier	kld	199	Owned	~~	Non-foil	1	R	Red	~~	Artifact Creature — Constru
 Smuggler's Copter	pkld	235s	Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Animate Dead	2ed	93	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
 Wrath of God	dmr	279	Owned	~~	Foil	4	W	~~	~~	Sorcery
+Opposition	uds	40	Owned	~~	Non-foil	4	U	~~	~~	Enchantment
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -109,6 +110,7 @@ Triskaidekaphobia	sir	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Drana, Liberator of Malakir	jmp	225	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ever After	psoi	109s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scab-Clan Berserker	ori	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormenting Voice	sir	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -128,6 +130,7 @@ Fiend Artisan	piko	220s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormblood Berserker	e01	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlord Dromoka	2x2	487	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief Engineer	m15	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Essence Scatter	ddt	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -183,9 +186,11 @@ Improbable Alliance	eld	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brimaz, King of Oreskos	sld	497	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gifts Ungiven	ss1	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	dd2	1★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gray Merchant of Asphodel	scd	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Artist	prm	102245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Burn from Within	psoi	148s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zurgo Bellstriker	dtk	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -200,6 +205,7 @@ Sai, Master Thopterist	m19	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Heartless Act	iko	366	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inquisition of Kozilek	sta	31	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Asylum Visitor	soi	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -453,9 +459,3 @@ Gold Myr	nec	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seer's Sundial	cma	227	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Leaden Myr	som	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	rav	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mind Spring	ddt	14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Oath of Jace	pogw	60s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Breakthrough	2x2	41	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blood Seeker	m12	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ultimate Price	f15	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hideous End	zen	98	~~	~~	~~	"""~~"""	~~	~~	~~	~~
