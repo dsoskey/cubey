@@ -83,6 +83,10 @@ Wrath of God	dmr	279	Owned	~~	Foil	4	W	~~	~~	Sorcery
 Opposition	uds	40	Owned	~~	Non-foil	4	U	~~	~~	Enchantment
 Glorybringer	pakh	134	Owned	Red	Foil	5	R	~~	~~	Creature — Dragon
 Hellrider	dka	93	Owned	Red	Non-foil	4	R	~~	~~	Creature — Devil
+Courser of Kruphix	cp2	6	Owned	~~	Foil	3	G	~~	~~	Enchantment Creature — Centaur
+Lotus Cobra	znr	307	Owned	~~	Foil	2	G	~~	~~	Creature — Snake
+Reclamation Sage	2xm	178	Owned	~~	Foil	3	G	~~	~~	Creature — Elf Shaman
+Garruk Wildspeaker	m11	175	Owned	~~	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -138,6 +142,7 @@ Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Essence Scatter	ddt	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wake Thrasher	j22	369	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Fodder	ddg	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Migration Path	iko	368	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Honor of the Pure	ps11	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hokori, Dust Drinker	bok	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vinelasher Kudzu	rav	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -145,6 +150,7 @@ Spellgorger Weird	j22	605	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thunderbreak Regent	pdtk	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plated Geopede	plst	ZEN-141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Timmy, Power Gamer	und	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa's Pilgrimage	ori	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -159,6 +165,7 @@ Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief of the Foundry	c18	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Advocate	ddu	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
+Kazandu Mammoth	znr	305	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -229,6 +236,7 @@ Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relentless Assault	hop	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Genesis Wave	ima	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explosive Vegetation	dmc	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Setessan Champion	pthb	198p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Vastwood Seer	ps15	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	prm	62511	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of War and Peace	mps	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -243,6 +251,7 @@ Radiant Flames	pbfz	151	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gyre Sage	gtc	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Archive	bfz	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dryad of the Ilysian Grove	pthb	169s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kargan Dragonlord	plst	ROE-152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Delver of Secrets	isd	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	plst	THB-258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -270,6 +279,9 @@ Pyroclasm	10e	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	ima	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonmaster Outcast	afc	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	pgrn	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kogla, the Titan Ape	piko	162p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Roiling Regrowth	znr	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vizier of the Menagerie	pakh	192s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Growth Spiral	prna	178	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	362	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	j22	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -298,6 +310,7 @@ Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valakut Exploration	znr	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Always Watching	psoi	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skinrender	pdci	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -318,11 +331,13 @@ Flame Javelin	prm	35122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Etherium Sculptor	ala	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+The Mending of Dominaria	dom	173	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolutionary Leap	ncc	288	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anguished Unmaking	2x2	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Guardian Project	prna	130s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Collected Company	pw21	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Spy Network	ori	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -339,6 +354,7 @@ Sword of the Meek	2xm	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Discovery	plst	DDR-51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashaya, Soul of the Wild	prm	83778	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -421,6 +437,7 @@ Cryptborn Horror	rtr	212	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolving Wilds	ddo	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ferropede	5dn	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Farseek	c19	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lovestruck Beast	eld	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	prm	57594	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pestilent Spirit	rna	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -443,20 +460,4 @@ Bounty of the Luxa	pakh	196s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Iron Myr	mrd	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Swarm	shm	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Perpetual Timepiece	kld	227	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gnarlwood Dryad	sir	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mitotic Slime	pdci	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Druid of the Anima	ala	128	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Urborg Elf	apc	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mycoloth	c15	192	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Deathcap Cultivator	sir	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cloudthresher	cma	96	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Woodland Wanderer	pbfz	198s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Abzan Beastmaster	prm	55888	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Frontier Siege	scd	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Drove of Elves	dpa	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mold Shambler	c13	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Soul Swallower	psoi	230s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Restore	cma	141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Slice in Twain	c20	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Soul of the Harvest	avr	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Harmonize	c20	173	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Migration Path	iko	368	~~	~~	~~	"""~~"""	~~	~~	~~	~~
