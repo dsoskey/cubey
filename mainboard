@@ -81,6 +81,8 @@ Smuggler's Copter	pkld	235s	Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
 Animate Dead	2ed	93	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
 Wrath of God	dmr	279	Owned	~~	Foil	4	W	~~	~~	Sorcery
 Opposition	uds	40	Owned	~~	Non-foil	4	U	~~	~~	Enchantment
+Glorybringer	pakh	134	Owned	Red	Foil	5	R	~~	~~	Creature — Dragon
+Hellrider	dka	93	Owned	Red	Non-foil	4	R	~~	~~	Creature — Devil
 Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -154,12 +156,14 @@ Sidisi, Brood Tyrant	2x2	276	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chief of the Foundry	c18	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Advocate	ddu	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Leyline Tyrant	znr	348	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra's Phoenix	e01	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Engineer	c21	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -179,6 +183,7 @@ Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Overseer	pm20	239p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	2xm	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -291,9 +296,11 @@ Sharding Sphinx	ala	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 White Sun's Zenith	cmr	391	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Valakut Exploration	znr	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Always Watching	psoi	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Skinrender	pdci	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -338,6 +345,7 @@ Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -425,6 +433,7 @@ Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elite Vanguard	ema	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Story Circle	8ed	50★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Transgress the Mind	bfz	101	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Boros Reckoner	plst	GK1-85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hallowed Burial	cn2	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fertile Ground	lrw	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gatekeeper of Malakir	plst	ZEN-89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -433,6 +442,7 @@ Cold-Eyed Selkie	ddt	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bounty of the Luxa	pakh	196s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Iron Myr	mrd	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Swarm	shm	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Perpetual Timepiece	kld	227	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gnarlwood Dryad	sir	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mitotic Slime	pdci	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Druid of the Anima	ala	128	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -450,12 +460,3 @@ Restore	cma	141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Slice in Twain	c20	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul of the Harvest	avr	195	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Harmonize	c20	173	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Magmaw	roe	158	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Caldera Hellion	ala	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Moltensteel Dragon	nph	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hellion Eruption	pc2	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Aligned Hedron Network	pbfz	222s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gold Myr	nec	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Seer's Sundial	cma	227	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Leaden Myr	som	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lightning Helix	rav	213	~~	~~	~~	"""~~"""	~~	~~	~~	~~
