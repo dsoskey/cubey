@@ -127,6 +127,7 @@ Dragonlord Dromoka	2x2	487	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief Engineer	m15	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Essence Scatter	ddt	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wake Thrasher	j22	369	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragon Fodder	ddg	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Honor of the Pure	ps11	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -140,6 +141,7 @@ Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chart a Course	jmp	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sidisi, Brood Tyrant	2x2	276	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -284,6 +286,7 @@ Hypnotic Specter	p06	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Koth of the Hammer	som	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Javelin	prm	35122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Etherium Sculptor	ala	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -315,6 +318,7 @@ Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Benalish Marshal	dom	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tilonalli's Summoner	rix	121	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	421	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -453,7 +457,3 @@ Ethereal Armor	q06	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Salvage Titan	ala	84	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cunning Lethemancer	ala	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Winter Orb	fbb	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Part the Waterveil	bfz	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Remove Soul	s99	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Day's Undoing	ori	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ice Cage	m10	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
