@@ -895,3 +895,5 @@ Timestamp	Board	ChangeType	Name
 2021-01-20T03:21:19.411+00:00	mainboard	add	Exploration
 2021-01-22T22:29:03.598+00:00	mainboard	add	Willow Satyr
 2021-01-22T22:29:42.363+00:00	mainboard	remove	Willow Satyr
+2021-02-12T21:08:11.779+00:00	mainboard	remove	Hallowed Burial
+2021-02-12T21:08:11.779+00:00	mainboard	add	Doomskar
