@@ -897,3 +897,7 @@ Timestamp	Board	ChangeType	Name
 2021-01-22T22:29:42.363+00:00	mainboard	remove	Willow Satyr
 2021-02-12T21:08:11.779+00:00	mainboard	remove	Hallowed Burial
 2021-02-12T21:08:11.779+00:00	mainboard	add	Doomskar
+2021-02-18T03:43:38.486+00:00	mainboard	remove	Transgress the Mind
+2021-02-18T03:43:38.486+00:00	mainboard	remove	Boros Reckoner
+2021-02-18T03:43:38.486+00:00	mainboard	add	Rise of the Dread Marn
+2021-02-18T03:43:38.486+00:00	mainboard	add	Showdown of the Skalds
