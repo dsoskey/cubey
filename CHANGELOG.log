@@ -901,3 +901,7 @@ Timestamp	Board	ChangeType	Name
 2021-02-18T03:43:38.486+00:00	mainboard	remove	Boros Reckoner
 2021-02-18T03:43:38.486+00:00	mainboard	add	Rise of the Dread Marn
 2021-02-18T03:43:38.486+00:00	mainboard	add	Showdown of the Skalds
+2021-02-19T03:35:59.064+00:00	mainboard	remove	Elite Vanguard
+2021-02-19T03:35:59.064+00:00	mainboard	remove	Story Circle
+2021-02-19T03:35:59.064+00:00	mainboard	add	Usher of the Fallen
+2021-02-19T03:35:59.064+00:00	mainboard	add	Rune of Sustenance
