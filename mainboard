@@ -89,8 +89,9 @@ Reclamation Sage	2xm	178	Owned	~~	Foil	3	G	~~	~~	Creature — Elf Shaman
 Garruk Wildspeaker	m11	175	Owned	~~	Non-foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Uro, Titan of Nature's Wrath	thb	229	Owned	~~	Non-foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Skyclave Shade	znr	298	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
-Forgotten Creation	clb	721	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Argentum Armor	som	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Evolving Wilds	sld	538	Owned	~~	Foil	0	~~	~~	~~	Land
+Sower of Temptation	sld	120	Owned	~~	Foil	4	U	~~	~~	Creature — Faerie Wizard
+Chromatic Lantern	sld	202	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anafenza, Kin-Tree Spirit	pdtk	2s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	~~	~~	Land
@@ -165,7 +166,7 @@ Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	jmp	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sidisi, Brood Tyrant	2x2	276	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -218,7 +219,7 @@ Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rune of Might	khm	191	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Starfield of Nyx	ori	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thopter Foundry	plst	ARB-133	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mindwrack Liege	eve	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -365,7 +366,7 @@ Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grasp of Darkness	m21	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of Mana	cc1	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of the Meek	2xm	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gilded Lotus	pdom	215s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grim Discovery	plst	DDR-51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
