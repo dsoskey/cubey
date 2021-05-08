@@ -125,7 +125,7 @@ Scab-Clan Berserker	ori	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormenting Voice	sir	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yisan, the Wanderer Bard	sld	1196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Perpetual Timepiece	kld	227	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Zephyr Boots	stx	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Keeper	j21	758	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thassa, God of the Sea	sld	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eidolon of Obstruction	thb	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -161,12 +161,12 @@ Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Exploration	2xm	351	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Timmy, Power Gamer	und	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nissa's Pilgrimage	ori	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sequence Engine	c21	394	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Toothy, Imaginary Friend	sld	1049	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chart a Course	jmp	142	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Multiple Choice	stx	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -219,8 +219,8 @@ Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zurgo Bellstriker	dtk	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rune of Might	khm	191	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Starfield of Nyx	ori	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blade Historian	pstx	165p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dramatic Finale	stx	341	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Locust God	plst	C20-219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -309,7 +309,7 @@ Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Executioner's Capsule	2xm	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Radha, Heart of Keld	pm21	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brazen Scourge	kld	107†	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Reflecting Pool	pclb	358s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Awakening Zone	roe	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -348,7 +348,7 @@ Flame Javelin	prm	35122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Etherium Sculptor	ala	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-The Mending of Dominaria	dom	173	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Weather the Storm	sta	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Evolutionary Leap	ncc	288	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -362,15 +362,15 @@ Funeral Longboat	khm	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dusk Urchins	shm	65	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Poet's Quill	pstx	82p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zulaport Cutthroat	sld	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grasp of Darkness	m21	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of Mana	cc1	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gilded Lotus	pdom	215s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Grim Discovery	plst	DDR-51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashaya, Soul of the Wild	prm	83778	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
