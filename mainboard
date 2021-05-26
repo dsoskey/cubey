@@ -94,8 +94,11 @@ Sower of Temptation	sld	120	Owned	~~	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Chromatic Lantern	sld	202	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mutavault	pgpx	2018	Owned	~~	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	~~	Non-foil	3	W	White	~~	Artifact Creature — Soldier
-Temple Bell	c13	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Anafenza, Kin-Tree Spirit	pdtk	2s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mimic Vat	c19	219	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
+Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
+Cyclonic Rift	c14	104	Owned	~~	Non-foil	2	U	~~	~~	Instant
+Control Magic	ema	42	Owned	~~	Foil	4	U	~~	~~	Enchantment — Aura
+Luminarch Aspirant	znr	24	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Cleric
 Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Marsh Flats	mh2	248	Owned	~~	Foil	0	W,B	~~	~~	Land
 Misty Rainforest	zne	10	Owned	~~	Non-foil	0	U,G	~~	~~	Land
@@ -238,7 +241,8 @@ Asylum Visitor	soi	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rift Bolt	f10	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thermo-Alchemist	scd	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rune of Sustenance	khm	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arasta of the Endless Web	thb	325	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Angelic Renewal	wth	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Crawler	cm2	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -251,7 +255,7 @@ Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relentless Assault	hop	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Genesis Wave	ima	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Explosive Vegetation	dmc	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sylvan Awakening	dom	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Setessan Champion	pthb	198p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Vastwood Seer	ps15	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	prm	62511	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -309,7 +313,7 @@ Profane Command	ddh	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Executioner's Capsule	2xm	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Radha, Heart of Keld	pm21	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Brazen Scourge	kld	107†	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Guttersnipe	c19	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Awakening Zone	roe	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -333,6 +337,7 @@ Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Dark-Dwellers	c20	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -345,7 +350,7 @@ Rune of Mortality	khm	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Specter	p06	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Koth of the Hammer	som	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Flame Javelin	prm	35122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Etherium Sculptor	ala	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -359,17 +364,18 @@ Guardian Project	prna	130s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Collected Company	pw21	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Spy Network	ori	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Funeral Longboat	khm	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Poet's Quill	pstx	82p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zulaport Cutthroat	sld	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Grasp of Darkness	m21	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Cast Down	pdom	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Anger of the Gods	plst	IMA-116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omnath, Locus of Mana	cc1	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gilded Lotus	pdom	215s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
