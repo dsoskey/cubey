@@ -117,6 +117,7 @@ Godless Shrine	unf	282	Owned	~~	Foil	0	W,B	~~	~~	Land — Plains Swamp
 Overgrown Tomb	unf	284	Owned	~~	Foil	0	B,G	~~	~~	Land — Swamp Forest
 Sacred Foundry	unf	285	Owned	~~	Foil	0	W,R	~~	~~	Land — Mountain Plains
 Watery Grave	unf	278	Owned	~~	Foil	0	U,B	~~	~~	Land — Island Swamp
+Breeding Pool	unf	286	Owned	~~	Foil	0	U,G	~~	~~	Land — Forest Island
 Steam Vents	unf	283	Owned	~~	Foil	0	U,R	~~	~~	Land — Island Mountain
 Declaration in Stone	ncc	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Remorseless Punishment	plst	OGW-89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -189,7 +190,16 @@ Chandra's Phoenix	e01	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Engineer	c21	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
+Overgrown Tomb	rtr	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Godless Shrine	unf	533	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hallowed Fountain	unf	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Watery Grave	rav	286	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blood Crypt	unf	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Temple Garden	pgrn	258p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Stomping Ground	sld	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sacred Foundry	gtc	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Steam Vents	gpt	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Windswept Heath	wc04	jn328	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arid Mesa	zen	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scalding Tarn	mh2	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -431,22 +441,13 @@ Bayou	leb	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plateau	olgc	2018A	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hell's Caretaker	bchr	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivid Crag	cmd	293	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivid Creek	c15	317	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivid Grove	h09	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivid Marsh	lrw	278	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shimmerdrift Vale	j22	821	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Exotic Orchard	clb	893	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Westvale Abbey	sir	275	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sunpetal Grove	m12	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hinterland Harbor	dmr	396	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Clifftop Retreat	pdom	239p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Isolated Chapel	pdom	241p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Drowned Catacomb	e01	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rootbound Crag	pxln	256s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dragonskull Summit	m11	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sulfur Falls	pdom	247p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Woodland Cemetery	dmr	401	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Glacial Fortress	pxln	255p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hedron Crawler	ogw	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Armillary Sphere	cma	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Polluted Delta	ons	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Verdant Catacombs	mm3	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodstained Mire	exp	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arid Mesa	zen	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Marsh Flats	pmh2	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Windswept Heath	wc04	jn328	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Misty Rainforest	exp	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wooded Foothills	zne	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Tarn	mh2	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
