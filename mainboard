@@ -206,6 +206,8 @@ Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Overseer	pm20	239p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lightning Reaver	arb	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Manamorphose	plst	SHM-211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brudiclad, Telchor Engineer	2xm	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Improbable Alliance	eld	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -277,7 +279,9 @@ Delver of Secrets	isd	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	plst	THB-258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Day of Judgment	m11	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riku of Two Reflections	2xm	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chainer, Nightmare Adept	j21	683	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Consuming Aberration	clb	840	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blind Obedience	gtc	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	prm	37610	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Undergrowth Champion	pbfz	197s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -408,6 +412,7 @@ Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arixmethes, Slumbering Isle	pz2	70715	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Augury Owl	plst	PCA-14	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lazav, Dimir Mastermind	znc	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -443,4 +448,3 @@ Woodland Cemetery	dmr	401	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glacial Fortress	pxln	255p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crawler	ogw	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Armillary Sphere	cma	207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kulrath Knight	shm	190	~~	~~	~~	"""~~"""	~~	~~	~~	~~
