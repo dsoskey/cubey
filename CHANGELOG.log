@@ -1075,3 +1075,70 @@ Timestamp	Board	ChangeType	Name
 2021-05-26T04:44:34.873+00:00	mainboard	add	Watery Grave
 2021-05-26T04:44:34.873+00:00	mainboard	add	Breeding Pool
 2021-05-26T04:44:34.873+00:00	mainboard	add	Steam Vents
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Restoration Angel
+2021-07-03T05:39:02.414+00:00	mainboard	add	Selfless Savior
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Declaration in Stone
+2021-07-03T05:39:02.414+00:00	mainboard	add	Winds of Abandon
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Arrest
+2021-07-03T05:39:02.414+00:00	mainboard	add	Out of Time
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Auramancer
+2021-07-03T05:39:02.414+00:00	mainboard	add	Spirit of the Labyrinth
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Honor of the Pure
+2021-07-03T05:39:02.414+00:00	mainboard	add	Resurgent Belief
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Rune of Flight
+2021-07-03T05:39:02.414+00:00	mainboard	add	Curiosity
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Augury Owl
+2021-07-03T05:39:02.414+00:00	mainboard	add	Vantress Gargoyle
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Toothy, Imaginary Friend
+2021-07-03T05:39:02.414+00:00	mainboard	add	Arcanist's Owl
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Clone
+2021-07-03T05:39:02.414+00:00	mainboard	add	Subtlety
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Remorseless Punishment
+2021-07-03T05:39:02.414+00:00	mainboard	add	Unmarked Grave
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Triskaidekaphobia
+2021-07-03T05:39:02.414+00:00	mainboard	add	Grief
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Drana, Liberator of Malakir
+2021-07-03T05:39:02.414+00:00	mainboard	add	Sedgemoor Witch
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Rune of Mortality
+2021-07-03T05:39:02.414+00:00	mainboard	add	Bastion of Remembrance
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Nightmare Shepherd
+2021-07-03T05:39:02.414+00:00	mainboard	add	Crypt Ghast
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Ever After
+2021-07-03T05:39:02.414+00:00	mainboard	add	Persist
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Ruinous Path
+2021-07-03T05:39:02.414+00:00	mainboard	add	Damn
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Feed the Swarm
+2021-07-03T05:39:02.414+00:00	mainboard	add	Bone Shards
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Leyline Tyrant
+2021-07-03T05:39:02.414+00:00	mainboard	add	Flametongue Yearling
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Scab-Clan Berserker
+2021-07-03T05:39:02.414+00:00	mainboard	add	Soul-Scar Mage
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Dragon Fodder
+2021-07-03T05:39:02.414+00:00	mainboard	add	Roil Eruption
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Legion Warboss
+2021-07-03T05:39:02.414+00:00	mainboard	add	Laelia, the Blade Reforged
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Burn from Within
+2021-07-03T05:39:02.414+00:00	mainboard	add	Glimpse of Tomorrow
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Radiant Flames
+2021-07-03T05:39:02.414+00:00	mainboard	add	Calibrated Blast
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Tormenting Voice
+2021-07-03T05:39:02.414+00:00	mainboard	add	Faithless Salvaging
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Rattleclaw Mystic
+2021-07-03T05:39:02.414+00:00	mainboard	add	Squirrel Sanctuary
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Omnath, Locus of Mana
+2021-07-03T05:39:02.414+00:00	mainboard	add	Esika's Chariot
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Nissa, Voice of Zendikar
+2021-07-03T05:39:02.414+00:00	mainboard	add	Vivien, Monsters' Advocate
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Yisan, the Wanderer Bard
+2021-07-03T05:39:02.414+00:00	mainboard	add	Ramunap Excavator
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Rune of Might
+2021-07-03T05:39:02.414+00:00	mainboard	add	Unknown Card
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Pilgrim's Eye
+2021-07-03T05:39:02.414+00:00	mainboard	add	Academy Manufactor
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Crystalline Crawler
+2021-07-03T05:39:02.414+00:00	mainboard	add	Nettlecyst
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Lazav, Dimir Mastermind
+2021-07-03T05:39:02.414+00:00	mainboard	add	Master of Death
+2021-07-03T05:39:02.414+00:00	mainboard	remove	Kenrith, the Returned King
+2021-07-03T05:39:02.414+00:00	mainboard	add	Sythis, Harvest's Hand
+2021-07-03T05:39:02.414+00:00	mainboard	add	Priest of Fell Rites
