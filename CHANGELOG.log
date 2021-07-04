@@ -1150,3 +1150,5 @@ Timestamp	Board	ChangeType	Name
 2021-07-03T20:31:45.160+00:00	mainboard	add	Steel Hellkite
 2021-07-03T20:31:45.160+00:00	mainboard	remove	Treasure Keeper
 2021-07-03T20:31:45.160+00:00	mainboard	add	Wurmcoil Engine
+2021-07-04T04:35:55.637+00:00	mainboard	remove	Brimaz, King of Oreskos
+2021-07-04T04:35:55.637+00:00	mainboard	add	Ajani Goldmane
