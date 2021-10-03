@@ -133,18 +133,19 @@ Ramunap Excavator	phou	129	Owned	~~	Foil	3	G	~~	~~	Creature — Naga Cleric
 Sensei's Divining Top	2x2	398	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Wurmcoil Engine	psom	223★	Owned	~~	Foil	6	~~	~~	~~	Artifact Creature — Phyrexian Wurm
 Murktide Regent	mh2	337	Owned	~~	Non-foil	7	U	~~	~~	Creature — Dragon
-Eidolon of Obstruction	thb	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomskar	pkhm	9p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mystic Reflection	pkhm	69p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blue Sun's Zenith	sta	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Behold the Multiverse	khm	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Isareth the Awakener	m19	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Yahenni, Undying Partisan	2x2	445	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Taborax, Hope's Demise	pznr	129s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dismember	sld	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Liliana, Death's Majesty	akr	111	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Searing Blaze	wwk	90	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fiend Artisan	piko	220s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Intrepid Adversary	dbl	25	Owned	~~	Non-foil	2	W	~~	~~	Creature — Human Scout
+Spectral Procession	mm2	33	Owned	~~	Foil	3	W	~~	~~	Sorcery
+Lose Focus	mh2	49	Owned	~~	Foil	2	U	~~	~~	Instant
+Consider	mid	388	Owned	~~	Foil	1	U	~~	~~	Instant
+Memory Deluge	mid	62	Owned	~~	Foil	4	U	~~	~~	Instant
+Archon of Cruelty	mh2	342	Owned	~~	Non-foil	8	B	~~	~~	Creature — Archon
+Gutterbones	rna	76	Owned	Black	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
+Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
+Infernal Grasp	mid	107	Owned	~~	Non-foil	2	B	~~	~~	Instant
+Liliana, the Last Hope	emn	93	Owned	~~	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
+Play with Fire	mid	154	Owned	Red	Non-foil	1	R	~~	~~	Instant
+Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
+Spellskite	nph	159	Owned	~~	Non-foil	2	~~	Colorless	~~	Artifact Creature — Phyrexian Horror
 Stormblood Berserker	e01	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonlord Dromoka	2x2	487	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -176,7 +177,7 @@ Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Archangel Avacyn	v17	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Celestial Ancient	dis	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief of the Foundry	c18	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Advocate	ddu	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
@@ -243,7 +244,7 @@ Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Usher of the Fallen	pmei	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Saw It Coming	pwcs	2021-4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+You Find the Villains' Lair	afr	399	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -275,7 +276,7 @@ Sword of War and Peace	mps	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormfist Crusader	eld	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghalta, Primal Hunger	rix	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Endless Horizons	eve	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Candletrap	mid	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirit of the Labyrinth	plst	BNG-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archon of Sun's Grace	thb	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -283,15 +284,16 @@ Calibrated Blast	pmh2	118s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gyre Sage	gtc	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Archive	bfz	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	pthb	169s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kargan Dragonlord	plst	ROE-152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Delver of Secrets	isd	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	plst	THB-258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Day of Judgment	m11	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Riku of Two Reflections	2xm	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Teferi, Who Slows the Sunset	pmid	245s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer, Nightmare Adept	j21	683	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Consuming Aberration	clb	840	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hostage Taker	pxln	223s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Luminarch Ascension	a25	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Burst Lightning	prm	37610	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Undergrowth Champion	pbfz	197s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -318,6 +320,7 @@ Kogla, the Titan Ape	piko	162p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Roiling Regrowth	znr	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vizier of the Menagerie	pakh	192s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Growth Spiral	prna	178	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	362	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	j22	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crypt Ghast	gtc	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -338,22 +341,22 @@ Reliquary Tower	plg20	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesa Enchantress	c15	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clash of Wills	f16	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rhystic Study	cm1	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wizard Class	plst	AFR-81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sharding Sphinx	ala	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 White Sun's Zenith	cmr	391	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valakut Exploration	znr	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Always Watching	psoi	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Skinrender	pdci	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gelatinous Cube	pafr	105p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Supreme Verdict	2x2	280	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Time Wipe	pwar	223p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Dark-Dwellers	c20	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Silver Myr	nec	158	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -367,13 +370,13 @@ Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Koth of the Hammer	som	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Etherium Sculptor	ala	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Spectral Adversary	pmid	77s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Weather the Storm	sta	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Evolutionary Leap	ncc	288	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Anguished Unmaking	2x2	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rite of Oblivion	dbl	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Project	prna	130s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Collected Company	pw21	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -383,9 +386,9 @@ Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Poet's Quill	pstx	82p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghoulish Procession	mid	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zulaport Cutthroat	sld	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tainted Adversary	mid	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cast Down	pdom	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Eldest Reborn	c19	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	plst	IMA-116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -393,7 +396,7 @@ Esika's Chariot	khm	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Agonizing Remorse	thb	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Check for Traps	afr	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashaya, Soul of the Wild	prm	83778	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -401,13 +404,13 @@ Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rakdos Cackler	f13	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Judith, the Scourge Diva	rna	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Benalish Marshal	dom	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Icingdeath, Frost Tyrant	afr	20	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Conspiracy Theorist	pstx	94s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	421	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Subtlety	mh2	309	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -422,7 +425,7 @@ Rise of the Hobgoblins	eve	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rise of the Dread Marn	pkhm	107p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Arixmethes, Slumbering Isle	pz2	70715	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Slogurk, the Overslime	dbl	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	cma	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vantress Gargoyle	peld	71s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -442,14 +445,4 @@ Volcanic Island	leb	287	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bayou	leb	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plateau	olgc	2018A	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hell's Caretaker	bchr	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Polluted Delta	ons	321	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Verdant Catacombs	mm3	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodstained Mire	exp	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Arid Mesa	zen	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Marsh Flats	pmh2	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Windswept Heath	wc04	jn328	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Misty Rainforest	exp	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wooded Foothills	zne	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Scalding Tarn	mh2	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gisa, Glorious Resurrector	pmid	103p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
