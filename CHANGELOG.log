@@ -1244,3 +1244,5 @@ Timestamp	Board	ChangeType	Name
 2021-11-07T22:12:55.293+00:00	mainboard	add	Elixir of Immortality
 2021-11-07T22:12:55.293+00:00	mainboard	add	Apostle's Blessing
 2021-11-07T22:12:55.293+00:00	mainboard	add	Tormod's Crypt
+2021-11-07T22:14:38.149+00:00	mainboard	remove	Academy Rector
+2021-11-07T22:14:38.149+00:00	mainboard	add	Academy Manufactor
