@@ -156,7 +156,7 @@ Memory Lapse	sta	16	Owned	~~	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Gonti, Lord of Luxury	pkld	84s	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Lightning Strike	dmu	137	Owned	~~	Foil	2	R	~~	~~	Instant
-Migration Path	iko	368	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Harmonize	ema	170	Owned	~~	Foil	4	G	~~	~~	Sorcery
 Revoke Existence	ddi	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hokori, Dust Drinker	bok	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vinelasher Kudzu	rav	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -269,7 +269,7 @@ Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Jab	eve	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Genesis Wave	ima	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Awakening	dom	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Setessan Champion	pthb	198p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Primal Adversary	pmid	194s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -338,7 +338,7 @@ Radha, Heart of Keld	pm21	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Awakening Zone	roe	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ulvenwald Mysteries	2xm	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rogue's Passage	ori	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reliquary Tower	plg20	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -384,7 +384,7 @@ Ratchet Bomb	pm14	215★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	dbl	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Project	prna	130s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Collected Company	pw21	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rabid Bite	gn3	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Spy Network	ori	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -432,7 +432,7 @@ No Rest for the Wicked	10e	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	pmh2	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
