@@ -178,7 +178,7 @@ Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Celestial Ancient	dis	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chief of the Foundry	c18	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Academy Rector	wc00	nl1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sylvan Advocate	ddu	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
 Kazandu Mammoth	znr	305	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -216,7 +216,7 @@ Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Steel Overseer	pm20	239p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Reaver	arb	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Manamorphose	plst	SHM-211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -259,6 +259,7 @@ Angelic Renewal	wth	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nettlecyst	j21	752	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Apostle's Blessing	plst	MM2-8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lighthouse Chronologist	roe	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -302,6 +303,7 @@ Necromantic Summons	ori	110	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -341,6 +343,7 @@ Reliquary Tower	plg20	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesa Enchantress	c15	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clash of Wills	f16	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wizard Class	plst	AFR-81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
