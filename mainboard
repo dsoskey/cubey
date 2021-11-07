@@ -154,6 +154,7 @@ Mystic Confluence	tsr	312	Owned	~~	Non-foil	5	U	~~	~~	Instant
 Thirst for Knowledge	f08	9	Owned	~~	Foil	3	U	~~	~~	Instant
 Memory Lapse	sta	16	Owned	~~	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
+Gonti, Lord of Luxury	pkld	84s	Owned	~~	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Roil Eruption	znr	389	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Migration Path	iko	368	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Revoke Existence	ddi	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -228,7 +229,7 @@ Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gifts Ungiven	ss1	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	dd2	1★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dark Ritual	leb	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Unhallowed Pact	cns	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gray Merchant of Asphodel	scd	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Artist	prm	102245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glimpse of Tomorrow	mh2	458	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -245,7 +246,7 @@ Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Usher of the Fallen	pmei	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grazilaxx, Illithid Scholar	clb	723	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oona's Grace	ema	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vendetta	roe	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	366	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -325,10 +326,10 @@ Growth Spiral	prna	178	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	362	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	j22	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Crypt Ghast	gtc	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Brutal Hordechief	pfrf	64s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Khalni Heart Expedition	c18	154	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Gitrog Monster	soi	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Profane Command	ddh	70	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terramorphic Expanse	afc	267	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Executioner's Capsule	2xm	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -399,7 +400,7 @@ Esika's Chariot	khm	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Check for Traps	afr	92	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreadhorde Invasion	war	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ashaya, Soul of the Wild	prm	83778	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -426,12 +427,12 @@ Siren Stormtamer	xln	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rise of the Dread Marn	pkhm	107p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+No Rest for the Wicked	10e	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Diabolic Servitude	cma	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	pmh2	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -449,4 +450,3 @@ Volcanic Island	leb	287	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bayou	leb	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plateau	olgc	2018A	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gisa, Glorious Resurrector	pmid	103p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
