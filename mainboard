@@ -147,7 +147,7 @@ Play with Fire	mid	154	Owned	Red	Non-foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Spellskite	nph	159	Owned	~~	Non-foil	2	~~	Colorless	~~	Artifact Creature — Phyrexian Horror
 Bloodthirsty Adversary	mid	129	Owned	Red	Non-foil	2	R	~~	~~	Creature — Vampire
-Dragonlord Dromoka	2x2	487	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Qasali Pridemage	2x2	386	Owned	~~	Foil	2	W,G	~~	~~	Creature — Cat Wizard
 Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chief Engineer	m15	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -217,10 +217,10 @@ Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lightning Reaver	arb	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Orcus, Prince of Undeath	afr	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Manamorphose	plst	SHM-211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Brudiclad, Telchor Engineer	2xm	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ral, Izzet Viceroy	pana	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Improbable Alliance	eld	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -236,9 +236,9 @@ Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zurgo Bellstriker	dtk	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unknown Card			~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blade Historian	pstx	165p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dramatic Finale	stx	341	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nahiri, the Harbinger	med	WS7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurrus of the Dream-Den	iko	355	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Yorion, Sky Nomad	piko	232s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Locust God	plst	C20-219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -425,11 +425,11 @@ Gingerbrute	jmp	466	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cursecatcher	shm	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rise of the Hobgoblins	eve	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rise of the Dread Marn	pkhm	107p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Slogurk, the Overslime	dbl	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	cma	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vantress Gargoyle	peld	71s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
