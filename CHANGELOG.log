@@ -1262,3 +1262,7 @@ Timestamp	Board	ChangeType	Name
 2021-11-07T22:38:11.417+00:00	mainboard	add	Qasali Pridemage
 2021-11-07T22:38:11.417+00:00	mainboard	remove	Slogurk, the Overslime
 2021-11-07T22:38:11.417+00:00	mainboard	add	Torrent Elemental
+2021-11-07T22:44:08.132+00:00	mainboard	remove	Candletrap
+2021-11-07T22:44:08.132+00:00	mainboard	add	Soul Snare
+2021-11-07T22:44:08.132+00:00	mainboard	remove	Resurgent Belief
+2021-11-07T22:44:08.132+00:00	mainboard	add	Revoke Existence
