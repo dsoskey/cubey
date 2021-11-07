@@ -148,12 +148,12 @@ Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswal
 Spellskite	nph	159	Owned	~~	Non-foil	2	~~	Colorless	~~	Artifact Creature — Phyrexian Horror
 Bloodthirsty Adversary	mid	129	Owned	Red	Non-foil	2	R	~~	~~	Creature — Vampire
 Qasali Pridemage	2x2	386	Owned	~~	Foil	2	W,G	~~	~~	Creature — Cat Wizard
-Glint-Nest Crane	klr	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Chief Engineer	m15	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Reality Acid	plc	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Essence Scatter	ddt	6	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wake Thrasher	j22	369	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Looter il-Kor	tsr	74	Owned	~~	Foil	2	U	~~	~~	Creature — Kor Rogue
+Chart a Course	jmp	142	Owned	~~	Non-foil	2	U	~~	~~	Sorcery
+Mystic Confluence	tsr	312	Owned	~~	Non-foil	5	U	~~	~~	Instant
+Thirst for Knowledge	f08	9	Owned	~~	Foil	3	U	~~	~~	Instant
+Memory Lapse	sta	16	Owned	~~	Foil	2	U	~~	~~	Instant
+Vendilion Clique	a25	76	Owned	~~	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Roil Eruption	znr	389	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Migration Path	iko	368	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Revoke Existence	ddi	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -243,8 +243,8 @@ The Locust God	plst	C20-219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Usher of the Fallen	pmei	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sai, Master Thopterist	m19	69	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-You Find the Villains' Lair	afr	399	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Grazilaxx, Illithid Scholar	clb	723	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Oona's Grace	ema	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doom Blade	m12	95	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -341,10 +341,10 @@ Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rogue's Passage	ori	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reliquary Tower	plg20	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mesa Enchantress	c15	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Clash of Wills	f16	2	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Miscalculation	ulg	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wizard Class	plst	AFR-81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 White Sun's Zenith	cmr	391	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -422,7 +422,7 @@ Phylath, World Sculptor	prm	83720	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cranial Plating	c16	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	c15	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gingerbrute	jmp	466	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cursecatcher	shm	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Siren Stormtamer	xln	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -432,7 +432,7 @@ Search for Tomorrow	cmr	436	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Protean Hulk	a25	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	cma	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vantress Gargoyle	peld	71s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	pmh2	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
