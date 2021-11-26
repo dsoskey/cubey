@@ -1338,3 +1338,7 @@ Timestamp	Board	ChangeType	Name
 2021-11-08T00:44:42.774+00:00	mainboard	remove	Plateau
 2021-11-08T00:44:42.774+00:00	mainboard	remove	Tropical Island
 2021-11-08T00:57:53.973+00:00	mainboard	remove	Whispersilk Cloak
+2021-11-26T19:57:06.316+00:00	mainboard	remove	Mesa Enchantress
+2021-11-26T19:57:06.316+00:00	mainboard	add	Mentor of the Meek
+2021-11-26T19:57:06.316+00:00	mainboard	remove	Revoke Existence
+2021-11-26T19:57:06.316+00:00	mainboard	add	Disenchant
