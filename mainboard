@@ -160,8 +160,8 @@ Harmonize	ema	170	Owned	~~	Foil	4	G	~~	~~	Sorcery
 Wall of Roots	p30a	4	Owned	~~	Foil	2	G	~~	~~	Creature — Plant Wall
 Disenchant	p07	6	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
-Hokori, Dust Drinker	bok	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vinelasher Kudzu	rav	189	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Restoration Angel	pavr	32★	Owned	~~	Foil	4	W	~~	~~	Creature — Angel
+Fiend Artisan	iko	220	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Nightmare
 Spellgorger Weird	j22	605	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thunderbreak Regent	pdtk	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Plated Geopede	plst	ZEN-141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -287,7 +287,7 @@ Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gyre Sage	gtc	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hedron Archive	bfz	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	pthb	169s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kargan Dragonlord	plst	ROE-152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -415,7 +415,7 @@ Judith, the Scourge Diva	rna	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Explore	sld	114	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Icingdeath, Frost Tyrant	afr	20	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Conspiracy Theorist	pstx	94s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -430,7 +430,7 @@ Siren Stormtamer	xln	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-No Rest for the Wicked	10e	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Soul Shatter	znr	127	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curse of Predation	c13	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
