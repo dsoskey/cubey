@@ -172,7 +172,7 @@ Oracle of Mul Daya	jmp	415	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	mh1	161	Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
 Once Upon a Time	peld	169s	Owned	~~	Foil	2	G	~~	~~	Instant
 Pest Infestation	c21	65	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
-Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Giant Killer	eld	275	Owned	~~	Foil	1	W	~~	~~	Creature — Human Peasant
 Arcanist's Owl	nec	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multiple Choice	stx	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -280,7 +280,7 @@ Vivien, Monsters' Advocate	iko	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of War and Peace	mps	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormfist Crusader	eld	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghalta, Primal Hunger	rix	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Imposing Sovereign	m14	22	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Katilda, Dawnhart Martyr	vow	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Snare	scd	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirit of the Labyrinth	plst	BNG-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archon of Sun's Grace	thb	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -353,11 +353,11 @@ Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-White Sun's Zenith	cmr	391	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Always Watching	psoi	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gelatinous Cube	pafr	105p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -420,7 +420,7 @@ Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Icingdeath, Frost Tyrant	afr	20	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Cemetery Protector	prm	95271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Conspiracy Theorist	pstx	94s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Intervene	ulg	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Subtlety	mh2	309	~~	~~	~~	"""~~"""	~~	~~	~~	~~
