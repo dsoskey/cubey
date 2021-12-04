@@ -173,10 +173,10 @@ Deep Forest Hermit	mh1	161	Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
 Once Upon a Time	peld	169s	Owned	~~	Foil	2	G	~~	~~	Instant
 Pest Infestation	c21	65	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Giant Killer	eld	275	Owned	~~	Foil	1	W	~~	~~	Creature — Human Peasant
-Arcanist's Owl	nec	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Multiple Choice	stx	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Animating Faerie	eld	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ethereal Forager	c20	34	Owned	~~	Non-foil	6	U	~~	~~	Creature — Elemental Whale
+Jace, Vryn's Prodigy	ori	60	Owned	~~	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
+Remand	rav	63	Owned	~~	Non-foil	2	U	~~	~~	Instant
+Frantic Search	dmr	285	Owned	~~	Foil	3	U	~~	~~	Instant
 Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani's Chosen	c15	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -266,7 +266,7 @@ Nettlecyst	j21	752	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Apostle's Blessing	plst	MM2-8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Lighthouse Chronologist	roe	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pteramander	rna	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Illuminator	vow	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -304,7 +304,7 @@ Luminarch Ascension	a25	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pit Fight	gk2	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Champion of Lambholt	mic	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ancestral Vision	jvc	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cling to Dust	thb	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -352,7 +352,7 @@ Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Stormwing Entity	m21	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -409,7 +409,7 @@ Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadhorde Invasion	war	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Geralf, Visionary Stitcher	pvow	61s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
