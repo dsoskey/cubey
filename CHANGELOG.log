@@ -1403,3 +1403,5 @@ Timestamp	Board	ChangeType	Name
 2021-12-04T02:37:34.108+00:00	mainboard	add	Reckless Impulse
 2021-12-04T02:46:22.569+00:00	mainboard	remove	Plated Geopede
 2021-12-04T02:46:22.569+00:00	mainboard	add	Firebolt
+2021-12-04T02:46:22.794+00:00	mainboard	remove	Plated Geopede
+2021-12-04T02:46:22.794+00:00	mainboard	add	Firebolt
