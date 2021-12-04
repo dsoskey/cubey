@@ -1468,3 +1468,5 @@ Timestamp	Board	ChangeType	Name
 2021-12-04T04:22:44.078+00:00	mainboard	add	Stormwing Entity
 2021-12-04T04:50:29.265+00:00	mainboard	remove	Assassin's Trophy
 2021-12-04T04:50:29.265+00:00	mainboard	add	Warden of the First Tree
+2021-12-04T05:20:37.910+00:00	mainboard	remove	Ral, Izzet Viceroy
+2021-12-04T05:20:37.910+00:00	mainboard	add	Ral, Storm Conduit
