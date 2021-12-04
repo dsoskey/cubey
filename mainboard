@@ -166,12 +166,12 @@ Smoldering Egg	mid	159	Owned	~~	Foil	2	R	~~	~~	Creature — Dragon Egg
 Manaform Hellkite	vow	170	Owned	~~	Non-foil	4	R	~~	~~	Creature — Dragon
 Firebolt	f07	1	Owned	~~	Foil	1	R	~~	~~	Sorcery
 Plaguecrafter	sld	1116	Owned	~~	Foil	3	B	~~	~~	Creature — Human Shaman
-Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Exploration	2xm	351	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Timmy, Power Gamer	und	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ulvenwald Hydra	jmp	439	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sequence Engine	c21	394	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ascendant Packleader	vow	186	Owned	~~	Non-foil	1	G	~~	~~	Creature — Wolf
+Mirri's Guile	tmp	236	Owned	~~	Non-foil	1	G	~~	~~	Enchantment
+Oracle of Mul Daya	jmp	415	Owned	~~	Non-foil	4	G	~~	~~	Creature — Elf Shaman
+Deep Forest Hermit	mh1	161	Owned	~~	Non-foil	5	G	~~	~~	Creature — Elf Druid
+Once Upon a Time	peld	169s	Owned	~~	Foil	2	G	~~	~~	Instant
+Pest Infestation	c21	65	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Thalia, Heretic Cathar	prm	61545	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcanist's Owl	nec	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Baral, Chief of Compliance	plst	TSR-306	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -287,7 +287,7 @@ Archon of Sun's Grace	thb	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gyre Sage	gtc	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sanctum Weaver	mh2	462	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Invitation	dbl	527	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -382,14 +382,14 @@ Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mind Control	pdci	30	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectral Adversary	pmid	77s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Weather the Storm	sta	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Song of the Dryads	plst	C14-47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rite of Oblivion	dbl	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guardian Project	prna	130s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rabid Bite	gn3	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ram Through	j22	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Slow Motion	ulg	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -408,7 +408,7 @@ Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadhorde Invasion	war	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ashaya, Soul of the Wild	prm	83778	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Etherium	2xm	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sir	244	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
