@@ -1448,3 +1448,5 @@ Timestamp	Board	ChangeType	Name
 2021-12-04T03:49:00.535+00:00	mainboard	add	Ephemerate
 2021-12-04T03:49:00.535+00:00	mainboard	remove	Thalia, Heretic Cathar
 2021-12-04T03:49:00.535+00:00	mainboard	add	Giant Killer
+2021-12-04T03:50:48.054+00:00	mainboard	remove	Day of Judgment
+2021-12-04T03:50:48.054+00:00	mainboard	add	By Invitation Only
