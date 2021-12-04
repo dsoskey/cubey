@@ -162,8 +162,8 @@ Disenchant	p07	6	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Restoration Angel	pavr	32★	Owned	~~	Foil	4	W	~~	~~	Creature — Angel
 Fiend Artisan	iko	220	Owned	~~	Non-foil	2	B,G	~~	~~	Creature — Nightmare
-Spellgorger Weird	j22	605	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thunderbreak Regent	pdtk	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Smoldering Egg	mid	159	Owned	~~	Foil	2	R	~~	~~	Creature — Dragon Egg
+Manaform Hellkite	vow	170	Owned	~~	Non-foil	4	R	~~	~~	Creature — Dragon
 Plated Geopede	plst	ZEN-141	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Varragoth, Bloodsky Sire	prm	88278	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scute Mob	c18	161	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -192,7 +192,7 @@ Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Gatekeeper	vow	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra's Phoenix	e01	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Hellkite	prm	37859	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thopter Engineer	c21	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Falkenrath Pit Fighter	pmid	137s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Overgrown Tomb	rtr	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Godless Shrine	unf	533	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -236,7 +236,7 @@ Gray Merchant of Asphodel	scd	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Artist	prm	102245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grapeshot	tsp	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Zurgo Bellstriker	dtk	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kessig Wolfrider	vow	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unknown Card			~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nahiri, the Harbinger	med	WS7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -290,7 +290,7 @@ Gyre Sage	gtc	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	pthb	169s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Kargan Dragonlord	plst	ROE-152	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cosi's Trickster	zen	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	plst	THB-258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Day of Judgment	m11	12	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -299,7 +299,7 @@ Chainer, Nightmare Adept	j21	683	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostage Taker	pxln	223s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Luminarch Ascension	a25	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Burst Lightning	prm	37610	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pit Fight	gk2	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Champion of Lambholt	mic	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ancestral Vision	jvc	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -354,7 +354,7 @@ Sludge Monster	pmid	76s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 White Sun's Zenith	cmr	391	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Valakut Exploration	znr	175	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Always Watching	psoi	1s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gelatinous Cube	pafr	105p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
