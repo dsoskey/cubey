@@ -1486,3 +1486,7 @@ Timestamp	Board	ChangeType	Name
 2021-12-05T06:10:49.931+00:00	mainboard	add	Dire Fleet Daredevil
 2021-12-05T06:10:49.931+00:00	mainboard	remove	Academy Manufactor
 2021-12-05T06:10:49.931+00:00	mainboard	add	Hanweir Garrison
+2021-12-05T06:19:40.183+00:00	mainboard	remove	Sylvan Advocate
+2021-12-05T06:19:40.183+00:00	mainboard	add	Joraga Treespeaker
+2021-12-05T06:19:40.183+00:00	mainboard	remove	Kazandu Mammoth
+2021-12-05T06:19:40.183+00:00	mainboard	add	Sakura-Tribe Elder
