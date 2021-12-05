@@ -185,7 +185,16 @@ Hanweir Garrison	emn	130a	Owned	~~	Foil	3	R	~~	~~	Creature — Human Soldier
 Joraga Treespeaker	roe	190	Owned	~~	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
 Sakura-Tribe Elder	f09	12	Owned	~~	Foil	2	G	~~	~~	Creature — Snake Shaman
+Lavaclaw Reaches	wwk	139	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
+Wandering Fumarole	ogw	182	Owned	~~	Non-foil	0	R,U	~~	~~	Land
+Hissing Quagmire	ogw	171	Owned	~~	Non-foil	0	B,G	~~	~~	Land
+Creeping Tar Pit	zne	24	Owned	~~	Foil	0	U,B	~~	~~	Land
+Needle Spires	ogw	175	Owned	~~	Non-foil	0	R,W	~~	~~	Land
+Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	~~	~~	Land
+Lumbering Falls	bfz	239	Owned	~~	Non-foil	0	U,G	~~	~~	Land
+Shambling Vent	bfz	244	Owned	~~	Non-foil	0	B,W	~~	~~	Land
+Tectonic Edge	f12	3	Owned	~~	Foil	0	~~	~~	~~	Land
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -227,6 +236,7 @@ Ral, Storm Conduit	pwar	211s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Improbable Alliance	eld	193	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ghost Quarter	plst	CM2-253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gifts Ungiven	ss1	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -267,9 +277,12 @@ Apostle's Blessing	plst	MM2-8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pteramander	rna	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Savage Lands	ncc	424	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Illuminator	vow	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jungle Shrine	c13	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Opulent Palace	cm2	260	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Jab	eve	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -285,6 +298,7 @@ Soul Snare	scd	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 War Priest of Thune	ema	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archon of Sun's Grace	thb	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sandsteppe Citadel	prm	57606	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanctum Weaver	mh2	462	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -313,12 +327,15 @@ Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Field of Ruin	thb	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nomad Outpost	sld	465	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire Triton	thb	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Seaside Citadel	cm2	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Flamecaller	ogw	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	10e	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	ima	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -367,6 +384,7 @@ Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Wipe	pwar	223p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Crumbling Necropolis	40k	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Dark-Dwellers	c20	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Steward of Elements	akh	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -375,13 +393,21 @@ Jolrael, Mwonvuli Recluse	dmr	343	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sythis, Harvest's Hand	mh2	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Squirrel Sanctuary	j21	645	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Glacial Fortress	m10	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dragonskull Summit	m11	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rootbound Crag	m12	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Isolated Chapel	md1	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hinterland Harbor	isd	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Specter	p06	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Koth of the Hammer	som	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sulfur Falls	dom	247	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Azcanta	pxtc	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectral Adversary	pmid	77s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Frontier Bivouac	40k	281	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Sanctum	40k	264★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	plst	C14-47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -393,6 +419,10 @@ Ram Through	j22	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Slow Motion	ulg	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Drowned Catacomb	m11	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sunpetal Grove	m12	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Woodland Cemetery	isd	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Clifftop Retreat	isd	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -440,6 +470,7 @@ Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mystic Monastery	c17	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	pmh2	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
