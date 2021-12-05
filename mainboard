@@ -197,6 +197,8 @@ Shambling Vent	bfz	244	Owned	~~	Non-foil	0	B,W	~~	~~	Land
 Tectonic Edge	f12	3	Owned	~~	Foil	0	~~	~~	~~	Land
 Day of Judgment	p11	1	Owned	~~	Foil	4	W	~~	~~	Sorcery
 Spirit of the Labyrinth	bng	27	Owned	~~	Non-foil	2	W	~~	~~	Enchantment Creature — Spirit
+Sol Ring	pf19	7	Owned	~~	Foil	1	~~	~~	~~	Artifact
+Zurgo Bellstriker	dtk	169	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -256,6 +258,7 @@ Lurrus of the Dream-Den	iko	355	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	piko	232s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Locust God	plst	C20-219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jack-o'-Lantern	dbl	254	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hopeful Initiate	pvow	20s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -277,7 +280,9 @@ Prophetic Prism	kld	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nettlecyst	j21	752	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Apostle's Blessing	plst	MM2-8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrolyze	sta	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dreadbore	e01	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Anguished Unmaking	2x2	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pteramander	rna	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Savage Lands	ncc	424	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -305,6 +310,7 @@ Sandsteppe Citadel	prm	57606	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanctum Weaver	mh2	462	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Assassin's Trophy	prm	102307	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Invitation	dbl	527	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -341,6 +347,7 @@ Knight of the Ebon Legion	m20	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seaside Citadel	cm2	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Flamecaller	ogw	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	10e	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blasphemous Act	ncc	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Staggershock	ima	147	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonmaster Outcast	afc	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sinister Sabotage	pgrn	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -376,6 +383,7 @@ Stormwing Entity	m21	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Eerie Interlude	soi	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -470,6 +478,7 @@ Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Shatter	znr	127	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nissa, Vastwood Seer	v17	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curse of Predation	c13	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
