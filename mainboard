@@ -208,6 +208,7 @@ Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Dig Through Time	plg21	2	Owned	~~	Foil	8	U	~~	~~	Instant
 Sword of Hearth and Home	mh2	238	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
+Thran Dynamo	sld	483	Owned	~~	Foil	4	~~	~~	~~	Artifact
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -225,6 +226,7 @@ Watery Grave	rav	286	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Crypt	unf	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Temple Garden	pgrn	258p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stomping Ground	sld	126	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Knight-Captain of Eos	ala	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Moldgraf Monstrosity	c18	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sacred Foundry	gtc	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -248,6 +250,7 @@ Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	pori	127s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Orcus, Prince of Undeath	afr	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -259,6 +262,7 @@ Sprite Dragon	iko	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shardless Agent	mh2	423	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Funeral Longboat	khm	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Quarter	plst	CM2-253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -282,6 +286,7 @@ Jack-o'-Lantern	dbl	254	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Treasure Keeper	j21	758	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hopeful Initiate	pvow	20s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Grazilaxx, Illithid Scholar	clb	723	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oona's Grace	ema	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -361,8 +366,10 @@ Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Betrayal	vis	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Declaration in Stone	ncc	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Candletrap	mid	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Field of Ruin	thb	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nomad Outpost	sld	465	~~	~~	~~	"""~~"""	~~	~~	~~	~~
