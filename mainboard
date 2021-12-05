@@ -241,9 +241,11 @@ Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Abbot of Keral Keep	pori	127s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -415,6 +417,7 @@ Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eerie Interlude	soi	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tormenting Voice	sir	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -425,7 +428,9 @@ Gelatinous Cube	pafr	105p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Investigator's Journal	vow	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Electrostatic Field	grn	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mutiny	rix	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Time Wipe	pwar	223p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -498,6 +503,7 @@ Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pia and Kiran Nalaar	ori	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Protector	prm	95271	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dire Fleet Daredevil	rix	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Intervene	ulg	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
