@@ -199,6 +199,9 @@ Day of Judgment	p11	1	Owned	~~	Foil	4	W	~~	~~	Sorcery
 Spirit of the Labyrinth	bng	27	Owned	~~	Non-foil	2	W	~~	~~	Enchantment Creature — Spirit
 Sol Ring	pf19	7	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Zurgo Bellstriker	dtk	169	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
+Dragonlord Atarka	dtk	216	Owned	~~	Non-foil	7	G,R	~~	~~	Legendary Creature — Elder Dragon
+Rakdos Cackler	gk2	67	Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
+Deathrite Shaman	rtr	213	Owned	~~	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -232,13 +235,16 @@ Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Havengul Lich	sis	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Orcus, Prince of Undeath	afr	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Manamorphose	plst	SHM-211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Armada Wurm	gk1	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ral, Storm Conduit	pwar	211s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sprite Dragon	iko	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Shardless Agent	mh2	423	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Quarter	plst	CM2-253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -253,6 +259,7 @@ Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kessig Wolfrider	vow	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kodama's Reach	uma	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unknown Card			~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Glory of Warfare	arb	98	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nahiri, the Harbinger	med	WS7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurrus of the Dream-Den	iko	355	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	piko	232s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -356,6 +363,7 @@ Roiling Regrowth	znr	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vizier of the Menagerie	pakh	192s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Growth Spiral	prna	178	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Biomass Mutation	c19	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	362	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Alseid of Life's Bounty	j22	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brutal Hordechief	pfrf	64s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
