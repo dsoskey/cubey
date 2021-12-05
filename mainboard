@@ -206,6 +206,7 @@ Dragon's Rage Channeler	mh2	121	Owned	~~	Foil	1	R	~~	~~	Creature — Human Shama
 Dismember	f12	4	Owned	~~	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
+Dig Through Time	plg21	2	Owned	~~	Foil	8	U	~~	~~	Instant
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -236,6 +237,7 @@ Bloodstained Mire	exp	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Misty Rainforest	exp	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Marsh Flats	pmh2	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -257,6 +259,7 @@ Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghost Quarter	plst	CM2-253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Distortion Strike	roe	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gifts Ungiven	ss1	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace Beleren	dd2	1★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unhallowed Pact	cns	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -337,6 +340,7 @@ Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cosi's Trickster	zen	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Daxos, Blessed by the Sun	plst	THB-258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 By Invitation Only	vow	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mark of Eviction	rav	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brago, King Eternal	vma	246	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer, Nightmare Adept	j21	683	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -352,6 +356,7 @@ Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Betrayal	vis	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -389,9 +394,11 @@ Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terramorphic Expanse	afc	267	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deadly Dispute	afr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Radha, Heart of Keld	pm21	224s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Draining Whelk	tsr	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Curfew	brb	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ulvenwald Mysteries	2xm	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rogue's Passage	ori	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -402,12 +409,14 @@ Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stormwing Entity	m21	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eerie Interlude	soi	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -512,6 +521,7 @@ Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Monastery	c17	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master of Death	pmh2	205s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Exclude	mh1	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
