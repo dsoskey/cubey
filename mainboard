@@ -203,6 +203,9 @@ Dragonlord Atarka	dtk	216	Owned	~~	Non-foil	7	G,R	~~	~~	Legendary Creature — E
 Rakdos Cackler	gk2	67	Owned	~~	Non-foil	1	B,R	~~	~~	Creature — Devil
 Deathrite Shaman	rtr	213	Owned	~~	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
 Dragon's Rage Channeler	mh2	121	Owned	~~	Foil	1	R	~~	~~	Creature — Human Shaman
+Dismember	f12	4	Owned	~~	Foil	3	~~	Colorless	~~	Instant
+Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
+Drana, Liberator of Malakir	bfz	109	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Flametongue Kavu	dmr	432	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoultree	dka	115	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chameleon Colossus	afc	153	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -230,6 +233,7 @@ Bloodstained Mire	exp	18	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Misty Rainforest	exp	25	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Marsh Flats	pmh2	248s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -274,6 +278,7 @@ Grazilaxx, Illithid Scholar	clb	723	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Oona's Grace	ema	63	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vendetta	roe	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heartless Act	iko	366	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inquisition of Kozilek	sta	31	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
@@ -340,6 +345,7 @@ Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cling to Dust	thb	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -352,6 +358,7 @@ Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire Triton	thb	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadar, Ghoulcaller of Nephalia	pmid	108s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Isareth the Awakener	m19	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seaside Citadel	cm2	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
