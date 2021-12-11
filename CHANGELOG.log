@@ -1606,3 +1606,5 @@ Timestamp	Board	ChangeType	Name
 2021-12-08T07:07:43.682+00:00	mainboard	add	Avenger of Zendikar
 2021-12-08T07:07:43.682+00:00	mainboard	remove	Chameleon Colossus
 2021-12-08T07:07:43.682+00:00	mainboard	add	Elvish Mystic
+2021-12-11T17:54:21.682+00:00	mainboard	remove	Cemetery Gatekeeper
+2021-12-11T17:54:21.682+00:00	mainboard	add	Blade Splicer
