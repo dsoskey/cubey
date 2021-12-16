@@ -1628,3 +1628,5 @@ Timestamp	Board	ChangeType	Name
 2021-12-11T18:36:46.241+00:00	mainboard	add	Thief of Sanity
 2021-12-16T06:07:40.760+00:00	mainboard	remove	Unhallowed Pact
 2021-12-16T06:07:40.760+00:00	mainboard	add	Bone Picker
+2021-12-16T06:10:18.187+00:00	mainboard	remove	Steel Hellkite
+2021-12-16T06:10:18.187+00:00	mainboard	add	Myr Battlesphere
