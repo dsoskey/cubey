@@ -215,9 +215,9 @@ Elvish Mystic	sld	475	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Blade Splicer	2xm	9	Owned	~~	Foil	3	W	~~	~~	Creature — Phyrexian Human Artificer
 Dreadhorde Arcanist	pwar	125s	Owned	~~	Foil	2	R	~~	~~	Creature — Zombie Wizard
 Myr Battlesphere	som	180	Owned	Alter	Non-foil	7	~~	~~	~~	Artifact Creature — Myr Construct
-Falkenrath Pit Fighter	pmid	137s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Elves of Deep Shadow	prm	35974	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Renata, Called to the Hunt	thb	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Ragavan, Nimble Pilferer	mh2	138	Owned	~~	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
+Ignoble Hierarch	mh2	355	Owned	~~	Foil	1	G	~~	~~	Creature — Goblin Shaman
+Abundant Harvest	mh2	147	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Overgrown Tomb	rtr	243	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Godless Shrine	unf	533	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -282,7 +282,7 @@ Nahiri, the Harbinger	med	WS7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lurrus of the Dream-Den	iko	355	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yorion, Sky Nomad	piko	232s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 The Royal Scions	peld	199s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jack-o'-Lantern	dbl	254	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Brainstone	mh2	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Naturalize	rix	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Epochrasite	c14	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Stasis Snare	plst	BFZ-50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -340,7 +340,7 @@ Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanctum Weaver	mh2	462	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Putrefy	rav	221	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wedding Invitation	dbl	527	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sol Talisman	mh2	472	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	pthb	169s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -359,7 +359,7 @@ Champion of Lambholt	mic	136	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hull Breach	hop	89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cling to Dust	thb	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rule of Law	10e	37	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Seal of Cleansing	wc00	nl18sb	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -535,7 +535,7 @@ Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystic Monastery	c17	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Exclude	mh1	48	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hard Evidence	mh2	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flooded Strand	g09	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
