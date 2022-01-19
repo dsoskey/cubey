@@ -226,9 +226,9 @@ Darkslick Shores	som	226	Owned	~~	Non-foil	0	B,U	~~	~~	Land
 Blackcleave Cliffs	zne	13	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Razorverge Thicket	som	228	Owned	~~	Non-foil	0	G,W	~~	~~	Land
 Copperline Gorge	som	225	Owned	~~	Non-foil	0	G,R	~~	~~	Land
-Knight-Captain of Eos	ala	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hypnotic Sprite	pmei	40	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Moldgraf Monstrosity	c18	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Skyclave Apparition	pznr	39s	Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
+Thieving Skydiver	pznr	85s	Owned	~~	Foil	2	U	~~	~~	Creature — Merfolk Rogue
+Woodfall Primus	uma	195	Owned	~~	Foil	8	G	~~	~~	Creature — Treefolk Shaman
 Sacred Foundry	gtc	245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Steam Vents	gpt	164	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Windswept Heath	wc04	jn328	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -484,7 +484,7 @@ Sunpetal Grove	m12	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Woodland Cemetery	isd	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clifftop Retreat	isd	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Treasure Cruise	uma	79	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Rise from the Tides	soi	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulish Procession	mid	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zulaport Cutthroat	sld	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
