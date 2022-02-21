@@ -244,12 +244,12 @@ Shattered Sanctum	vow	264	Owned	~~	Non-foil	0	W,B	~~	~~	Land
 Upheaval	v14	13	Owned	~~	Foil	6	U	~~	~~	Sorcery
 Bloodchief's Thirst	znr	94	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Cabal Initiate	mh2	78	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Warlock
-Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Taurean Mauler	arc	49	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Torbran, Thane of Red Fell	peld	147s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Abbot of Keral Keep	pori	127s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Flametongue Kavu	f05	3	Owned	~~	Foil	4	R	~~	~~	Creature — Kavu
+Fable of the Mirror-Breaker	pneo	141s	Owned	~~	Foil	3	R	~~	~~	Enchantment — Saga
+Rabbit Battery	neo	157	Owned	Alter	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
+Feldon of the Third Path	c14	35	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature — Human Artificer
+Legion Warboss	grn	109	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Soldier
+Flametongue Yearling	mh2	125	Owned	~~	Foil	2	R	~~	~~	Creature — Kavu
 Ashiok, Nightmare Muse	thb	208	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -514,7 +514,7 @@ Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ori	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Gatekeeper	vow	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dire Fleet Daredevil	rix	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Falkenrath Pit Fighter	mid	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Disruption Protocol	neo	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
