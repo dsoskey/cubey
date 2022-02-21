@@ -1792,3 +1792,23 @@ Timestamp	Board	ChangeType	Name
 2022-02-21T02:50:03.105+00:00	mainboard	add	Blightstep Pathway
 2022-02-21T02:53:38.873+00:00	mainboard	remove	Mutiny
 2022-02-21T02:53:38.873+00:00	mainboard	add	Brightclimb Pathway
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Frontier Bivouac
+2022-02-21T03:03:11.305+00:00	mainboard	add	Tundra
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Nomad Outpost
+2022-02-21T03:03:11.305+00:00	mainboard	add	Underground Sea
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Sandsteppe Citadel
+2022-02-21T03:03:11.305+00:00	mainboard	add	Badlands
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Jungle Shrine
+2022-02-21T03:03:11.305+00:00	mainboard	add	Taiga
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Seaside Citadel
+2022-02-21T03:03:11.305+00:00	mainboard	add	Savannah
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Savage Lands
+2022-02-21T03:03:11.305+00:00	mainboard	add	Scrubland
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Arcane Sanctum
+2022-02-21T03:03:11.305+00:00	mainboard	add	Bayou
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Opulent Palace
+2022-02-21T03:03:11.305+00:00	mainboard	add	Volcanic Island
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Crumbling Necropolis
+2022-02-21T03:03:11.305+00:00	mainboard	add	Plateau
+2022-02-21T03:03:11.305+00:00	mainboard	remove	Mystic Monastery
+2022-02-21T03:03:11.305+00:00	mainboard	add	Tropical Island

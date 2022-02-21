@@ -312,13 +312,13 @@ Terminate	dmc	172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anguished Unmaking	2x2	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pteramander	rna	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Savage Lands	ncc	424	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Scrubland	me4	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Illuminator	vow	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jungle Shrine	c13	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Opulent Palace	cm2	260	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Taiga	2ed	283	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Volcanic Island	leb	287	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Combustible Gearhulk	pkld	112p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Flame Jab	eve	53	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -336,7 +336,7 @@ War Priest of Thune	ema	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archon of Sun's Grace	thb	3	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ransack the Lab	mh1	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sandsteppe Citadel	prm	57606	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Badlands	me4	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Yavimaya Enchantress	9ed	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sanctum Weaver	mh2	462	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -373,7 +373,7 @@ Touch the Spirit Realm	gdy	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Candletrap	mid	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Field of Ruin	thb	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nomad Outpost	sld	465	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Underground Sea	sum	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire Triton	thb	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -381,7 +381,7 @@ Jadar, Ghoulcaller of Nephalia	pmid	108s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isareth the Awakener	m19	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Seaside Citadel	cm2	265	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Savannah	leb	281	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chandra, Flamecaller	ogw	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pyroclasm	10e	222	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blasphemous Act	ncc	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -443,7 +443,7 @@ Brightclimb Pathway	znr	285	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riverglide Pathway	znr	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hengegate Pathway	khm	260	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Crumbling Necropolis	40k	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Plateau	olgc	2018A	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	tsr	354	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Steward of Elements	akh	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -467,8 +467,8 @@ Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Search for Azcanta	pxtc	74	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectral Adversary	pmid	77s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Frontier Bivouac	40k	281	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Arcane Sanctum	40k	264★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tundra	30a	577	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Bayou	leb	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	plst	C14-47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -534,7 +534,7 @@ Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mystic Monastery	c17	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard Evidence	mh2	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
