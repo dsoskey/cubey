@@ -241,9 +241,9 @@ Haunted Ridge	mid	263	Owned	~~	Non-foil	0	B,R	~~	~~	Land
 Dreamroot Cascade	vow	262	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Shattered Sanctum	vow	264	Owned	~~	Non-foil	0	W,B	~~	~~	Land
-Midnight Clock	eld	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Terror	ced	131	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Order of Midnight	eld	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Upheaval	v14	13	Owned	~~	Foil	6	U	~~	~~	Sorcery
+Bloodchief's Thirst	znr	94	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Cabal Initiate	mh2	78	Owned	~~	Non-foil	2	B	~~	~~	Creature — Human Warlock
 Akoum Firebird	bfz	138	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Siege-Gang Commander	dmr	330	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodhall Ooze	con	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -361,7 +361,7 @@ Hull Breach	hop	89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thirst for Discovery	vow	85	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cling to Dust	thb	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal of Cleansing	wc00	nl18sb	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Negate	ogw	59	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Jwari Disruption	znr	64	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -369,7 +369,7 @@ Betrayal	vis	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Declaration in Stone	ncc	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Felidar Retreat	j22	184	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Prison Term	td0	A13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Touch the Spirit Realm	gdy	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Candletrap	mid	9	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Field of Ruin	thb	242	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -433,7 +433,7 @@ Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nyx-Fleece Ram	plst	A25-26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gelatinous Cube	pafr	105p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Diabolic Servitude	usg	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Investigator's Journal	vow	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -447,7 +447,7 @@ Crumbling Necropolis	40k	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	tsr	354	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Steward of Elements	akh	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ob Nixilis Reignited	bfz	119	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Liliana, Waker of the Dead	m21	282	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jolrael, Mwonvuli Recluse	dmr	343	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sythis, Harvest's Hand	mh2	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Squirrel Sanctuary	j21	645	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -515,7 +515,7 @@ Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ori	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cemetery Gatekeeper	vow	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dire Fleet Daredevil	rix	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Intervene	ulg	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Disruption Protocol	neo	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Phylath, World Sculptor	prm	83720	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -527,7 +527,7 @@ Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Selfless Savior	m21	393	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Shatter	znr	127	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Phyrexian Scriptures	pdom	100s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Victimize	afc	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Vastwood Seer	v17	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curse of Predation	c13	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
