@@ -1790,3 +1790,5 @@ Timestamp	Board	ChangeType	Name
 2022-02-21T02:50:03.105+00:00	mainboard	add	Needleverge Pathway
 2022-02-21T02:50:03.105+00:00	mainboard	remove	Slow Motion
 2022-02-21T02:50:03.105+00:00	mainboard	add	Blightstep Pathway
+2022-02-21T02:53:38.873+00:00	mainboard	remove	Mutiny
+2022-02-21T02:53:38.873+00:00	mainboard	add	Brightclimb Pathway
