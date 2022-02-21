@@ -251,20 +251,20 @@ Feldon of the Third Path	c14	35	Owned	~~	Non-foil	3	R	~~	~~	Legendary Creature �
 Legion Warboss	grn	109	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Soldier
 Flametongue Yearling	mh2	125	Owned	~~	Foil	2	R	~~	~~	Creature — Kavu
 Tezzeret, Agent of Bolas	mbs	97	Owned	~~	Non-foil	4	B,U	~~	~~	Legendary Planeswalker — Tezzeret
-Pilgrim's Eye	hbg	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Enchanted Evening	shm	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Witch's Oven	eld	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Orcus, Prince of Undeath	afr	388	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Manamorphose	plst	SHM-211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Armada Wurm	gk1	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cruel Celebrant	war	188	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ral, Storm Conduit	pwar	211s★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sprite Dragon	iko	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Showdown of the Skalds	khm	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shardless Agent	mh2	423	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Light and Shadow	prm	82852	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Funeral Longboat	khm	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ghost Quarter	plst	CM2-253	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Kozilek, Butcher of Truth	roe	6	Owned	~~	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
+Azorius Signet	sld	286	Owned	~~	Foil	2	W,U	Multicolored	~~	Artifact
+Dimir Signet	sld	287	Owned	~~	Foil	2	U,B	Multicolored	~~	Artifact
+Rakdos Signet	sld	289	Owned	~~	Foil	2	B,R	Multicolored	~~	Artifact
+Gruul Signet	sld	288	Owned	~~	Foil	2	R,G	Multicolored	~~	Artifact
+Selesnya Signet	sld	290	Owned	~~	Foil	2	W,G	Multicolored	~~	Artifact
+Orzhov Signet	sld	294	Owned	~~	Foil	2	W,B	Multicolored	~~	Artifact
+Izzet Signet	sld	293	Owned	~~	Foil	2	U,R	Multicolored	~~	Artifact
+Golgari Signet	sld	292	Owned	~~	Foil	2	B,G	Multicolored	~~	Artifact
+Boros Signet	sld	291	Owned	~~	Foil	2	W,R	Multicolored	~~	Artifact
+Simic Signet	sld	295	Owned	~~	Foil	2	U,G	Multicolored	~~	Artifact
+Eater of Virtue	neo	245	Owned	Alter	Non-foil	1	~~	~~	~~	Legendary Artifact — Equipment
+Worn Powerstone	c14	282	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
+Otawara, Soaring City	neo	271	Owned	~~	Non-foil	0	U	Blue	~~	Legendary Land
 Ajani Goldmane	lrw	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Quarantine Field	bfz	43	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Distortion Strike	roe	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -434,15 +434,15 @@ Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nyx-Fleece Ram	plst	A25-26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	usg	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Memnite	pdci	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hedron Archive	bfz	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Investigator's Journal	vow	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crystalline Giant	iko	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Electrostatic Field	grn	97	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Palladium Myr	plst	CM2-207	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Needleverge Pathway	znr	263	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mutiny	rix	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Signal Pest	pdci	66	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Riverglide Pathway	znr	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ulst	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Time Wipe	pwar	223p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hengegate Pathway	khm	260	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Crumbling Necropolis	40k	273	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	tsr	354	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mikaeus, the Lunarch	2x2	419	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -453,7 +453,7 @@ Sythis, Harvest's Hand	mh2	214	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Squirrel Sanctuary	j21	645	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bastion of Remembrance	iko	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Awakening Zone	roe	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Oath of Nissa	ogw	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Barkchannel Pathway	khm	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Glacial Fortress	m10	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dragonskull Summit	m11	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rootbound Crag	m12	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -478,7 +478,7 @@ Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	dis	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master's Rebuke	neo	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expansion // Explosion	grn	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Slow Motion	ulg	42	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blightstep Pathway	khm	291	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mazemind Tome	m21	232	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Drowned Catacomb	m11	224	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunpetal Grove	m12	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -496,7 +496,7 @@ Anger of the Gods	plst	IMA-116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Esika's Chariot	khm	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Letter of Acceptance	stx	256	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Metalwork Colossus	sld	377	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dreadhorde Invasion	war	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
