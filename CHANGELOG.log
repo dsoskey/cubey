@@ -1850,3 +1850,9 @@ Timestamp	Board	ChangeType	Name
 2022-02-26T19:38:38.842+00:00	mainboard	add	Exhume
 2022-02-26T19:38:38.842+00:00	mainboard	remove	Ruinous Path
 2022-02-26T19:38:38.842+00:00	mainboard	add	Hero's Downfall
+2022-02-26T19:43:06.680+00:00	mainboard	remove	Grapeshot
+2022-02-26T19:43:06.680+00:00	mainboard	add	Sneak Attack
+2022-02-26T19:43:06.680+00:00	mainboard	remove	Anax, Hardened in the Forge
+2022-02-26T19:43:06.680+00:00	mainboard	add	Krenko, Tin Street Kingpin
+2022-02-26T19:43:06.680+00:00	mainboard	remove	Kessig Wolfrider
+2022-02-26T19:43:06.680+00:00	mainboard	add	Goblin Welder
