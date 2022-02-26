@@ -1856,3 +1856,7 @@ Timestamp	Board	ChangeType	Name
 2022-02-26T19:43:06.680+00:00	mainboard	add	Krenko, Tin Street Kingpin
 2022-02-26T19:43:06.680+00:00	mainboard	remove	Kessig Wolfrider
 2022-02-26T19:43:06.680+00:00	mainboard	add	Goblin Welder
+2022-02-26T19:50:43.609+00:00	mainboard	remove	Kodama's Reach
+2022-02-26T19:50:43.609+00:00	mainboard	add	Natural Order
+2022-02-26T19:50:43.609+00:00	mainboard	remove	Unknown Card
+2022-02-26T19:50:43.609+00:00	mainboard	add	Oath of Druids
