@@ -267,9 +267,9 @@ Worn Powerstone	c14	282	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Otawara, Soaring City	neo	271	Owned	~~	Non-foil	0	U	Blue	~~	Legendary Land
 The Wandering Emperor	neo	42	Owned	~~	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Lion Sash	neo	26	Owned	~~	Non-foil	2	W	~~	~~	Artifact Creature — Equipment Cat
-Distortion Strike	roe	60	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gifts Ungiven	ss1	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Jace Beleren	dd2	1★	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tinker	ulg	45	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
+Show and Tell	usg	96	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
+Narset, Parter of Veils	war	61	Owned	~~	Non-foil	3	U	~~	~~	Legendary Planeswalker — Narset
 Bone Picker	akr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cauldron Familiar	jmp	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blood Artist	prm	102245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -346,7 +346,7 @@ Birthing Pod	slc	2011	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vault Skirge	pdci	71	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangled Florahedron	znr	211	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blazing Rootwalla	j21	418	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cosi's Trickster	zen	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thousand-Faced Shadow	neo	451	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spirited Companion	neo	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 By Invitation Only	vow	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mark of Eviction	rav	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -405,11 +405,11 @@ Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terramorphic Expanse	afc	267	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deadly Dispute	afr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Domri, Anarch of Bolas	sld	521	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Draining Whelk	tsr	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Inkwell Leviathan	2xm	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sigil of the Empty Throne	pca	11	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Curfew	brb	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+March of Swirling Mist	neo	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snakeskin Veil	sta	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rogue's Passage	ori	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -421,7 +421,7 @@ Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Stormwing Entity	m21	73	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa, Deep-Dwelling	thb	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
