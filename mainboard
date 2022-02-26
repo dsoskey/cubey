@@ -270,9 +270,9 @@ Lion Sash	neo	26	Owned	~~	Non-foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Tinker	ulg	45	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Show and Tell	usg	96	Owned	~~	Non-foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	war	61	Owned	~~	Non-foil	3	U	~~	~~	Legendary Planeswalker — Narset
-Bone Picker	akr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cauldron Familiar	jmp	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Blood Artist	prm	102245	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Griselbrand	pgpx	2015	Owned	~~	Foil	8	B	~~	~~	Legendary Creature — Demon
+Putrid Imp	pd3	1	Owned	~~	Foil	1	B	~~	~~	Creature — Zombie Imp
+Blade of the Oni	neo	89	Owned	~~	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
 Grapeshot	tsp	160	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anax, Hardened in the Forge	prm	79863	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kessig Wolfrider	vow	165	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -378,7 +378,7 @@ Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mire Triton	thb	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadar, Ghoulcaller of Nephalia	pmid	108s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Isareth the Awakener	m19	104	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Tatsunari, Toad Rider	prm	97957	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Knight of the Ebon Legion	m20	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Savannah	leb	281	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -400,7 +400,7 @@ Alseid of Life's Bounty	j22	143	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brutal Hordechief	pfrf	64s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Khalni Heart Expedition	c18	154	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Journey to Eternity	prix	160s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ruinous Path	bfz	123	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Hero's Downfall	dmc	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	j22	644	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Terramorphic Expanse	afc	267	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Deadly Dispute	afr	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -488,7 +488,7 @@ Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rise from the Tides	soi	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulish Procession	mid	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Zulaport Cutthroat	sld	156	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Nullpriest of Oblivion	pznr	118p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tainted Adversary	mid	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cast Down	pdom	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lolth, Spider Queen	afr	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -532,7 +532,7 @@ Nissa, Vastwood Seer	v17	15	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Bala Ged Recovery	znr	180	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mire's Grasp	thb	106	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Exhume	pd3	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
