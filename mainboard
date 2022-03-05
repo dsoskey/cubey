@@ -291,13 +291,13 @@ Triplicate Titan	c21	79	Owned	~~	Non-foil	9	~~	~~	~~	Artifact Creature — Golem
 Esper Sentinel	mh2	328	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	~~	Foil	1	U	~~	~~	Instant
-Vendetta	roe	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vampire Hexmage	plst	C14-168	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Feed the Swarm	ncc	250	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Authority of the Consuls	pkld	5s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Heartless Act	iko	366	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Ritual	sta	26	Owned	~~	Non-foil	1	B	~~	~~	Instant
+Baleful Mastery	pstx	64s	Owned	~~	Foil	2	B	~~	~~	Instant
+Demonic Tutor	sta	27	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
+Thoughtseize	sld	1117	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Power Word Kill	gdy	1	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Inquisition of Kozilek	sta	31	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
-Voldaren Bloodcaster	vow	338	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Inquisition of Kozilek	2x2	80	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Rift Bolt	f10	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thermo-Alchemist	scd	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -363,7 +363,7 @@ Cling to Dust	thb	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal of Cleansing	wc00	nl18sb	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jwari Disruption	znr	64	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vampire Nighthawk	e01	38	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Midnight Reaper	scd	91	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Inverter of Truth	pogw	72s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tormod's Crypt	drk	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Betrayal	vis	26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Beanstalk Giant	plst	ELD-295	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -376,7 +376,7 @@ Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Underground Sea	sum	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mire Triton	thb	105	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jadar, Ghoulcaller of Nephalia	pmid	108s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tatsunari, Toad Rider	prm	97957	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dread Wanderer	akh	88	~~	~~	~~	"""~~"""	~~	~~	~~	~~
