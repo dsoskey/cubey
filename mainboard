@@ -307,10 +307,10 @@ Emrakul, the Aeons Torn	roe	4	Owned	~~	Non-foil	15	~~	~~	~~	Legendary Creature �
 Scroll Rack	cmr	337	Owned	~~	Non-foil	2	~~	~~	~~	Artifact
 Grafted Wargear	cmr	312	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Gilded Lotus	brr	80	Owned	~~	Foil	5	~~	~~	~~	Artifact
-Saheeli, Sublime Artificer	pwar	234s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Terminate	dmc	172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Shambling Suit	eld	230	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Anguished Unmaking	2x2	170	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Electrolyze	sta	60	Owned	~~	Non-foil	3	R,U	~~	~~	Instant
+Dreadbore	sld	141	Owned	~~	Non-foil	2	B,R	~~	~~	Sorcery
+Sphinx of the Steel Wind	ema	207	Owned	~~	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
+Vanishing Verse	stx	244	Owned	Alter	Non-foil	2	W,B	~~	~~	Instant
 Pteramander	rna	47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Scrubland	me4	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -391,7 +391,7 @@ Sinister Sabotage	pgrn	54	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kogla, the Titan Ape	piko	162p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Roiling Regrowth	znr	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Vizier of the Menagerie	pakh	192s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Growth Spiral	prna	178	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Decisive Denial	prm	90172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biomass Mutation	c19	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Seal of Primordium	mm3	135	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -432,7 +432,7 @@ Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Nyx-Fleece Ram	plst	A25-26	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Dakkon, Shadow Slayer	mh2	304	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	usg	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Archive	bfz	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Investigator's Journal	vow	258	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -473,7 +473,7 @@ Song of the Dryads	plst	C14-47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Dungeons & Dragons	ust	163	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rite of Oblivion	dbl	237	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Vindicate	a25	219	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sunblast Angel	ddi	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Utopia Sprawl	dis	99	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Master's Rebuke	neo	202	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -494,10 +494,10 @@ Cast Down	pdom	81	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lolth, Spider Queen	afr	112	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Anger of the Gods	plst	IMA-116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Esika's Chariot	khm	169	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Feast and Famine	2xm	364	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Queen Marchesa	cn2	78	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nevinyrral's Disk	c13	248	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Metalwork Colossus	sld	377	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dreadhorde Invasion	war	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Expressive Iteration	stx	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biogenic Ooze	rna	122	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Geralf, Visionary Stitcher	pvow	61s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -505,7 +505,7 @@ Reflector Mage	ogw	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Celestial Ancient	dis	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Blot Out the Sky	stx	167	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Judith, the Scourge Diva	rna	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Heirloom Blade	j22	775	~~	~~	~~	"""~~"""	~~	~~	~~	~~
