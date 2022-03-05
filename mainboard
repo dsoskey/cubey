@@ -298,9 +298,9 @@ Thoughtseize	sld	1117	Owned	~~	Foil	1	B	~~	~~	Sorcery
 Power Word Kill	gdy	1	Owned	~~	Non-foil	2	B	~~	~~	Instant
 Inquisition of Kozilek	sta	31	Owned	~~	Non-foil	1	B	~~	~~	Sorcery
 Vampire Hexmage	cns	132	Owned	~~	Foil	2	B	~~	~~	Creature — Vampire Shaman
-Galvanic Blast	2xm	125	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rift Bolt	f10	10	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thermo-Alchemist	scd	162	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Flame Slash	roe	145	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
+Fiery Confluence	ss3	3	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
+Goblin Cratermaker	grn	103	Owned	~~	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
 Arasta of the Endless Web	thb	325	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Angelic Renewal	wth	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thopter Assembly	mbs	140	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -426,7 +426,7 @@ Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Eerie Interlude	soi	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tormenting Voice	sir	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thrill of Possibility	sta	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -513,7 +513,7 @@ Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ori	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cemetery Gatekeeper	vow	148	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thundering Raiju	neo	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Falkenrath Pit Fighter	mid	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Disruption Protocol	neo	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
