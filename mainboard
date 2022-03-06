@@ -321,14 +321,14 @@ Kiki-Jiki, Mirror Breaker	chk	175	Owned	~~	Non-foil	5	R	~~	~~	Legendary Creature
 Through the Breach	uma	152	Owned	~~	Foil	5	R	~~	~~	Instant — Arcane
 Inferno Titan	sld	224	Owned	~~	Foil	6	R	~~	~~	Creature — Giant
 Goblin Bombardment	mh2	279	Owned	~~	Non-foil	2	R	~~	~~	Enchantment
-Rampant Growth	8ed	274	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sylvan Awakening	dom	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Setessan Champion	pthb	198p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Titania, Protector of Argoth	pz1	89	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vivien, Monsters' Advocate	iko	277	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gnarlwood Dryad	sir	196	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of War and Peace	mps	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Stormfist Crusader	eld	203	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Regrowth	a25	187	Owned	~~	Foil	2	G	~~	~~	Sorcery
+Channel	v09	3	Owned	~~	Foil	2	G	~~	~~	Sorcery
+Eternal Witness	2x2	368	Owned	~~	Foil	3	G	~~	~~	Creature — Human Shaman
+Thragtusk	sld	238	Owned	~~	Non-foil	5	G	~~	~~	Creature — Beast
+Nissa, Who Shakes the World	pwar	169s	Owned	~~	Foil	5	G	~~	~~	Legendary Planeswalker — Nissa
+Arbor Elf	a25	160	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
+Batterskull	pgpx	2014	Owned	~~	Foil	5	~~	~~	~~	Artifact — Equipment
+Daretti, Ingenious Iconoclast	cn2	74	Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Planeswalker — Daretti
 Ghalta, Primal Hunger	rix	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Katilda, Dawnhart Martyr	vow	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Snare	scd	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -352,7 +352,7 @@ By Invitation Only	vow	5	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mark of Eviction	rav	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Brago, King Eternal	vma	246	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Chainer, Nightmare Adept	j21	683	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Fire and Ice	2xm	365	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Scion of Draco	mh2	431	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hostage Taker	pxln	223s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Luminarch Ascension	a25	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pit Fight	gk2	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -390,7 +390,7 @@ Dragonmaster Outcast	afc	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Turntimber Symbiosis	prm	83868	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Kogla, the Titan Ape	piko	162p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Roiling Regrowth	znr	390	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Vizier of the Menagerie	pakh	192s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Magus of the Order	cmr	682	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Decisive Denial	prm	90172	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Darksteel Ingot	c13	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Biomass Mutation	c19	187	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -467,8 +467,8 @@ Shock	sta	44	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fall from Favor	cmr	68	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Spectral Adversary	pmid	77s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Secure the Wastes	dtk	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tundra	30a	577	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Bayou	leb	279	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Pattern of Rebirth	uma	176	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Heartbeat of Spring	2xm	171	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	plst	C14-47	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lignify	gvl	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ranger Class	pafr	202a	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -504,7 +504,7 @@ Geralf, Visionary Stitcher	pvow	61s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflector Mage	ogw	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dark Confidant	mm2	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Maelstrom Pulse	mma	180	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Blot Out the Sky	stx	167	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Judith, the Scourge Diva	rna	185	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
