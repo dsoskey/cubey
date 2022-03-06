@@ -312,9 +312,9 @@ Dreadbore	sld	141	Owned	~~	Non-foil	2	B,R	~~	~~	Sorcery
 Sphinx of the Steel Wind	ema	207	Owned	~~	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
 Vanishing Verse	stx	244	Owned	Alter	Non-foil	2	W,B	~~	~~	Instant
 Shelldock Isle	sld	230	Owned	~~	Foil	0	U	Blue	~~	Land
-Scrubland	me4	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Archetype of Courage	bng	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Cemetery Illuminator	vow	50	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Mother of Runes	sld	299	Owned	~~	Foil	1	W	~~	~~	Creature — Human Cleric
+Adeline, Resplendent Cathar	mid	1	Owned	~~	Foil	3	W	~~	~~	Legendary Creature — Human Knight
+Deceiver Exarch	nph	33	Owned	~~	Non-foil	3	U	~~	~~	Creature — Phyrexian Cleric
 Recurring Nightmare	vma	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Reunion	klr	116	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Taiga	2ed	283	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -373,7 +373,7 @@ Touch the Spirit Realm	gdy	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 March of Otherworldly Light	neo	441	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Emeria's Call	pznr	12s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Welcoming Vampire	dbl	313	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Underground Sea	sum	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thassa's Oracle	thb	308	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Curiosity	8ed	72	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Read the Bones	ddp	56	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Valki, God of Lies	prm	88272	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -419,7 +419,7 @@ Miscalculation	ulg	36	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Relic of Progenitus	hop	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elixir of Immortality	m14	209	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Unsummon	2ed	87	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Omen of the Sea	thb	58	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gush	plst	DD2-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thassa, Deep-Dwelling	thb	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -443,7 +443,7 @@ Brightclimb Pathway	znr	285	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Riverglide Pathway	znr	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Isochron Scepter	2xm	264	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hengegate Pathway	khm	260	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Plateau	olgc	2018A	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Teleportation Circle	afr	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	tsr	354	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Charming Prince	eld	8	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Steward of Elements	akh	204	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -485,7 +485,7 @@ Sunpetal Grove	m12	229	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Woodland Cemetery	isd	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Clifftop Retreat	isd	238	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirror Entity	c13	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rise from the Tides	soi	83	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Will Kenrith	bbd	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Black Sun's Zenith	mbs	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghoulish Procession	mid	102	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nullpriest of Oblivion	pznr	118p	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -534,7 +534,7 @@ Torrent Elemental	pfrf	56s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nature's Claim	wwk	108	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Exhume	pd3	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Tropical Island	olgc	2019	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Artisan	bbd	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard Evidence	mh2	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
