@@ -330,11 +330,11 @@ Arbor Elf	a25	160	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Batterskull	pgpx	2014	Owned	~~	Foil	5	~~	~~	~~	Artifact — Equipment
 Daretti, Ingenious Iconoclast	cn2	74	Owned	~~	Non-foil	3	B,R	~~	~~	Legendary Planeswalker — Daretti
 Craterhoof Behemoth	sld	375	Owned	~~	Non-foil	8	G	~~	~~	Creature — Beast
-Katilda, Dawnhart Martyr	vow	21	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Soul Snare	scd	34	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-War Priest of Thune	ema	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mana Tithe	p08	4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Out of Time	mh2	23	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Silverblade Paladin	avr	36	Owned	~~	Non-foil	3	W	~~	~~	Creature — Human Knight
+Imposing Sovereign	m14	22	Owned	~~	Foil	2	W	~~	~~	Creature — Human Noble
+Containment Priest	m21	314	Owned	~~	Foil	2	W	~~	~~	Creature — Human Cleric
+Archon of Emeria	pznr	4s	Owned	~~	Foil	3	W	~~	~~	Creature — Archon
+Balance	sld	173	Owned	~~	Non-foil	2	W	~~	~~	Sorcery
 Ransack the Lab	mh1	103	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Tendrils of Agony	scg	75	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Risk Factor	grn	113	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -408,7 +408,7 @@ Domri, Anarch of Bolas	sld	521	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Inkwell Leviathan	2xm	55	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Guttersnipe	c19	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Strixhaven Stadium	stx	358	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Promise of Tomorrow	cmr	39	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Spear of Heliod	ths	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 March of Swirling Mist	neo	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Snakeskin Veil	sta	57	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Acidic Slime	cm2	132	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -430,7 +430,7 @@ Thrill of Possibility	sta	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reckless Impulse	vow	174	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace's Ingenuity	f11	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soulherder	khc	93	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Wedding Announcement	vow	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Brutal Cathar	mid	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Multani, Yavimaya's Avatar	pdom	174s	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Dakkon, Shadow Slayer	mh2	304	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Diabolic Servitude	usg	130	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -537,5 +537,5 @@ Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Artisan	bbd	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Hard Evidence	mh2	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Marshal's Anthem	c14	77	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Doomed Traveler	ima	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Maul of the Skyclaves	znr	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Soldier of the Pantheon	ths	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
