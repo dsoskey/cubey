@@ -2108,3 +2108,5 @@ Timestamp	Board	ChangeType	Name
 2022-04-15T04:39:20.787+00:00	mainboard	add	The Reality Chip
 2022-04-15T05:13:53.425+00:00	mainboard	remove	Strixhaven Stadium
 2022-04-15T05:13:53.425+00:00	mainboard	add	Thought Vessel
+2022-04-15T05:42:44.208+00:00	mainboard	remove	Bala Ged Recovery
+2022-04-15T05:42:44.208+00:00	mainboard	add	Beast Within
