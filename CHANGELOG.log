@@ -2154,3 +2154,11 @@ Timestamp	Board	ChangeType	Name
 2022-05-01T03:02:44.635+00:00	mainboard	add	Faerie Conclave
 2022-05-07T21:59:56.839+00:00	mainboard	remove	Vampire Nighthawk
 2022-05-07T21:59:56.839+00:00	mainboard	add	Ophiomancer
+2022-05-13T04:18:48.358+00:00	mainboard	remove	Sheoldred, Whispering One
+2022-05-13T04:18:48.358+00:00	mainboard	add	Ziatora's Proving Ground
+2022-05-13T04:18:48.358+00:00	mainboard	remove	Tormod's Crypt
+2022-05-13T04:18:48.358+00:00	mainboard	add	Coldsteel Heart
+2022-05-13T04:18:48.358+00:00	mainboard	remove	Betrayal
+2022-05-13T04:18:48.358+00:00	mainboard	add	Temporal Manipulation
+2022-05-13T04:18:48.358+00:00	mainboard	remove	Nullpriest of Oblivion
+2022-05-13T04:18:48.358+00:00	mainboard	add	Blood Artist
