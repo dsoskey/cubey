@@ -2254,3 +2254,7 @@ Timestamp	Board	ChangeType	Name
 2022-07-06T19:38:26.481+00:00	mainboard	add	Fallen Shinobi
 2022-07-06T19:47:12.639+00:00	mainboard	remove	Deadly Dispute
 2022-07-06T19:47:12.639+00:00	mainboard	add	Hero's Downfall
+2022-07-13T03:42:48.476+00:00	mainboard	remove	Domri, Anarch of Bolas
+2022-07-13T03:42:48.476+00:00	mainboard	add	Wrenn and Six
+2022-07-13T03:42:48.476+00:00	mainboard	remove	Inkwell Leviathan
+2022-07-13T03:42:48.476+00:00	mainboard	add	Consecrated Sphinx
