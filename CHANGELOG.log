@@ -2266,3 +2266,7 @@ Timestamp	Board	ChangeType	Name
 2022-07-17T01:31:44.123+00:00	mainboard	add	Parallax Wave
 2022-07-17T01:42:03.534+00:00	mainboard	remove	March of Swirling Mist
 2022-07-17T01:42:03.534+00:00	mainboard	add	Mana Drain
+2022-07-17T01:44:28.668+00:00	mainboard	remove	Snakeskin Veil
+2022-07-17T01:44:28.668+00:00	mainboard	add	Green Sun's Zenith
+2022-07-17T01:44:28.668+00:00	mainboard	remove	Acidic Slime
+2022-07-17T01:44:28.668+00:00	mainboard	add	Bramble Sovereign
