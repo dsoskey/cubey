@@ -2276,3 +2276,5 @@ Timestamp	Board	ChangeType	Name
 2022-07-17T01:48:26.581+00:00	mainboard	add	Maze of Ith
 2022-07-20T04:46:40.368+00:00	mainboard	remove	Mentor of the Meek
 2022-07-20T04:46:40.368+00:00	mainboard	add	Monastery Mentor
+2022-07-20T04:50:03.355+00:00	mainboard	remove	Miscalculation
+2022-07-20T04:50:03.355+00:00	mainboard	add	Force of Negation
