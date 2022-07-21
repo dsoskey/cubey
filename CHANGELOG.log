@@ -2280,3 +2280,5 @@ Timestamp	Board	ChangeType	Name
 2022-07-20T04:50:03.355+00:00	mainboard	add	Force of Negation
 2022-07-20T04:59:57.635+00:00	mainboard	remove	Relic of Progenitus
 2022-07-20T04:59:57.635+00:00	mainboard	add	Mana Vault
+2022-07-21T01:51:49.128+00:00	mainboard	remove	Unburial Rites
+2022-07-21T01:51:49.128+00:00	mainboard	add	Tendrils of Agony
