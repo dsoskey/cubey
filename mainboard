@@ -418,10 +418,10 @@ Monastery Mentor	2x2	21	Owned	~~	Foil	3	W	~~	~~	Creature — Human Monk
 Force of Negation	2x2	346	Owned	~~	Non-foil	0	U	~~	~~	Instant
 Mana Vault	2x2	394	Owned	~~	Non-foil	1	~~	~~	~~	Artifact
 Pithing Needle	2x2	397	Owned	~~	Foil	1	~~	~~	~~	Artifact
-Fading Hope	mid	51	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Gush	plst	DD2-27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Riftwing Cloudskate	tsr	82	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Thassa, Deep-Dwelling	thb	261	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Sleight of Hand	uma	70	Owned	~~	Foil	1	U	~~	~~	Sorcery
+Gifts Ungiven	2x2	347	Owned	~~	Foil	4	U	~~	~~	Instant
+Baral, Chief of Compliance	aer	28	Owned	~~	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
+Subtlety	mh2	309	Owned	~~	Non-foil	4	U	~~	~~	Creature — Elemental Incarnation
 Ephemerate	mh1	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sign in Blood	sta	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Elspeth Conquers Death	thb	13	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -511,7 +511,7 @@ Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Vengeance	m11	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Into the Roil	c17	86	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Strategic Planning	sta	20	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Pia and Kiran Nalaar	ori	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Thundering Raiju	neo	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Falkenrath Pit Fighter	mid	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -536,6 +536,6 @@ Exhume	pd3	17	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Talrand, Sky Summoner	jmp	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Arcane Artisan	bbd	33	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fallen Shinobi	mh1	199	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hard Evidence	mh2	46	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Gitaxian Probe	nph	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Maul of the Skyclaves	znr	27	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soldier of the Pantheon	ths	32	~~	~~	~~	"""~~"""	~~	~~	~~	~~
