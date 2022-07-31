@@ -2298,3 +2298,5 @@ Timestamp	Board	ChangeType	Name
 2022-07-31T19:48:05.009+00:00	mainboard	add	Subtlety
 2022-07-31T21:05:14.128+00:00	mainboard	remove	Ephemerate
 2022-07-31T21:05:14.128+00:00	mainboard	add	Mana Tithe
+2022-07-31T22:42:30.096+00:00	mainboard	remove	Teleportation Circle
+2022-07-31T22:42:30.096+00:00	mainboard	add	Ephemerate
