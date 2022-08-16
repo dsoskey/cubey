@@ -2338,3 +2338,5 @@ Timestamp	Board	ChangeType	Name
 2022-08-16T02:16:47.920+00:00	mainboard	add	Strip Mine
 2022-08-16T02:16:47.920+00:00	mainboard	remove	Riverglide Pathway
 2022-08-16T02:16:47.920+00:00	mainboard	add	Gemstone Mine
+2022-08-16T02:39:59.515+00:00	mainboard	remove	Isochron Scepter
+2022-08-16T02:39:59.515+00:00	mainboard	add	Ratchet Bomb
