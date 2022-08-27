@@ -2342,3 +2342,7 @@ Timestamp	Board	ChangeType	Name
 2022-08-16T02:39:59.515+00:00	mainboard	add	Ratchet Bomb
 2022-08-21T18:07:07.089+00:00	mainboard	remove	Hengegate Pathway
 2022-08-21T18:07:07.089+00:00	mainboard	add	Mana Confluence
+2022-08-27T06:13:53.866+00:00	mainboard	remove	Ephemerate
+2022-08-27T06:13:53.866+00:00	mainboard	add	Elesh Norn, Grand Cenobite
+2022-08-27T06:13:53.866+00:00	mainboard	remove	Zealous Conscripts
+2022-08-27T06:13:53.866+00:00	mainboard	add	Fury
