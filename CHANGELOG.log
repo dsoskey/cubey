@@ -2348,3 +2348,7 @@ Timestamp	Board	ChangeType	Name
 2022-08-27T06:13:53.866+00:00	mainboard	add	Fury
 2022-09-22T01:19:54.455+00:00	mainboard	remove	Charming Prince
 2022-09-22T01:19:54.455+00:00	mainboard	add	Guardian of New Benalia
+2022-09-22T01:21:39.705+00:00	mainboard	remove	Gitaxian Probe
+2022-09-22T01:21:39.705+00:00	mainboard	add	High Tide
+2022-09-22T01:21:39.705+00:00	mainboard	remove	Nissa, Steward of Elements
+2022-09-22T01:21:39.705+00:00	mainboard	add	Fact or Fiction
