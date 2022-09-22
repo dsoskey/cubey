@@ -450,15 +450,15 @@ Fact or Fiction	sld	333	Owned	~~	Foil	4	U	~~	~~	Instant
 Liliana of the Veil	dmu	97	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Tarmogoyf	tsr	235	Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Urborg Lhurgoyf	dmu	186	Owned	~~	Foil	2	G	Green	~~	Creature — Lhurgoyf
-Branchloft Pathway	znr	284	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Clearwater Pathway	znr	286	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Darkbore Pathway	khm	254	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Barkchannel Pathway	khm	251	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Glacial Fortress	m10	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Dragonskull Summit	m11	223	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Rootbound Crag	m12	228	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Isolated Chapel	md1	16	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hinterland Harbor	isd	241	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Prismatic Vista	mh1	244	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Urza's Saga	mh2	259	Owned	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
+Rishadan Port	a25	246	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Adarkar Wastes	dmu	377	Owned	~~	Foil	0	W,U	~~	~~	Land
+Sulfurous Springs	dmu	381	Owned	~~	Foil	0	B,R	~~	~~	Land
+Karplusan Forest	dmu	379	Owned	~~	Foil	0	R,G	~~	~~	Land
+Caves of Koilos	dmu	378	Owned	~~	Foil	0	W,B	~~	~~	Land
+Yavimaya Coast	dmu	382	Owned	~~	Foil	0	U,G	~~	~~	Land
 Hypnotic Specter	p06	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Makeshift Mannequin	lrw	124	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Koth of the Hammer	som	94	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -500,7 +500,7 @@ Metalwork Colossus	sld	377	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Expressive Iteration	stx	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Meren of Clan Nel Toth	cma	186	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Whisperwood Elemental	frf	145	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Toluz, Clever Conductor	snc	336	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Thran Portal	dmu	259	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Reflector Mage	ogw	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
