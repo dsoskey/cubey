@@ -2354,3 +2354,7 @@ Timestamp	Board	ChangeType	Name
 2022-09-22T01:21:39.705+00:00	mainboard	add	Fact or Fiction
 2022-09-22T01:28:33.894+00:00	mainboard	remove	Liliana, Waker of the Dead
 2022-09-22T01:28:33.894+00:00	mainboard	add	Liliana of the Veil
+2022-09-22T01:30:58.148+00:00	mainboard	remove	Priest of Titania
+2022-09-22T01:30:58.148+00:00	mainboard	add	Tarmogoyf
+2022-09-22T01:30:58.148+00:00	mainboard	remove	Llanowar Visionary
+2022-09-22T01:30:58.148+00:00	mainboard	add	Urborg Lhurgoyf
