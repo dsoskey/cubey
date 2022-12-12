@@ -2418,3 +2418,7 @@ Timestamp	Board	ChangeType	Name
 2022-11-19T17:28:42.524+00:00	mainboard	add	Haywire Mite
 2022-11-19T17:29:55.461+00:00	mainboard	remove	Expansion // Explosion
 2022-11-19T17:29:55.461+00:00	mainboard	add	Third Path Iconoclast
+2022-12-12T02:12:35.148+00:00	mainboard	remove	Blightstep Pathway
+2022-12-12T02:12:35.148+00:00	mainboard	add	Urza's Power Plant
+2022-12-12T02:12:35.148+00:00	mainboard	remove	Mazemind Tome
+2022-12-12T02:12:35.148+00:00	mainboard	add	Expedition Map
