@@ -2432,3 +2432,5 @@ Timestamp	Board	ChangeType	Name
 2022-12-23T03:46:15.844+00:00	mainboard	add	Battlefield Forge
 2022-12-23T04:27:08.641+00:00	mainboard	remove	Mirror Entity
 2022-12-23T04:27:08.641+00:00	mainboard	add	Steel Seraph
+2022-12-23T04:51:36.004+00:00	mainboard	remove	Will Kenrith
+2022-12-23T04:51:36.004+00:00	mainboard	add	Tezzeret, Betrayer of Flesh
