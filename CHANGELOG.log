@@ -2430,3 +2430,5 @@ Timestamp	Board	ChangeType	Name
 2022-12-23T03:46:15.844+00:00	mainboard	add	Llanowar Wastes
 2022-12-23T03:46:15.844+00:00	mainboard	remove	Clifftop Retreat
 2022-12-23T03:46:15.844+00:00	mainboard	add	Battlefield Forge
+2022-12-23T04:27:08.641+00:00	mainboard	remove	Mirror Entity
+2022-12-23T04:27:08.641+00:00	mainboard	add	Steel Seraph
