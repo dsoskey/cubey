@@ -505,10 +505,10 @@ Spell Queller	sld	193	Owned	~~	Foil	3	W,U	~~	~~	Creature — Spirit
 Tidehollow Sculler	f10	1	Owned	~~	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
 Sprite Dragon	iko	382	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Putrefy	sta	63	Owned	~~	Non-foil	3	B,G	~~	~~	Instant
-Lurrus of the Dream-Den	iko	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ob Nixilis, the Adversary	snc	206	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of Vengeance	m11	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Disfigure	2x2	74	Owned	~~	Foil	1	B	~~	~~	Instant
+Shock	sta	44	Owned	~~	Foil	1	R	~~	~~	Instant
+Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
+Heirloom Blade	znc	113	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Ghostly Prison	pc2	7	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Traverse the Ulvenwald	soi	234	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gitaxian Probe	nph	35	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -523,7 +523,7 @@ Cranial Plating	c16	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	c15	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Gingerbrute	jmp	466	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Faerie Conclave	ulg	139	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Ornithopter of Paradise	mh2	430	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Chromatic Sphere	inv	299	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Champion of the Parish	plst	DDQ-4	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Lightning Helix	sta	62	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Soul Shatter	znr	127	~~	~~	~~	"""~~"""	~~	~~	~~	~~
