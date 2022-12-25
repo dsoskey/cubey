@@ -501,10 +501,10 @@ Park Map	unf	476	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Smokestack	v14	11	Owned	~~	Foil	4	~~	~~	~~	Artifact
 Titania, Protector of Argoth	mh2	416	Owned	~~	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Cave of the Frost Dragon	pafr	253s	Owned	~~	Foil	0	W	White	~~	Land
-Reflector Mage	ogw	157	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Priest of Fell Rites	mh2	372	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Fire // Ice	mh2	290	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Maelstrom Pulse	mma	180	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Spell Queller	sld	193	Owned	~~	Foil	3	W,U	~~	~~	Creature — Spirit
+Tidehollow Sculler	f10	1	Owned	~~	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
+Sprite Dragon	iko	382	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
+Putrefy	sta	63	Owned	~~	Non-foil	3	B,G	~~	~~	Instant
 Lurrus of the Dream-Den	iko	226	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Ob Nixilis, the Adversary	snc	206	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	c17	181	~~	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -517,7 +517,7 @@ Thundering Raiju	neo	166	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Falkenrath Pit Fighter	mid	137	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Suspicious Stowaway	mid	288	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Barrin, Tolarian Archmage	m21	45	~~	~~	~~	"""~~"""	~~	~~	~~	~~
-Hydroid Krasis	rna	183	~~	~~	~~	"""~~"""	~~	~~	~~	~~
+Quandrix Apprentice	stx	216	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Nissa, Voice of Zendikar	ddr	1	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Cranial Plating	c16	249	~~	~~	~~	"""~~"""	~~	~~	~~	~~
 Banishing Light	c15	61	~~	~~	~~	"""~~"""	~~	~~	~~	~~
