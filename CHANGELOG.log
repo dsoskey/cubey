@@ -2514,3 +2514,5 @@ Timestamp	Board	ChangeType	Name
 2023-01-05T04:56:12.004+00:00	mainboard	add	Loran of the Third Path
 2023-01-05T05:06:13.509+00:00	mainboard	remove	Lightning Helix
 2023-01-05T05:06:13.509+00:00	mainboard	add	Dress Down
+2023-01-05T05:11:44.763+00:00	mainboard	remove	Gingerbrute
+2023-01-05T05:11:44.763+00:00	mainboard	add	Lodestone Golem
