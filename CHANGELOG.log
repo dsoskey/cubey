@@ -2524,3 +2524,7 @@ Timestamp	Board	ChangeType	Name
 2023-01-11T04:23:01.819+00:00	mainboard	add	Cathar Commando
 2023-01-11T04:37:53.549+00:00	mainboard	remove	Dress Down
 2023-01-11T04:37:53.549+00:00	mainboard	add	Serum Visions
+2023-01-11T04:44:49.319+00:00	mainboard	remove	Soul Shatter
+2023-01-11T04:44:49.319+00:00	mainboard	add	Fatal Push
+2023-01-11T04:44:49.319+00:00	mainboard	remove	Bastion of Remembrance
+2023-01-11T04:44:49.319+00:00	mainboard	add	Unearth
