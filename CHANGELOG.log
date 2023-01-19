@@ -2536,3 +2536,5 @@ Timestamp	Board	ChangeType	Name
 2023-01-19T01:40:16.044+00:00	mainboard	add	Force of Will
 2023-01-19T01:50:28.904+00:00	mainboard	remove	Nature's Claim
 2023-01-19T01:50:28.904+00:00	mainboard	add	Worldly Tutor
+2023-01-19T01:52:36.134+00:00	mainboard	remove	Exhume
+2023-01-19T01:52:36.134+00:00	mainboard	add	Entomb
