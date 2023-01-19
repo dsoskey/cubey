@@ -2538,3 +2538,5 @@ Timestamp	Board	ChangeType	Name
 2023-01-19T01:50:28.904+00:00	mainboard	add	Worldly Tutor
 2023-01-19T01:52:36.134+00:00	mainboard	remove	Exhume
 2023-01-19T01:52:36.134+00:00	mainboard	add	Entomb
+2023-01-19T02:00:58.230+00:00	mainboard	remove	Talrand, Sky Summoner
+2023-01-19T02:00:58.230+00:00	mainboard	add	Urza, Lord High Artificer
