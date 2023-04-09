@@ -221,11 +221,11 @@ Abundant Harvest	mh2	147	Owned	~~	Non-foil	1	G	~~	~~	Sorcery
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Blooming Marsh	pkld	243s	Owned	~~	Non-foil	0	B,G	~~	~~	Land
 Concealed Courtyard	kld	245	Owned	~~	Non-foil	0	B,W	~~	~~	Land
-Seachrome Coast	one	374	Owned	~~	Non-foil	0	U,W	~~	~~	Land
-Darkslick Shores	one	372	Owned	~~	Non-foil	0	B,U	~~	~~	Land
+Seachrome Coast	one	374	Owned	~~	Foil	0	U,W	~~	~~	Land
+Darkslick Shores	one	372	Owned	~~	Foil	0	B,U	~~	~~	Land
 Blackcleave Cliffs	one	370	Owned	~~	Foil	0	B,R	~~	~~	Land
-Razorverge Thicket	one	373	Owned	~~	Non-foil	0	G,W	~~	~~	Land
-Copperline Gorge	one	371	Owned	~~	Non-foil	0	G,R	~~	~~	Land
+Razorverge Thicket	one	373	Owned	~~	Foil	0	G,W	~~	~~	Land
+Copperline Gorge	one	371	Owned	~~	Foil	0	G,R	~~	~~	Land
 Skyclave Apparition	pznr	39s	Owned	~~	Foil	3	W	~~	~~	Creature — Kor Spirit
 Thieving Skydiver	pznr	85s	Owned	~~	Foil	2	U	~~	~~	Creature — Merfolk Rogue
 Woodfall Primus	uma	195	Owned	~~	Foil	8	G	~~	~~	Creature — Treefolk Shaman
@@ -287,7 +287,7 @@ Bonesplitter	pal03	8	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Boseiju, Who Endures	neo	266	Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
 The Eternal Wanderer	one	11	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Takenuma, Abandoned Mire	neo	278	Owned	~~	Non-foil	0	B	Black	~~	Legendary Land
-Atraxa, Grand Unifier	one	196	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Atraxa, Grand Unifier	one	196	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	~~	Foil	1	U	~~	~~	Instant
