@@ -31,8 +31,8 @@ Rankle, Master of Pranks	eld	101	Owned	Black	Non-foil	4	B	~~	~~	Legendary Creatu
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	m12	98	Owned	Black	Non-foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	mbs	46	Owned	Black	Non-foil	6	B	~~	~~	Creature — Wurm
-Duress	f05	10	Owned	~~	Foil	1	B	~~	~~	Sorcery
-Languish	pori	105	Owned	~~	Foil	4	B	~~	~~	Sorcery
+Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
+Languish	pori	105	Owned	Black	Foil	4	B	~~	~~	Sorcery
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	eld	138	Owned	Red	Non-foil	2	R	~~	~~	Creature — Human Archer Rogue
 Runaway Steam-Kin	grn	115	Owned	Red	Non-foil	2	R	~~	~~	Creature — Elemental
@@ -65,8 +65,8 @@ Mind Stone	pw21	5	Owned	~~	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	97	Owned	Black	Non-foil	3	B	~~	~~	Creature — Zombie Knight
 Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
-Damnation	sld	121	Owned	~~	Non-foil	4	B	~~	~~	Sorcery
-Bitterblossom	uma	85	Owned	~~	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
+Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
+Bitterblossom	uma	85	Owned	Black	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	White	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Jace, the Mind Sculptor	wwk	31	Owned	Blue	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Thraben Inspector	2xm	35	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
@@ -78,7 +78,7 @@ Sulfuric Vortex	ema	150	Owned	Red	Non-foil	3	R	~~	~~	Enchantment
 Brazen Borrower	eld	39	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Bomat Courier	kld	199	Owned	~~	Non-foil	1	R	Red	~~	Artifact Creature — Construct
 Smuggler's Copter	pkld	235s	Owned	~~	Foil	2	~~	~~	~~	Artifact — Vehicle
-Animate Dead	2ed	93	Owned	~~	Non-foil	2	B	~~	~~	Enchantment — Aura
+Animate Dead	2ed	93	Owned	Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Wrath of God	dmr	279	Owned	White	Foil	4	W	~~	~~	Sorcery
 Opposition	dmr	290	Owned	Blue	Foil	4	U	~~	~~	Enchantment
 Glorybringer	pakh	134	Owned	Red	Foil	5	R	~~	~~	Creature — Dragon
@@ -120,12 +120,12 @@ Watery Grave	unf	278	Owned	~~	Foil	0	U,B	~~	~~	Land — Island Swamp
 Breeding Pool	unf	286	Owned	~~	Foil	0	U,G	~~	~~	Land — Forest Island
 Steam Vents	unf	283	Owned	~~	Foil	0	U,R	~~	~~	Land — Island Mountain
 Winds of Abandon	mh1	37	Owned	White	Non-foil	2	W	~~	~~	Sorcery
-Unmarked Grave	pmh2	106s	Owned	~~	Foil	2	B	~~	~~	Sorcery
+Unmarked Grave	pmh2	106s	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Grief	mh2	311	Owned	Black	Non-foil	4	B	~~	~~	Creature — Elemental Incarnation
 Sedgemoor Witch	pstx	86s	Owned	Black	Foil	3	B	~~	~~	Creature — Human Warlock
-Persist	pmh2	96s	Owned	~~	Foil	2	B	~~	~~	Sorcery
+Persist	pmh2	96s	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Damn	mh2	396	Owned	~~	Foil	2	W,B	Multicolored	~~	Sorcery
-Bone Shards	mh2	395	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Bone Shards	mh2	395	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Soul-Scar Mage	akh	148	Owned	~~	Non-foil	1	R	~~	~~	Creature — Human Wizard
 Laelia, the Blade Reforged	c21	380	Owned	Red	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
 Faithless Salvaging	mh2	122	Owned	Red	Foil	2	R	~~	~~	Instant
@@ -141,8 +141,8 @@ Memory Deluge	mid	62	Owned	Blue	Foil	4	U	~~	~~	Instant
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
 Gutterbones	rna	76	Owned	Black	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
 Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
-Infernal Grasp	mid	107	Owned	~~	Non-foil	2	B	~~	~~	Instant
-Liliana, the Last Hope	emn	93	Owned	~~	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
+Infernal Grasp	mid	107	Owned	Black	Non-foil	2	B	~~	~~	Instant
+Liliana, the Last Hope	emn	93	Owned	Black	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Play with Fire	mid	154	Owned	Red	Non-foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	~~	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Spellskite	nph	159	Owned	~~	Non-foil	2	~~	Colorless	~~	Artifact Creature — Phyrexian Horror
@@ -242,7 +242,7 @@ Dreamroot Cascade	vow	262	Owned	~~	Non-foil	0	U,G	~~	~~	Land
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Shattered Sanctum	vow	264	Owned	~~	Non-foil	0	W,B	~~	~~	Land
 Upheaval	v14	13	Owned	Blue	Foil	6	U	~~	~~	Sorcery
-Bloodchief's Thirst	znr	94	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Bloodchief's Thirst	znr	94	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Cabal Initiate	mh2	78	Owned	Black	Non-foil	2	B	~~	~~	Creature — Human Warlock
 Flametongue Kavu	f05	3	Owned	~~	Foil	4	R	~~	~~	Creature — Kavu
 Fable of the Mirror-Breaker	pneo	141s	Owned	~~	Foil	3	R	~~	~~	Enchantment — Saga
@@ -291,12 +291,12 @@ Atraxa, Grand Unifier	one	196	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	Blue	Foil	1	U	~~	~~	Instant
-Dark Ritual	sta	26	Owned	~~	Non-foil	1	B	~~	~~	Instant
-Baleful Mastery	pstx	64s	Owned	~~	Foil	2	B	~~	~~	Instant
-Demonic Tutor	sta	27	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
-Thoughtseize	sld	1117	Owned	~~	Foil	1	B	~~	~~	Sorcery
-Sheoldred's Edict	one	108	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Inquisition of Kozilek	roe	115	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Dark Ritual	sta	26	Owned	Black	Non-foil	1	B	~~	~~	Instant
+Baleful Mastery	pstx	64s	Owned	Black	Foil	2	B	~~	~~	Instant
+Demonic Tutor	sta	27	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
+Thoughtseize	sld	1117	Owned	Black	Foil	1	B	~~	~~	Sorcery
+Sheoldred's Edict	one	108	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
+Inquisition of Kozilek	roe	115	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Vampire Hexmage	cns	132	Owned	Black	Foil	2	B	~~	~~	Creature — Vampire Shaman
 Flame Slash	roe	145	Owned	~~	Non-foil	1	R	~~	~~	Sorcery
 Fiery Confluence	ss3	3	Owned	~~	Non-foil	4	R	~~	~~	Sorcery
@@ -315,7 +315,7 @@ Shelldock Isle	sld	230	Owned	Land	Foil	0	U	Blue	~~	Land
 Mother of Runes	sld	299	Owned	White	Foil	1	W	~~	~~	Creature — Human Cleric
 Adeline, Resplendent Cathar	mid	1	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Knight
 Deceiver Exarch	nph	33	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Phyrexian Cleric
-Reanimate	uma	110	Owned	Alter	Non-foil	1	B	~~	~~	Sorcery
+Reanimate	uma	110	Owned	Alter,Black	Non-foil	1	B	~~	~~	Sorcery
 Splinter Twin	plst	ROE-165	Owned	~~	Non-foil	4	R	~~	~~	Enchantment — Aura
 Kiki-Jiki, Mirror Breaker	chk	175	Owned	~~	Non-foil	5	R	~~	~~	Legendary Creature — Goblin Shaman
 Through the Breach	uma	152	Owned	~~	Foil	5	R	~~	~~	Instant — Arcane
@@ -335,8 +335,8 @@ Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Archon of Emeria	pznr	4s	Owned	White	Foil	3	W	~~	~~	Creature — Archon
 Balance	sld	173	Owned	White	Non-foil	2	W	~~	~~	Sorcery
-Collective Brutality	emn	85	Owned	~~	Non-foil	2	B	~~	~~	Sorcery
-Bolas's Citadel	plg21	3	Owned	~~	Foil	6	B	~~	~~	Legendary Artifact
+Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
+Bolas's Citadel	plg21	3	Owned	Black	Foil	6	B	~~	~~	Legendary Artifact
 Hazoret the Fervent	akh	136	Owned	~~	Non-foil	4	R	~~	~~	Legendary Creature — God
 Endurance	mh2	157	Owned	~~	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
 Fyndhorn Elves	v13	4	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
@@ -375,13 +375,13 @@ Armageddon	6ed	4	Owned	White	Non-foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
 Phantasmal Image	m12	72	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Illusion
 Ledger Shredder	snc	46	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Bird Advisor
-Hymn to Tourach	v13	3	Owned	~~	Foil	2	B	~~	~~	Sorcery
+Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Frogkin Kidnapper	cmb2	42	Owned	Black	Non-foil	2	B	~~	~~	Creature — Frog Rogue
 Bloodghast	plst	ZEN-83	Owned	Black	Non-foil	2	B	~~	~~	Creature — Vampire Spirit
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
 Carrion Feeder	sld	1114	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie
 Tourach, Dread Cantor	mh2	312	Owned	Black	Non-foil	2	B	~~	~~	Legendary Creature — Human Cleric
-Recurring Nightmare	wc98	bs72	Owned	~~	Non-foil	3	B	~~	~~	Enchantment
+Recurring Nightmare	wc98	bs72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	c16	123	Owned	Alter	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
 Burning of Xinye	v14	2	Owned	~~	Foil	6	R	~~	~~	Sorcery
 Wildfire	p02	120	Owned	~~	Non-foil	6	R	~~	~~	Sorcery
@@ -400,10 +400,10 @@ Raffine's Tower	snc	353	Owned	~~	Non-foil	0	W,U,B	~~	~~	Land — Plains Island S
 Xander's Lounge	snc	358	Owned	~~	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Workshop Warchief	gdy	5	Owned	~~	Foil	5	G	~~	~~	Creature — Rhino Warrior
 Raugrin Triome	iko	311	Owned	~~	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
-Lethal Scheme	ncc	36	Owned	~~	Non-foil	4	B	~~	~~	Instant
+Lethal Scheme	ncc	36	Owned	Black	Non-foil	4	B	~~	~~	Instant
 Spara's Headquarters	snc	355	Owned	~~	Non-foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Wasteland	sld	178	Owned	Alter	Non-foil	0	~~	~~	~~	Land
-Hero's Downfall	ths	90	Owned	Alter	Non-foil	3	B	~~	~~	Instant
+Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	~~	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Consecrated Sphinx	2x2	43	Owned	Blue	Non-foil	6	U	~~	~~	Creature — Sphinx
 Seasoned Pyromancer	2x2	363	Owned	~~	Non-foil	3	R	~~	~~	Creature — Human Shaman
@@ -423,7 +423,7 @@ Gifts Ungiven	2x2	347	Owned	Blue	Foil	4	U	~~	~~	Instant
 Baral, Chief of Compliance	aer	28	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Subtlety	mh2	309	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Elemental Incarnation
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
-Vampiric Tutor	cmr	156	Owned	Alter	Non-foil	1	B	~~	~~	Instant
+Vampiric Tutor	cmr	156	Owned	Alter,Black	Non-foil	1	B	~~	~~	Instant
 Timeless Dragon	mh2	388	Owned	White	Foil	5	W	~~	~~	Creature — Dragon
 March of Otherworldly Light	neo	28	Owned	White	Foil	1	W	~~	~~	Instant
 Dire Fleet Daredevil	prix	99s	Owned	~~	Foil	2	R	~~	~~	Creature — Human Pirate
@@ -433,7 +433,7 @@ Soulherder	mh1	214	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Soldier
 Hornet Queen	c21	193	Owned	Alter	Non-foil	7	G	~~	~~	Creature — Insect
 Minsc & Boo, Timeless Heroes	clb	285	Owned	~~	Non-foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
-Dance of the Dead	ice	118	Owned	Alter	Non-foil	2	B	~~	~~	Enchantment — Aura
+Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Basalt Monolith	2xm	232	Owned	~~	Foil	3	~~	~~	~~	Artifact
 Fellwar Stone	sld	708	Owned	~~	Foil	2	~~	~~	~~	Artifact
 Golos, Tireless Pilgrim	m20	226	Owned	~~	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
@@ -447,7 +447,7 @@ Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creatu
 Fury	mh2	313	Owned	~~	Non-foil	5	R	~~	~~	Creature — Elemental Incarnation
 Guardian of New Benalia	dmu	19	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
 Fact or Fiction	sld	333	Owned	Blue	Foil	4	U	~~	~~	Instant
-Liliana of the Veil	dmu	97	Owned	~~	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
+Liliana of the Veil	dmu	97	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Tarmogoyf	tsr	235	Owned	~~	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Cankerbloom	one	294	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
@@ -486,11 +486,11 @@ Llanowar Wastes	bro	299	Owned	~~	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	~~	Foil	0	W,R	~~	~~	Land
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Tezzeret, Betrayer of Flesh	neo	84	Owned	Blue	Foil	4	U	~~	~~	Legendary Planeswalker — Tezzeret
-Toxic Deluge	cc2	6	Owned	~~	Foil	3	B	~~	~~	Sorcery
-Living Death	40k	202★	Owned	~~	Foil	5	B	~~	~~	Sorcery
+Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
+Living Death	40k	202★	Owned	Black	Foil	5	B	~~	~~	Sorcery
 Misery's Shadow	bro	107	Owned	Black	Foil	2	B	~~	~~	Creature — Shade
 Phyrexian Fleshgorger	bro	121	Owned	Black	Foil	3	B	~~	~~	Artifact Creature — Phyrexian Wurm
-Cut Down	dmu	432	Owned	~~	Foil	1	B	~~	~~	Instant
+Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
 Custodi Lich	cn2	41	Owned	Black	Foil	5	B	~~	~~	Creature — Zombie Cleric
 Saheeli, Sublime Artificer	sld	1143	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Monster Manual	clb	242	Owned	~~	Foil	4	G	~~	~~	Artifact
@@ -505,7 +505,7 @@ Spell Queller	sld	193	Owned	~~	Foil	3	W,U	~~	~~	Creature — Spirit
 Tidehollow Sculler	f10	1	Owned	~~	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
 Sprite Dragon	iko	382	Owned	~~	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
 Putrefy	sta	63	Owned	~~	Non-foil	3	B,G	~~	~~	Instant
-Disfigure	2x2	74	Owned	~~	Foil	1	B	~~	~~	Instant
+Disfigure	2x2	74	Owned	Black	Foil	1	B	~~	~~	Instant
 Shock	sta	44	Owned	~~	Foil	1	R	~~	~~	Instant
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Heirloom Blade	znc	113	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
@@ -525,13 +525,13 @@ Knight of Autumn	pgrn	183s	Owned	~~	Foil	3	W,G	~~	~~	Creature — Dryad Knight
 Chromatic Star	brr	74	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
 Serum Visions	sld	32	Owned	Blue	Foil	1	U	~~	~~	Sorcery
-Fatal Push	f17	8	Owned	~~	Foil	1	B	~~	~~	Instant
-Unearth	2x2	357	Owned	~~	Foil	1	B	~~	~~	Sorcery
+Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
+Unearth	2x2	357	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Quirion Beastcaller	pdmu	175s	Owned	~~	Foil	2	G	~~	~~	Creature — Dryad Warrior
 Sylvan Library	dmr	441	Owned	~~	Foil	2	G	~~	~~	Enchantment
 Force of Will	dmr	50	Owned	Blue	Foil	0	U	~~	~~	Instant
 Worldly Tutor	dmr	185	Owned	~~	Foil	1	G	~~	~~	Instant
-Entomb	dmr	304	Owned	~~	Foil	1	B	~~	~~	Instant
+Entomb	dmr	304	Owned	Black	Foil	1	B	~~	~~	Instant
 Urza, Lord High Artificer	dmr	71	Owned	Blue	Foil	4	U	~~	~~	Legendary Creature — Human Artificer
 Emry, Lurker of the Loch	peld	43s	Owned	Blue	Foil	3	U	~~	~~	Legendary Creature — Merfolk Wizard
 Ertai Resurrected	dmu	339	Owned	~~	Foil	4	U,B	~~	~~	Legendary Creature — Phyrexian Human Wizard
