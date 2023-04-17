@@ -89,36 +89,36 @@ Reclamation Sage	2xm	178	Owned	Green	Foil	3	G	~~	~~	Creature — Elf Shaman
 Garruk Wildspeaker	sld	1142	Owned	Green	Foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Uro, Titan of Nature's Wrath	thb	229	Owned	Gold	Non-foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Skyclave Shade	znr	298	Owned	Black	Foil	2	B	~~	~~	Creature — Shade
-Dark Depths	dmr	394	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Dark Depths	dmr	394	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Sower of Temptation	sld	120	Owned	Blue	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Chromatic Lantern	sld	202	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
-Mutavault	pgpx	2018	Owned	~~	Foil	0	~~	~~	~~	Land
+Mutavault	pgpx	2018	Owned	Land	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	White	Non-foil	3	W	White	~~	Artifact Creature — Soldier
 Mimic Vat	c19	219	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
 Cyclonic Rift	c14	104	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
 Luminarch Aspirant	znr	24	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Cleric
-Verdant Catacombs	zen	229	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Marsh Flats	mh2	248	Owned	~~	Foil	0	W,B	~~	~~	Land
-Misty Rainforest	zne	10	Owned	~~	Non-foil	0	U,G	~~	~~	Land
-Polluted Delta	ktk	239	Owned	~~	Non-foil	0	U,B	~~	~~	Land
-Wooded Foothills	ktk	249	Owned	~~	Non-foil	0	R,G	~~	~~	Land
-Windswept Heath	ktk	248	Owned	~~	Non-foil	0	W,G	~~	~~	Land
-Flooded Strand	ktk	233	Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Scalding Tarn	zen	223	Owned	~~	Non-foil	0	U,R	~~	~~	Land
-Bloodstained Mire	ktk	230	Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Arid Mesa	zen	211	Owned	~~	Non-foil	0	W,R	~~	~~	Land
-Stomping Ground	unf	280	Owned	~~	Foil	0	R,G	~~	~~	Land — Mountain Forest
-Blood Crypt	unf	279	Owned	~~	Foil	0	B,R	~~	~~	Land — Swamp Mountain
-Temple Garden	unf	281	Owned	~~	Foil	0	W,G	~~	~~	Land — Forest Plains
-Hallowed Fountain	unf	277	Owned	~~	Foil	0	W,U	~~	~~	Land — Plains Island
-Godless Shrine	unf	282	Owned	~~	Foil	0	W,B	~~	~~	Land — Plains Swamp
-Overgrown Tomb	unf	284	Owned	~~	Foil	0	B,G	~~	~~	Land — Swamp Forest
-Sacred Foundry	unf	285	Owned	~~	Foil	0	W,R	~~	~~	Land — Mountain Plains
-Watery Grave	unf	278	Owned	~~	Foil	0	U,B	~~	~~	Land — Island Swamp
-Breeding Pool	unf	286	Owned	~~	Foil	0	U,G	~~	~~	Land — Forest Island
-Steam Vents	unf	283	Owned	~~	Foil	0	U,R	~~	~~	Land — Island Mountain
+Verdant Catacombs	zen	229	Owned	Land	Non-foil	0	B,G	~~	~~	Land
+Marsh Flats	mh2	248	Owned	Land	Foil	0	W,B	~~	~~	Land
+Misty Rainforest	zne	10	Owned	Land	Non-foil	0	U,G	~~	~~	Land
+Polluted Delta	ktk	239	Owned	Land	Non-foil	0	U,B	~~	~~	Land
+Wooded Foothills	ktk	249	Owned	Land	Non-foil	0	R,G	~~	~~	Land
+Windswept Heath	ktk	248	Owned	Land	Non-foil	0	W,G	~~	~~	Land
+Flooded Strand	ktk	233	Owned	Land	Non-foil	0	W,U	~~	~~	Land
+Scalding Tarn	zen	223	Owned	Land	Non-foil	0	U,R	~~	~~	Land
+Bloodstained Mire	ktk	230	Owned	Land	Non-foil	0	B,R	~~	~~	Land
+Arid Mesa	zen	211	Owned	Land	Non-foil	0	W,R	~~	~~	Land
+Stomping Ground	unf	280	Owned	Land	Foil	0	R,G	~~	~~	Land — Mountain Forest
+Blood Crypt	unf	279	Owned	Land	Foil	0	B,R	~~	~~	Land — Swamp Mountain
+Temple Garden	unf	281	Owned	Land	Foil	0	W,G	~~	~~	Land — Forest Plains
+Hallowed Fountain	unf	277	Owned	Land	Foil	0	W,U	~~	~~	Land — Plains Island
+Godless Shrine	unf	282	Owned	Land	Foil	0	W,B	~~	~~	Land — Plains Swamp
+Overgrown Tomb	unf	284	Owned	Land	Foil	0	B,G	~~	~~	Land — Swamp Forest
+Sacred Foundry	unf	285	Owned	Land	Foil	0	W,R	~~	~~	Land — Mountain Plains
+Watery Grave	unf	278	Owned	Land	Foil	0	U,B	~~	~~	Land — Island Swamp
+Breeding Pool	unf	286	Owned	Land	Foil	0	U,G	~~	~~	Land — Forest Island
+Steam Vents	unf	283	Owned	Land	Foil	0	U,R	~~	~~	Land — Island Mountain
 Winds of Abandon	mh1	37	Owned	White	Non-foil	2	W	~~	~~	Sorcery
 Unmarked Grave	pmh2	106s	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Grief	mh2	311	Owned	Black	Non-foil	4	B	~~	~~	Creature — Elemental Incarnation
@@ -185,16 +185,16 @@ Hanweir Garrison	emn	130a	Owned	Red	Foil	3	R	~~	~~	Creature — Human Soldier
 Joraga Treespeaker	roe	190	Owned	Green	Non-foil	1	G	~~	~~	Creature — Elf Druid
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
-Lavaclaw Reaches	wwk	139	Owned	~~	Non-foil	0	B,R	~~	~~	Land
+Lavaclaw Reaches	wwk	139	Owned	Land	Non-foil	0	B,R	~~	~~	Land
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
-Wandering Fumarole	ogw	182	Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Hissing Quagmire	ogw	171	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Creeping Tar Pit	zne	24	Owned	~~	Foil	0	U,B	~~	~~	Land
-Needle Spires	ogw	175	Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Celestial Colonnade	pwwk	133	Owned	~~	Foil	0	W,U	~~	~~	Land
-Lumbering Falls	bfz	239	Owned	~~	Non-foil	0	U,G	~~	~~	Land
-Shambling Vent	bfz	244	Owned	~~	Non-foil	0	B,W	~~	~~	Land
-Tectonic Edge	f12	3	Owned	~~	Foil	0	~~	~~	~~	Land
+Wandering Fumarole	ogw	182	Owned	Land	Non-foil	0	R,U	~~	~~	Land
+Hissing Quagmire	ogw	171	Owned	Land	Non-foil	0	B,G	~~	~~	Land
+Creeping Tar Pit	zne	24	Owned	Land	Foil	0	U,B	~~	~~	Land
+Needle Spires	ogw	175	Owned	Land	Non-foil	0	R,W	~~	~~	Land
+Celestial Colonnade	pwwk	133	Owned	Land	Foil	0	W,U	~~	~~	Land
+Lumbering Falls	bfz	239	Owned	Land	Non-foil	0	U,G	~~	~~	Land
+Shambling Vent	bfz	244	Owned	Land	Non-foil	0	B,W	~~	~~	Land
+Tectonic Edge	f12	3	Owned	Land	Foil	0	~~	~~	~~	Land
 Day of Judgment	p11	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Spirit of the Labyrinth	bng	27	Owned	White	Non-foil	2	W	~~	~~	Enchantment Creature — Spirit
 Sol Ring	pf19	7	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
@@ -219,28 +219,28 @@ Ragavan, Nimble Pilferer	mh2	138	Owned	Red	Non-foil	1	R	~~	~~	Legendary Creature
 Ignoble Hierarch	mh2	355	Owned	Green	Foil	1	G	~~	~~	Creature — Goblin Shaman
 Abundant Harvest	mh2	147	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
-Blooming Marsh	pkld	243s	Owned	~~	Non-foil	0	B,G	~~	~~	Land
-Concealed Courtyard	kld	245	Owned	~~	Non-foil	0	B,W	~~	~~	Land
-Seachrome Coast	one	374	Owned	~~	Foil	0	U,W	~~	~~	Land
-Darkslick Shores	one	372	Owned	~~	Foil	0	B,U	~~	~~	Land
-Blackcleave Cliffs	one	370	Owned	~~	Foil	0	B,R	~~	~~	Land
-Razorverge Thicket	one	373	Owned	~~	Foil	0	G,W	~~	~~	Land
-Copperline Gorge	one	371	Owned	~~	Foil	0	G,R	~~	~~	Land
+Blooming Marsh	pkld	243s	Owned	Land	Non-foil	0	B,G	~~	~~	Land
+Concealed Courtyard	kld	245	Owned	Land	Non-foil	0	B,W	~~	~~	Land
+Seachrome Coast	one	374	Owned	Land	Foil	0	U,W	~~	~~	Land
+Darkslick Shores	one	372	Owned	Land	Foil	0	B,U	~~	~~	Land
+Blackcleave Cliffs	one	370	Owned	Land	Foil	0	B,R	~~	~~	Land
+Razorverge Thicket	one	373	Owned	Land	Foil	0	G,W	~~	~~	Land
+Copperline Gorge	one	371	Owned	Land	Foil	0	G,R	~~	~~	Land
 Skyclave Apparition	pznr	39s	Owned	White	Foil	3	W	~~	~~	Creature — Kor Spirit
 Thieving Skydiver	pznr	85s	Owned	Blue	Foil	2	U	~~	~~	Creature — Merfolk Rogue
 Woodfall Primus	uma	195	Owned	Green	Foil	8	G	~~	~~	Creature — Treefolk Shaman
-Inspiring Vantage	kld	246	Owned	~~	Non-foil	0	R,W	~~	~~	Land
-Spirebluff Canal	kld	249	Owned	~~	Non-foil	0	R,U	~~	~~	Land
-Deserted Beach	mid	260	Owned	~~	Non-foil	0	W,U	~~	~~	Land
-Overgrown Farmland	mid	265	Owned	~~	Non-foil	0	W,G	~~	~~	Land
-Sundown Pass	vow	266	Owned	~~	Non-foil	0	W,R	~~	~~	Land
-Stormcarved Coast	vow	265	Owned	~~	Non-foil	0	U,R	~~	~~	Land
-Rockfall Vale	mid	266	Owned	~~	Non-foil	0	R,G	~~	~~	Land
-Shipwreck Marsh	mid	285	Owned	~~	Non-foil	0	U,B	~~	~~	Land
-Haunted Ridge	mid	263	Owned	~~	Non-foil	0	B,R	~~	~~	Land
-Dreamroot Cascade	vow	262	Owned	~~	Non-foil	0	U,G	~~	~~	Land
+Inspiring Vantage	kld	246	Owned	Land	Non-foil	0	R,W	~~	~~	Land
+Spirebluff Canal	kld	249	Owned	Land	Non-foil	0	R,U	~~	~~	Land
+Deserted Beach	mid	260	Owned	Land	Non-foil	0	W,U	~~	~~	Land
+Overgrown Farmland	mid	265	Owned	Land	Non-foil	0	W,G	~~	~~	Land
+Sundown Pass	vow	266	Owned	Land	Non-foil	0	W,R	~~	~~	Land
+Stormcarved Coast	vow	265	Owned	Land	Non-foil	0	U,R	~~	~~	Land
+Rockfall Vale	mid	266	Owned	Land	Non-foil	0	R,G	~~	~~	Land
+Shipwreck Marsh	mid	285	Owned	Land	Non-foil	0	U,B	~~	~~	Land
+Haunted Ridge	mid	263	Owned	Land	Non-foil	0	B,R	~~	~~	Land
+Dreamroot Cascade	vow	262	Owned	Land	Non-foil	0	U,G	~~	~~	Land
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
-Shattered Sanctum	vow	264	Owned	~~	Non-foil	0	W,B	~~	~~	Land
+Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Upheaval	v14	13	Owned	Blue	Foil	6	U	~~	~~	Sorcery
 Bloodchief's Thirst	znr	94	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Cabal Initiate	mh2	78	Owned	Black	Non-foil	2	B	~~	~~	Creature — Human Warlock
@@ -286,7 +286,7 @@ Dack Fayden	ema	199	Owned	Gold	Non-foil	3	U,R	~~	~~	Legendary Planeswalker — D
 Bonesplitter	pal03	8	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Boseiju, Who Endures	neo	266	Owned	Land	Non-foil	0	G	Green	~~	Legendary Land
 The Eternal Wanderer	one	11	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
-Forbidden Orchard	v12	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Forbidden Orchard	v12	6	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
@@ -343,18 +343,18 @@ Fyndhorn Elves	v13	4	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Assassin's Trophy	sld	139	Owned	Gold	Non-foil	2	B,G	~~	~~	Instant
 Lotus Bloom	tsr	411	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
 Karn, Scion of Urza	dom	1	Owned	Artifact	Non-foil	4	~~	~~	~~	Legendary Planeswalker — Karn
-Fabled Passage	pw21	4	Owned	~~	Foil	0	~~	~~	~~	Land
+Fabled Passage	pw21	4	Owned	Land	Foil	0	~~	~~	~~	Land
 Bonehoard	plst	CMA-211	Owned	Alter,Artifact	Non-foil	4	~~	~~	~~	Artifact — Equipment
 Windbrisk Heights	c20	321	Owned	Alter,Land	Non-foil	0	W	White	~~	Land
 The Reality Chip	neo	74	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Artifact Creature — Equipment Jellyfish
 Ethersworn Canonist	ala	10	Owned	White	Non-foil	2	W	~~	~~	Artifact Creature — Human Cleric
 Depopulate	snc	10	Owned	Alter,White	Non-foil	4	W	~~	~~	Sorcery
-Jetmir's Garden	snc	351	Owned	~~	Non-foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
+Jetmir's Garden	snc	351	Owned	Land	Non-foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
 Talisman of Progress	sld	1052	Owned	Gold	Foil	2	W,U	~~	~~	Artifact
 Talisman of Indulgence	sld	1054	Owned	Gold	Foil	2	B,R	~~	~~	Artifact
 Emrakul, the Promised End	emn	6	Owned	Artifact	Non-foil	13	~~	~~	~~	Legendary Creature — Eldrazi
 Talisman of Dominance	sld	1053	Owned	Gold	Foil	2	U,B	~~	~~	Artifact
-Ketria Triome	iko	310	Owned	~~	Non-foil	0	U,R,G	~~	~~	Land — Forest Island Mountain
+Ketria Triome	iko	310	Owned	Land	Non-foil	0	U,R,G	~~	~~	Land — Forest Island Mountain
 Talisman of Impulse	sld	1055	Owned	Gold	Foil	2	R,G	~~	~~	Artifact
 Talisman of Unity	sld	1056	Owned	Gold	Foil	2	W,G	~~	~~	Artifact
 Talisman of Hierarchy	sld	1057	Owned	Gold	Etched	2	W,B	~~	~~	Artifact
@@ -363,7 +363,7 @@ Talisman of Resilience	sld	1059	Owned	Gold	Foil	2	B,G	~~	~~	Artifact
 Talisman of Conviction	sld	1060	Owned	Gold	Foil	2	W,R	~~	~~	Artifact
 Talisman of Curiosity	sld	1061	Owned	Gold	Foil	2	U,G	~~	~~	Artifact
 Ophiomancer	cc2	3	Owned	Alter,Black	Non-foil	3	B	~~	~~	Creature — Human Shaman
-Ziatora's Proving Ground	snc	359	Owned	~~	Non-foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
+Ziatora's Proving Ground	snc	359	Owned	Land	Non-foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Coldsteel Heart	2x2	301	Owned	Artifact	Foil	2	~~	~~	~~	Snow Artifact
 Rise and Shine	mh2	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Titan of Industry	snc	289	Owned	Green	Foil	7	G	~~	~~	Creature — Elemental
@@ -393,16 +393,16 @@ Noble Hierarch	2xm	352	Owned	Green	Foil	1	G	Green	~~	Creature — Human Druid
 Nightpack Ambusher	m20	185	Owned	Green	Non-foil	4	G	~~	~~	Creature — Wolf
 Oko, Thief of Crowns	eld	197	Owned	Gold	Non-foil	3	G,U	~~	~~	Legendary Planeswalker — Oko
 Coalition Relic	a25	223	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
-Zagoth Triome	iko	313	Owned	~~	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
-Savai Triome	iko	312	Owned	~~	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
-Indatha Triome	iko	309	Owned	~~	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
-Raffine's Tower	snc	353	Owned	~~	Non-foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
-Xander's Lounge	snc	358	Owned	~~	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
+Zagoth Triome	iko	313	Owned	Land	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
+Savai Triome	iko	312	Owned	Land	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
+Indatha Triome	iko	309	Owned	Land	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
+Raffine's Tower	snc	353	Owned	Land	Non-foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
+Xander's Lounge	snc	358	Owned	Land	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Workshop Warchief	gdy	5	Owned	Green	Foil	5	G	~~	~~	Creature — Rhino Warrior
-Raugrin Triome	iko	311	Owned	~~	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
+Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
 Lethal Scheme	ncc	36	Owned	Black	Non-foil	4	B	~~	~~	Instant
-Spara's Headquarters	snc	355	Owned	~~	Non-foil	0	W,U,G	~~	~~	Land — Forest Plains Island
-Wasteland	sld	178	Owned	Alter	Non-foil	0	~~	~~	~~	Land
+Spara's Headquarters	snc	355	Owned	Land	Non-foil	0	W,U,G	~~	~~	Land — Forest Plains Island
+Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Consecrated Sphinx	2x2	43	Owned	Blue	Non-foil	6	U	~~	~~	Creature — Sphinx
@@ -412,8 +412,8 @@ Parallax Wave	plst	NEM-17	Owned	White	Non-foil	4	W	~~	~~	Enchantment
 Mana Drain	2x2	348	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Green Sun's Zenith	ema	169	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Bramble Sovereign	clb	372	Owned	Green	Non-foil	4	G	~~	~~	Creature — Dryad
-City of Brass	2x2	403	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Maze of Ith	v12	10	Owned	~~	Foil	0	~~	~~	~~	Land
+City of Brass	2x2	403	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Maze of Ith	v12	10	Owned	Land	Foil	0	~~	~~	~~	Land
 Monastery Mentor	2x2	21	Owned	White	Foil	3	W	~~	~~	Creature — Human Monk
 Force of Negation	2x2	346	Owned	Blue	Non-foil	0	U	~~	~~	Instant
 Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
@@ -437,12 +437,12 @@ Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — A
 Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Fellwar Stone	sld	708	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
-Mishra's Factory	mh2	326	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Dust Bowl	mmq	316	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Strip Mine	4ed	363	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Gemstone Mine	dmr	455	Owned	~~	Foil	0	~~	~~	~~	Land
+Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Dust Bowl	mmq	316	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Gemstone Mine	dmr	455	Owned	Land	Foil	0	~~	~~	~~	Land
 Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
-Mana Confluence	sld	1012a	Owned	~~	Non-foil	0	~~	~~	~~	Land
+Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creature — Phyrexian Praetor
 Fury	mh2	313	Owned	Red	Non-foil	5	R	~~	~~	Creature — Elemental Incarnation
 Guardian of New Benalia	dmu	19	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
@@ -450,19 +450,19 @@ Fact or Fiction	sld	333	Owned	Blue	Foil	4	U	~~	~~	Instant
 Liliana of the Veil	dmu	97	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Tarmogoyf	tsr	235	Owned	Green	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Cankerbloom	one	294	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
-Field of the Dead	m20	247	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Prismatic Vista	mh1	244	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Urza's Saga	mh2	259	Owned	~~	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
-Rishadan Port	a25	246	Owned	~~	Non-foil	0	~~	~~	~~	Land
-Adarkar Wastes	dmu	377	Owned	~~	Foil	0	W,U	~~	~~	Land
-Sulfurous Springs	dmu	381	Owned	~~	Foil	0	B,R	~~	~~	Land
-Karplusan Forest	dmu	379	Owned	~~	Foil	0	R,G	~~	~~	Land
-Caves of Koilos	dmu	378	Owned	~~	Foil	0	W,B	~~	~~	Land
-Yavimaya Coast	dmu	382	Owned	~~	Foil	0	U,G	~~	~~	Land
+Field of the Dead	m20	247	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Prismatic Vista	mh1	244	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Urza's Saga	mh2	259	Owned	Land	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
+Rishadan Port	a25	246	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Adarkar Wastes	dmu	377	Owned	Land	Foil	0	W,U	~~	~~	Land
+Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
+Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
+Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
+Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
 Braids, Arisen Nightmare	dmu	288	Owned	Black	Foil	3	B	~~	~~	Legendary Creature — Nightmare
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Jaya, Fiery Negotiator	dmu	133	Owned	Red	Foil	4	R	~~	~~	Legendary Planeswalker — Jaya
-Shivan Reef	dmu	380	Owned	~~	Foil	0	U,R	~~	~~	Land
+Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Siren Stormtamer	xln	79	Owned	Blue	Non-foil	1	U	~~	~~	Creature — Siren Pirate Wizard
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
@@ -478,12 +478,12 @@ Myrel, Shield of Argive	bro	18	Owned	White	Non-foil	4	W	~~	~~	Legendary Creature
 Teething Wurmlet	bro	192	Owned	Green	Foil	1	G	~~	~~	Creature — Wurm
 Haywire Mite	bro	199	Owned	Green	Foil	1	G	~~	~~	Artifact Creature — Insect
 Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Monk
-Thespian's Stage	2xm	327	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Expedition Map	2xm	359	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
-Underground River	bro	300	Owned	~~	Foil	0	U,B	~~	~~	Land
-Brushland	bro	298	Owned	~~	Foil	0	W,G	~~	~~	Land
-Llanowar Wastes	bro	299	Owned	~~	Foil	0	B,G	~~	~~	Land
-Battlefield Forge	bro	297	Owned	~~	Foil	0	W,R	~~	~~	Land
+Underground River	bro	300	Owned	Land	Foil	0	U,B	~~	~~	Land
+Brushland	bro	298	Owned	Land	Foil	0	W,G	~~	~~	Land
+Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
+Battlefield Forge	bro	297	Owned	Land	Foil	0	W,R	~~	~~	Land
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Tezzeret, Betrayer of Flesh	neo	84	Owned	Blue	Foil	4	U	~~	~~	Legendary Planeswalker — Tezzeret
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
@@ -509,7 +509,7 @@ Disfigure	2x2	74	Owned	Black	Foil	1	B	~~	~~	Instant
 Shock	sta	44	Owned	Red	Foil	1	R	~~	~~	Instant
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Heirloom Blade	znc	113	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact — Equipment
-Ash Barrens	40k	265★	Owned	~~	Foil	0	~~	~~	~~	Land
+Ash Barrens	40k	265★	Owned	Land	Foil	0	~~	~~	~~	Land
 Thought Scour	2x2	351	Owned	Blue	Foil	1	U	~~	~~	Instant
 Zealous Conscripts	avr	166	Owned	Red	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Guttersnipe	c19	145	Owned	Red	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
