@@ -510,7 +510,6 @@ Shock	sta	44	Owned	~~	Foil	1	R	~~	~~	Instant
 Seasoned Hallowblade	m21	34	Owned	~~	Foil	2	W	~~	~~	Creature — Human Warrior
 Heirloom Blade	znc	113	Owned	~~	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Ash Barrens	40k	265★	Owned	~~	Foil	0	~~	~~	~~	Land
-Explore	40k	213★	Owned	~~	Foil	2	G	~~	~~	Sorcery
 Thought Scour	2x2	351	Owned	~~	Foil	1	U	~~	~~	Instant
 Zealous Conscripts	avr	166	Owned	~~	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Guttersnipe	c19	145	Owned	~~	Non-foil	3	R	~~	~~	Creature — Goblin Shaman
@@ -539,3 +538,4 @@ Ertai Resurrected	dmu	339	Owned	~~	Foil	4	U,B	~~	~~	Legendary Creature — Phyre
 Mystical Tutor	dmr	60	Owned	~~	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	~~	Foil	1	W	~~	~~	Instant
 Recruitment Officer	bro	23	Owned	~~	Foil	1	W	~~	~~	Creature — Human Soldier
+Song of the Dryads	c14	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~

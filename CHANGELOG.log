@@ -2597,3 +2597,5 @@ Timestamp	Board	ChangeType	Name
 2023-04-13T20:16:04.105+00:00	mainboard	edit	Birds of Paradise
 2023-04-13T20:16:14.129+00:00	mainboard	edit	Fyndhorn Elves
 2023-04-13T20:31:46.365+00:00	mainboard	edit	Young Pyromancer
+2023-04-17T04:15:57.595+00:00	mainboard	remove	Explore
+2023-04-17T04:15:57.595+00:00	mainboard	add	Song of the Dryads
