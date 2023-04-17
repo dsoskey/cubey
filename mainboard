@@ -41,7 +41,7 @@ Chandra, Torch of Defiance	kld	110	Owned	Red	Non-foil	4	R	~~	~~	Legendary Planes
 Lightning Bolt	2x2	361	Owned	Red	Foil	1	R	~~	~~	Instant
 Incinerate	m12	146	Owned	Red	Foil	2	R	~~	~~	Instant
 Banefire	m19	130	Owned	Red	Non-foil	1	R	~~	~~	Sorcery
-Embercleave	eld	120	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Embercleave	eld	120	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Birds of Paradise	pm11	165★	Owned	~~	Foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	pdom	168	Owned	~~	Foil	1	G	~~	~~	Creature — Elf Druid
 Fauna Shaman	pbro	179s	Owned	~~	Foil	2	G	~~	~~	Creature — Elf Shaman
@@ -89,7 +89,7 @@ Reclamation Sage	2xm	178	Owned	~~	Foil	3	G	~~	~~	Creature — Elf Shaman
 Garruk Wildspeaker	sld	1142	Owned	~~	Foil	4	G	~~	~~	Legendary Planeswalker — Garruk
 Uro, Titan of Nature's Wrath	thb	229	Owned	~~	Non-foil	3	U,G	~~	~~	Legendary Creature — Elder Giant
 Skyclave Shade	znr	298	Owned	~~	Foil	2	B	~~	~~	Creature — Shade
-Dark Depths	csp	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Depths	dmr	394	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sower of Temptation	sld	120	Owned	~~	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Chromatic Lantern	sld	202	Owned	~~	Non-foil	3	~~	~~	~~	Artifact
 Mutavault	pgpx	2018	Owned	~~	Foil	0	~~	~~	~~	Land
@@ -207,7 +207,7 @@ Dismember	f12	4	Owned	~~	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	rix	82	Owned	~~	Non-foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	~~	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Dig Through Time	plg21	2	Owned	~~	Foil	8	U	~~	~~	Instant
-Sword of Sinew and Steel	mh1	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of Sinew and Steel	h1r	31	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	sld	483	Owned	~~	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	~~	Foil	1	R	~~	~~	Sorcery
 Avenger of Zendikar	2xm	152	Owned	~~	Foil	7	G	~~	~~	Creature — Elemental
@@ -286,7 +286,7 @@ Dack Fayden	ema	199	Owned	~~	Non-foil	3	U,R	~~	~~	Legendary Planeswalker — Dac
 Bonesplitter	pal03	8	Owned	~~	Foil	1	~~	~~	~~	Artifact — Equipment
 Boseiju, Who Endures	neo	266	Owned	~~	Non-foil	0	G	Green	~~	Legendary Land
 The Eternal Wanderer	one	11	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Forbidden Orchard	chk	276	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Forbidden Orchard	v12	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	~~	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	~~	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
@@ -365,7 +365,7 @@ Talisman of Curiosity	sld	1061	Owned	~~	Foil	2	U,G	~~	~~	Artifact
 Ophiomancer	cc2	3	Owned	Alter	Non-foil	3	B	~~	~~	Creature — Human Shaman
 Ziatora's Proving Ground	snc	359	Owned	~~	Non-foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Coldsteel Heart	2x2	301	Owned	~~	Foil	2	~~	~~	~~	Snow Artifact
-Rise and Shine	mh2	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rise and Shine	mh2	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Titan of Industry	snc	289	Owned	~~	Foil	7	G	~~	~~	Creature — Elemental
 Unexpectedly Absent	ema	33	Owned	~~	Non-foil	2	W	~~	~~	Instant
 Prismatic Ending	mh2	384	Owned	~~	Non-foil	1	W	~~	~~	Sorcery
@@ -478,7 +478,7 @@ Myrel, Shield of Argive	bro	18	Owned	~~	Non-foil	4	W	~~	~~	Legendary Creature �
 Teething Wurmlet	bro	192	Owned	~~	Foil	1	G	~~	~~	Creature — Wurm
 Haywire Mite	bro	199	Owned	~~	Foil	1	G	~~	~~	Artifact Creature — Insect
 Third Path Iconoclast	bro	223	Owned	~~	Foil	2	U,R	~~	~~	Creature — Human Monk
-Thespian's Stage	gtc	248	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thespian's Stage	2xm	327	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Expedition Map	2xm	359	Owned	~~	Foil	1	~~	~~	~~	Artifact
 Underground River	bro	300	Owned	~~	Foil	0	U,B	~~	~~	Land
 Brushland	bro	298	Owned	~~	Foil	0	W,G	~~	~~	Land
