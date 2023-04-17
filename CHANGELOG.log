@@ -2600,3 +2600,15 @@ Timestamp	Board	ChangeType	Name
 2023-04-17T04:15:57.595+00:00	mainboard	remove	Explore
 2023-04-17T04:15:57.595+00:00	mainboard	add	Song of the Dryads
 2023-04-17T04:37:24.552+00:00	mainboard	edit	Saheeli, Sublime Artificer
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Temporal Manipulation
+2023-04-17T17:49:32.547+00:00	mainboard	add	Rise and Shine
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Red Sun's Zenith
+2023-04-17T17:49:32.547+00:00	mainboard	add	Embercleave
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Sword of Hearth and Home
+2023-04-17T17:49:32.547+00:00	mainboard	add	Sword of Sinew and Steel
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Evolving Wilds
+2023-04-17T17:49:32.547+00:00	mainboard	add	Dark Depths
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Urza's Power Plant
+2023-04-17T17:49:32.547+00:00	mainboard	add	Thespian's Stage
+2023-04-17T17:49:32.547+00:00	mainboard	remove	Takenuma, Abandoned Mire
+2023-04-17T17:49:32.547+00:00	mainboard	add	Forbidden Orchard
