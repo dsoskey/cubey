@@ -57,12 +57,12 @@ Kitchen Finks	f09	3	Owned	Gold	Foil	3	W,G	Multicolored	~~	Creature — Ouphe
 Figure of Destiny	eve	139	Owned	Gold	Foil	1	W,R	Multicolored	~~	Creature — Kithkin
 Karn Liberated	nph	1	Owned	Artifact	Non-foil	7	~~	~~	~~	Legendary Planeswalker — Karn
 Phyrexian Revoker	brr	103	Owned	Artifact	Foil	2	~~	~~	~~	Artifact Creature — Horror
-Scrapheap Scrounger	kld	231	Owned	Black	Non-foil	2	B	Black	~~	Artifact Creature — Construct
+Scrapheap Scrounger	pkld	231s	Owned	Black	Foil	2	B	Black	~~	Artifact Creature — Construct
 Solemn Simulacrum	sld	1113	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Hangarback Walker	ori	229	Owned	Artifact	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Everflowing Chalice	f11	1	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
 Mind Stone	pw21	5	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
-Murderous Rider	eld	97	Owned	Black	Non-foil	3	B	~~	~~	Creature — Zombie Knight
+Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
 Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
@@ -141,7 +141,7 @@ Memory Deluge	mid	62	Owned	Blue	Foil	4	U	~~	~~	Instant
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
 Gutterbones	rna	76	Owned	Black	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
 Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
-Infernal Grasp	mid	107	Owned	Black	Non-foil	2	B	~~	~~	Instant
+Infernal Grasp	mid	389	Owned	Black	Foil	2	B	~~	~~	Instant
 Liliana, the Last Hope	emn	93	Owned	Black	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Play with Fire	mid	154	Owned	Red	Non-foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	Gold	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
@@ -149,7 +149,7 @@ Spellskite	nph	159	Owned	Artifact	Non-foil	2	~~	Colorless	~~	Artifact Creature �
 Bloodthirsty Adversary	mid	129	Owned	Red	Non-foil	2	R	~~	~~	Creature — Vampire
 Qasali Pridemage	2x2	386	Owned	Gold	Foil	2	W,G	~~	~~	Creature — Cat Wizard
 Looter il-Kor	tsr	74	Owned	Blue	Foil	2	U	~~	~~	Creature — Kor Rogue
-Chart a Course	jmp	142	Owned	Blue	Non-foil	2	U	~~	~~	Sorcery
+Chart a Course	xln	48	Owned	Blue	Foil	2	U	~~	~~	Sorcery
 Mystic Confluence	tsr	312	Owned	Blue	Non-foil	5	U	~~	~~	Instant
 Thirst for Knowledge	f08	9	Owned	Blue	Foil	3	U	~~	~~	Instant
 Memory Lapse	sta	16	Owned	Blue	Foil	2	U	~~	~~	Instant
@@ -268,7 +268,7 @@ Otawara, Soaring City	neo	271	Owned	Land	Non-foil	0	U	Blue	~~	Legendary Land
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Tinker	ulg	45	Owned	Blue	Non-foil	3	U	~~	~~	Sorcery
-Show and Tell	usg	96	Owned	Blue	Non-foil	3	U	~~	~~	Sorcery
+Show and Tell	cn2	121	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
 Griselbrand	pgpx	2015	Owned	Black	Foil	8	B	~~	~~	Legendary Creature — Demon
 Putrid Imp	pd3	1	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie Imp
