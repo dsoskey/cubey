@@ -61,7 +61,7 @@ Scrapheap Scrounger	pkld	231s	Owned	Black	Foil	2	B	Black	~~	Artifact Creature �
 Solemn Simulacrum	sld	1113	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Hangarback Walker	ori	229	Owned	Artifact	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Everflowing Chalice	f11	1	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
-Mind Stone	pw21	5	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
+Mind Stone	dmr	385	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
 Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
@@ -94,7 +94,7 @@ Sower of Temptation	sld	120	Owned	Blue	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Chromatic Lantern	sld	202	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Mutavault	pgpx	2018	Owned	Land	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	White	Non-foil	3	W	White	~~	Artifact Creature — Soldier
-Mimic Vat	c19	219	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
+Mimic Vat	som	175	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
 Cyclonic Rift	c14	104	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
@@ -429,7 +429,7 @@ March of Otherworldly Light	neo	28	Owned	White	Foil	1	W	~~	~~	Instant
 Dire Fleet Daredevil	prix	99s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Pirate
 Abbot of Keral Keep	pori	127s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Monk
 Bribery	sld	411	Owned	Blue	Non-foil	5	U	~~	~~	Sorcery
-Soulherder	mh1	214	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+Soulherder	h1r	30	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Soldier
 Hornet Queen	c21	193	Owned	Alter,Green	Non-foil	7	G	~~	~~	Creature — Insect
 Minsc & Boo, Timeless Heroes	clb	285	Owned	Gold	Non-foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
@@ -516,11 +516,11 @@ Guttersnipe	ima	131	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Shaman
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Riftwing Cloudskate	tsr	82	Owned	Blue	Foil	2	U	~~	~~	Creature — Illusion
 Sai, Master Thopterist	m19	69	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Human Artificer
-Trygon Predator	dis	133	Owned	Gold	Non-foil	3	U,G	~~	~~	Creature — Beast
+Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
 Winota, Joiner of Forces	iko	216	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Nettlecyst	mh2	231	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Loran of the Third Path	bro	12	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Artificer
-Lodestone Golem	brr	29	Owned	Artifact	Non-foil	4	~~	~~	~~	Artifact Creature — Golem
+Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Knight of Autumn	pgrn	183s	Owned	Gold	Foil	3	W,G	~~	~~	Creature — Dryad Knight
 Chromatic Star	brr	74	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
