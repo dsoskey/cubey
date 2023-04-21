@@ -98,7 +98,7 @@ Mimic Vat	c19	219	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
 Cyclonic Rift	c14	104	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
-Luminarch Aspirant	znr	24	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Cleric
+Luminarch Aspirant	pznr	24s	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Verdant Catacombs	zen	229	Owned	Land	Non-foil	0	B,G	~~	~~	Land
 Marsh Flats	mh2	248	Owned	Land	Foil	0	W,B	~~	~~	Land
 Misty Rainforest	zne	10	Owned	Land	Non-foil	0	U,G	~~	~~	Land
@@ -266,7 +266,7 @@ Nissa, Ascended Animist	one	339	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	c14	282	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Otawara, Soaring City	neo	271	Owned	Land	Non-foil	0	U	Blue	~~	Legendary Land
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
-Lion Sash	neo	26	Owned	White	Non-foil	2	W	~~	~~	Artifact Creature — Equipment Cat
+Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Tinker	ulg	45	Owned	Blue	Non-foil	3	U	~~	~~	Sorcery
 Show and Tell	usg	96	Owned	Blue	Non-foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
@@ -368,10 +368,10 @@ Coldsteel Heart	2x2	301	Owned	Artifact	Foil	2	~~	~~	~~	Snow Artifact
 Rise and Shine	mh2	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Titan of Industry	snc	289	Owned	Green	Foil	7	G	~~	~~	Creature — Elemental
 Unexpectedly Absent	ema	33	Owned	White	Non-foil	2	W	~~	~~	Instant
-Prismatic Ending	mh2	384	Owned	White	Non-foil	1	W	~~	~~	Sorcery
+Prismatic Ending	mh2	384	Owned	White	Foil	1	W	~~	~~	Sorcery
 Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
-Fateful Absence	mid	18	Owned	White	Non-foil	2	W	~~	~~	Instant
-Armageddon	6ed	4	Owned	White	Non-foil	4	W	~~	~~	Sorcery
+Fateful Absence	pw22	2	Owned	White	Foil	2	W	~~	~~	Instant
+Armageddon	v14	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
 Phantasmal Image	m12	72	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Illusion
 Ledger Shredder	snc	46	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Bird Advisor
