@@ -45,7 +45,7 @@ Embercleave	eld	120	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Birds of Paradise	pm11	165★	Owned	Green	Foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	pdom	168	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Fauna Shaman	pbro	179s	Owned	Green	Foil	2	G	~~	~~	Creature — Elf Shaman
-Deeproot Wayfinder	mom	184	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deeproot Wayfinder	mom	184	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Scavenging Ooze	plg21	5	Owned	Green	Foil	2	G	~~	~~	Creature — Ooze
 Tireless Tracker	sld	1094	Owned	Green	Foil	3	G	~~	~~	Creature — Human Scout
 Primeval Titan	sld	494	Owned	Green	Foil	6	G	~~	~~	Creature — Giant
@@ -156,7 +156,7 @@ Memory Lapse	sta	16	Owned	Blue	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Gonti, Lord of Luxury	pkld	84s	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Lightning Strike	dmu	137	Owned	Red	Foil	2	R	~~	~~	Instant
-Invasion of Ikoria	mom	190	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Invasion of Ikoria	mom	190	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wall of Roots	p30a	4	Owned	Green	Foil	2	G	~~	~~	Creature — Plant Wall
 Disenchant	p07	6	Owned	White	Non-foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
@@ -167,7 +167,7 @@ Manaform Hellkite	vow	170	Owned	Red	Non-foil	4	R	~~	~~	Creature — Dragon
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Plaguecrafter	sld	1116	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Evolving Adaptive	one	167	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
-Wrenn and Realmbreaker	mom	217	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wrenn and Realmbreaker	mom	217	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Oracle of Mul Daya	jmp	415	Owned	Green	Non-foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Once Upon a Time	peld	169s	Owned	Green	Foil	2	G	~~	~~	Instant
