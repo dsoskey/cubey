@@ -3252,3 +3252,7 @@ Timestamp	Board	ChangeType	Name
 2023-04-21T03:50:43.147+00:00	mainboard	edit	Lodestone Golem
 2023-04-21T19:34:51.792+00:00	mainboard	edit	Fiery Confluence
 2023-04-24T17:33:47.682+00:00	mainboard	edit	Daretti, Scrap Savant
+2023-04-27T00:33:46.711+00:00	mainboard	remove	Phantasmal Image
+2023-04-27T00:33:46.711+00:00	mainboard	add	Faerie Mastermind
+2023-04-27T00:33:46.711+00:00	mainboard	edit	Ponder
+2023-04-27T00:33:46.711+00:00	mainboard	edit	Baral, Chief of Compliance

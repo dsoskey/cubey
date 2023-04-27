@@ -23,7 +23,7 @@ Anticipate	f15	12	Owned	Blue	Foil	2	U	~~	~~	Instant
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
-Ponder	p08	6	Owned	Blue	Non-foil	1	U	~~	~~	Sorcery
+Ponder	sld	245	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Preordain	j22	63	Owned	Blue	Non-foil	1	U	~~	~~	Sorcery
 Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
@@ -373,7 +373,7 @@ Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
 Fateful Absence	pw22	2	Owned	White	Foil	2	W	~~	~~	Instant
 Armageddon	v14	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
-Phantasmal Image	m12	72	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Illusion
+Faerie Mastermind	mom	58	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	snc	46	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Bird Advisor
 Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Frogkin Kidnapper	cmb2	42	Owned	Black	Non-foil	2	B	~~	~~	Creature — Frog Rogue
@@ -420,7 +420,7 @@ Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
 Pithing Needle	2x2	397	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Sleight of Hand	uma	70	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Gifts Ungiven	2x2	347	Owned	Blue	Foil	4	U	~~	~~	Instant
-Baral, Chief of Compliance	aer	28	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
+Baral, Chief of Compliance	mul	138	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Subtlety	mh2	309	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Elemental Incarnation
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
 Vampiric Tutor	cmr	156	Owned	Alter,Black	Non-foil	1	B	~~	~~	Instant
