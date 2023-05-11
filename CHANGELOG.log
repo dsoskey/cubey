@@ -3288,3 +3288,6 @@ Timestamp	Board	ChangeType	Name
 2023-05-11T02:51:04.895+00:00	mainboard	add	Questing Beast
 2023-05-11T02:51:04.895+00:00	mainboard	remove	Once Upon a Time
 2023-05-11T02:51:04.895+00:00	mainboard	add	Collected Company
+2023-05-11T02:52:14.169+00:00	mainboard	remove	Spellskite
+2023-05-11T02:52:14.169+00:00	mainboard	add	Walking Ballista
+2023-05-11T02:52:14.169+00:00	mainboard	edit	Questing Beast
