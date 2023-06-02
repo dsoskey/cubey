@@ -177,7 +177,7 @@ Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	ori	60	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	rav	63	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
-Yorion, Sky Nomad	iko	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Yorion, Sky Nomad	mul	64	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	mbs	8	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Knight
 Flickerwisp	2x2	339	Owned	White	Foil	3	W	~~	~~	Creature — Elemental
 Angel of Invention	kld	4	Owned	White	Non-foil	5	W	~~	~~	Creature — Angel
@@ -307,7 +307,7 @@ Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Crea
 Scroll Rack	cmr	337	Owned	Artifact	Non-foil	2	~~	~~	~~	Artifact
 Grafted Wargear	cmr	312	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Gilded Lotus	brr	80	Owned	Artifact	Foil	5	~~	~~	~~	Artifact
-Lutri, the Spellchaser	iko	227	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lutri, the Spellchaser	mul	52	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dreadbore	sld	141	Owned	Gold	Non-foil	2	B,R	~~	~~	Sorcery
 Sphinx of the Steel Wind	ema	207	Owned	Gold	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
 Vanishing Verse	stx	244	Owned	Alter,Gold	Foil	2	W,B	~~	~~	Instant
@@ -461,7 +461,7 @@ Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
 Braids, Arisen Nightmare	dmu	288	Owned	Black	Foil	3	B	~~	~~	Legendary Creature — Nightmare
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
-Jaya, Fiery Negotiator	dmu	133	Owned	Red	Foil	4	R	~~	~~	Legendary Planeswalker — Jaya
+Nicol Bolas, God-Pharaoh	hou	140	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Siren Stormtamer	xln	79	Owned	Blue	Non-foil	1	U	~~	~~	Creature — Siren Pirate Wizard
@@ -494,7 +494,7 @@ Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
 Custodi Lich	cn2	41	Owned	Black	Foil	5	B	~~	~~	Creature — Zombie Cleric
 Saheeli, Sublime Artificer	sld	1143	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Monster Manual	clb	242	Owned	Green	Foil	4	G	~~	~~	Artifact
-Lurrus of the Dream-Den	iko	226	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lurrus of the Dream-Den	mul	51	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tangle Wire	v13	8	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Cityscape Leveler	bro	233	Owned	Artifact	Foil	8	~~	~~	~~	Artifact Creature — Construct
 Park Map	unf	476	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
