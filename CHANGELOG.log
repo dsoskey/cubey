@@ -3318,3 +3318,9 @@ Timestamp	Board	ChangeType	Name
 2023-06-02T01:48:20.457+00:00	mainboard	edit	Collected Company
 2023-06-02T01:48:40.453+00:00	mainboard	edit	Ugin, the Spirit Dragon
 2023-06-02T01:50:28.813+00:00	mainboard	edit	Vanishing Verse
+2023-06-02T01:53:08.385+00:00	mainboard	remove	Warden of the First Tree
+2023-06-02T01:53:08.385+00:00	mainboard	add	Yorion, Sky Nomad
+2023-06-02T01:53:08.385+00:00	mainboard	remove	Electrolyze
+2023-06-02T01:53:08.385+00:00	mainboard	add	Lutri, the Spellchaser
+2023-06-02T01:53:08.385+00:00	mainboard	remove	Bladecoil Serpent
+2023-06-02T01:53:08.385+00:00	mainboard	add	Lurrus of the Dream-Den
