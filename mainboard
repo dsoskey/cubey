@@ -11,7 +11,7 @@ Elspeth, Sun's Champion	sld	1140	Owned	White	Foil	6	W	~~	~~	Legendary Planeswalk
 Path to Exile	sld	477	Owned	Alter,White	Non-foil	1	W	~~	~~	Instant
 Swords to Plowshares	ema	32	Owned	Alter,White	Non-foil	1	W	~~	~~	Instant
 Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
-Snapcaster Mage	mm3	50	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Human Wizard
+Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Horror
 Glen Elendra Archmage	eve	22	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
 Mulldrifter	sld	373	Owned	Blue	Foil	5	U	~~	~~	Creature — Elemental
@@ -68,7 +68,7 @@ Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
 Bitterblossom	uma	85	Owned	Black	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	White	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
-Jace, the Mind Sculptor	wwk	31	Owned	Blue	Non-foil	4	U	~~	~~	Legendary Planeswalker — Jace
+Jace, the Mind Sculptor	v13	18	Owned	Blue	Foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Thraben Inspector	2xm	35	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
 Giver of Runes	mh1	13	Owned	White	Non-foil	1	W	~~	~~	Creature — Kor Cleric
 Abrade	vow	139	Owned	Red	Foil	2	R	~~	~~	Instant
@@ -173,7 +173,7 @@ Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Collected Company	dtk	177	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Giant Killer	eld	275	Owned	White	Foil	1	W	~~	~~	Creature — Human Peasant
-Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	ori	60	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	rav	63	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
@@ -346,7 +346,7 @@ Karn, Scion of Urza	dom	1	Owned	Artifact	Non-foil	4	~~	~~	~~	Legendary Planeswal
 Fabled Passage	pw21	4	Owned	Land	Foil	0	~~	~~	~~	Land
 Bonehoard	plst	CMA-211	Owned	Alter,Artifact	Non-foil	4	~~	~~	~~	Artifact — Equipment
 Windbrisk Heights	c20	321	Owned	Alter,Land	Non-foil	0	W	White	~~	Land
-Rona, Herald of Invasion	mom	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rona, Herald of Invasion	mom	75	Owned	~~	Foil	"""~~"""	U	~~	~~	~~
 Coppercoat Vanguard	mat	186	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Arena Rector	bbd	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	351	Owned	Land	Non-foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
