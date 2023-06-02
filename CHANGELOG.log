@@ -3302,3 +3302,7 @@ Timestamp	Board	ChangeType	Name
 2023-06-02T01:09:29.953+00:00	mainboard	add	Arena Rector
 2023-06-02T01:10:16.329+00:00	mainboard	edit	Coppercoat Vanguard
 2023-06-02T01:10:16.329+00:00	mainboard	edit	Ossification
+2023-06-02T01:17:05.701+00:00	mainboard	remove	The Reality Chip
+2023-06-02T01:17:05.701+00:00	mainboard	add	Rona, Herald of Invasion
+2023-06-02T01:17:05.701+00:00	mainboard	remove	Ethereal Forager
+2023-06-02T01:17:05.701+00:00	mainboard	add	Displacer Kitten
