@@ -349,7 +349,7 @@ Windbrisk Heights	c20	321	Owned	Alter,Land	Non-foil	0	W	White	~~	Land
 Rona, Herald of Invasion	mom	75	Owned	~~	Foil	"""~~"""	U	~~	~~	~~
 Coppercoat Vanguard	mat	186	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Arena Rector	bbd	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Jetmir's Garden	snc	351	Owned	Land	Non-foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
+Jetmir's Garden	snc	351	Owned	Land	Foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
 Talisman of Progress	sld	1052	Owned	Gold	Foil	2	W,U	~~	~~	Artifact
 Talisman of Indulgence	sld	1054	Owned	Gold	Foil	2	B,R	~~	~~	Artifact
 Emrakul, the Promised End	emn	6	Owned	Artifact	Non-foil	13	~~	~~	~~	Legendary Creature — Eldrazi
@@ -363,7 +363,7 @@ Talisman of Resilience	sld	1059	Owned	Gold	Foil	2	B,G	~~	~~	Artifact
 Talisman of Conviction	sld	1060	Owned	Gold	Foil	2	W,R	~~	~~	Artifact
 Talisman of Curiosity	sld	1061	Owned	Gold	Foil	2	U,G	~~	~~	Artifact
 Ophiomancer	cc2	3	Owned	Alter,Black	Non-foil	3	B	~~	~~	Creature — Human Shaman
-Ziatora's Proving Ground	snc	359	Owned	Land	Non-foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
+Ziatora's Proving Ground	snc	359	Owned	Land	Foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Coldsteel Heart	2x2	301	Owned	Artifact	Foil	2	~~	~~	~~	Snow Artifact
 Rise and Shine	mh2	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Titan of Industry	snc	289	Owned	Green	Foil	7	G	~~	~~	Creature — Elemental
@@ -396,12 +396,12 @@ Coalition Relic	a25	223	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Zagoth Triome	iko	313	Owned	Land	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
 Savai Triome	iko	312	Owned	Land	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
 Indatha Triome	iko	309	Owned	Land	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
-Raffine's Tower	snc	353	Owned	Land	Non-foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
+Raffine's Tower	snc	353	Owned	Land	Foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
 Xander's Lounge	snc	358	Owned	Land	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Questing Beast	sld	1263	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
 Lethal Scheme	ncc	36	Owned	Black	Non-foil	4	B	~~	~~	Instant
-Spara's Headquarters	snc	355	Owned	Land	Non-foil	0	W,U,G	~~	~~	Land — Forest Plains Island
+Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
@@ -461,7 +461,7 @@ Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
 Braids, Arisen Nightmare	dmu	288	Owned	Black	Foil	3	B	~~	~~	Legendary Creature — Nightmare
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
-Nicol Bolas, God-Pharaoh	hou	140	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nicol Bolas, God-Pharaoh	slc	2017	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Siren Stormtamer	xln	79	Owned	Blue	Non-foil	1	U	~~	~~	Creature — Siren Pirate Wizard
