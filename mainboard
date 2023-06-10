@@ -50,7 +50,7 @@ Scavenging Ooze	plg21	5	Owned	Green	Foil	2	G	~~	~~	Creature — Ooze
 Tireless Tracker	sld	1094	Owned	Green	Foil	3	G	~~	~~	Creature — Human Scout
 Primeval Titan	sld	494	Owned	Green	Foil	6	G	~~	~~	Creature — Giant
 Harrow	40k	216★	Owned	Green	Foil	3	G	~~	~~	Instant
-Rancor	2x2	156	Owned	Green	Foil	1	G	~~	~~	Enchantment — Aura
+Deranged Hermit	ulg	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
 Kitchen Finks	f09	3	Owned	Gold	Foil	3	W,G	Multicolored	~~	Creature — Ouphe
@@ -246,7 +246,7 @@ Bloodchief's Thirst	znr	94	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Cabal Initiate	mh2	78	Owned	Black	Foil	2	B	~~	~~	Creature — Human Warlock
 Flametongue Kavu	f05	3	Owned	Red	Foil	4	R	~~	~~	Creature — Kavu
 Fable of the Mirror-Breaker	pneo	141s	Owned	Red	Foil	3	R	~~	~~	Enchantment — Saga
-Rabbit Battery	neo	157	Owned	Alter,Red	Non-foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
+Rabbit Battery	neo	157	Owned	Alter,Red	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Legion Warboss	pgrn	109s	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Soldier
 Flametongue Yearling	mh2	125	Owned	Red	Foil	2	R	~~	~~	Creature — Kavu
@@ -262,9 +262,9 @@ Izzet Signet	sld	293	Owned	Gold	Foil	2	U,R	Multicolored	~~	Artifact
 Golgari Signet	sld	292	Owned	Gold	Foil	2	B,G	Multicolored	~~	Artifact
 Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
-Nissa, Ascended Animist	one	339	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
+Court of Bounty	cmr	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	c14	282	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
-Otawara, Soaring City	neo	271	Owned	Land	Non-foil	0	U	Blue	~~	Legendary Land
+Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Tinker	v09	14	Owned	Blue	Foil	3	U	~~	~~	Sorcery
@@ -459,7 +459,7 @@ Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
-Braids, Arisen Nightmare	dmu	288	Owned	Black	Foil	3	B	~~	~~	Legendary Creature — Nightmare
+Ayara's Oathsworn	mat	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nicol Bolas, God-Pharaoh	slc	2017	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
