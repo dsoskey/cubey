@@ -50,7 +50,7 @@ Scavenging Ooze	plg21	5	Owned	Green	Foil	2	G	~~	~~	Creature — Ooze
 Tireless Tracker	sld	1094	Owned	Green	Foil	3	G	~~	~~	Creature — Human Scout
 Primeval Titan	sld	494	Owned	Green	Foil	6	G	~~	~~	Creature — Giant
 Harrow	40k	216★	Owned	Green	Foil	3	G	~~	~~	Instant
-Deranged Hermit	ulg	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Deranged Hermit	g04	5	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
 Kitchen Finks	f09	3	Owned	Gold	Foil	3	W,G	Multicolored	~~	Creature — Ouphe
@@ -262,7 +262,7 @@ Izzet Signet	sld	293	Owned	Gold	Foil	2	U,R	Multicolored	~~	Artifact
 Golgari Signet	sld	292	Owned	Gold	Foil	2	B,G	Multicolored	~~	Artifact
 Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
-Court of Bounty	cmr	220	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Court of Bounty	cmr	220	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	c14	282	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
@@ -459,7 +459,7 @@ Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
-Ayara's Oathsworn	mat	11	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ayara's Oathsworn	mat	61	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nicol Bolas, God-Pharaoh	slc	2017	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
