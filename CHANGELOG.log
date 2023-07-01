@@ -3347,3 +3347,7 @@ Timestamp	Board	ChangeType	Name
 2023-06-10T00:40:55.670+00:00	mainboard	edit	Deranged Hermit
 2023-06-10T00:40:55.670+00:00	mainboard	edit	Ayara's Oathsworn
 2023-06-23T17:45:56.456+00:00	mainboard	edit	Vanishing Verse
+2023-07-01T04:56:17.639+00:00	mainboard	remove	Sun Titan
+2023-07-01T04:56:17.639+00:00	mainboard	add	Guardian Scalelord
+2023-07-01T04:56:17.639+00:00	mainboard	remove	Spectral Procession
+2023-07-01T04:56:17.639+00:00	mainboard	add	Reprieve
