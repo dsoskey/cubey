@@ -18,7 +18,7 @@ Mulldrifter	sld	373	Owned	Blue	Foil	5	U	~~	~~	Creature — Elemental
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
 Torrential Gearhulk	kld	67	Owned	Blue	Non-foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
-Opt	eld	59	Owned	Alter,Blue	Non-foil	1	U	~~	~~	Instant
+Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Anticipate	f15	12	Owned	Blue	Foil	2	U	~~	~~	Instant
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
@@ -464,7 +464,7 @@ Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature 
 Nicol Bolas, God-Pharaoh	slc	2017	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
-Stern Scolding	ltr	71	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Stern Scolding	ltr	71	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Portable Hole	afr	33	Owned	White	Foil	1	W	~~	~~	Artifact
 Rampant Growth	2x2	371	Owned	Green	Foil	2	G	~~	~~	Sorcery
