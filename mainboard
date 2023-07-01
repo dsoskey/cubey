@@ -8,8 +8,8 @@ Reveillark	2x2	422	Owned	White	Foil	5	W	~~	~~	Creature — Elemental
 Guardian Scalelord	moc	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gideon, Ally of Zendikar	bfz	29	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker — Gideon
 Elspeth, Sun's Champion	sld	1140	Owned	White	Foil	6	W	~~	~~	Legendary Planeswalker — Elspeth
-Path to Exile	sld	477	Owned	Alter,White	Non-foil	1	W	~~	~~	Instant
-Swords to Plowshares	ema	32	Owned	Alter,White	Non-foil	1	W	~~	~~	Instant
+Path to Exile	pdci	24	Owned	White	Foil	1	W	~~	~~	Instant
+Swords to Plowshares	a25	35	Owned	White	Foil	1	W	~~	~~	Instant
 Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
 Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
 Thing in the Ice	soi	92	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Horror
@@ -134,7 +134,7 @@ Sensei's Divining Top	2x2	398	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Wurmcoil Engine	psom	223★	Owned	Artifact	Foil	6	~~	~~	~~	Artifact Creature — Phyrexian Wurm
 Murktide Regent	mh2	337	Owned	Blue	Non-foil	7	U	~~	~~	Creature — Dragon
 Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scout
-Reprieve	ltr	26	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Lose Focus	mh2	49	Owned	Blue	Foil	2	U	~~	~~	Instant
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Memory Deluge	mid	62	Owned	Blue	Foil	4	U	~~	~~	Instant
@@ -334,7 +334,7 @@ Silverblade Paladin	avr	36	Owned	White	Non-foil	3	W	~~	~~	Creature — Human Kni
 Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Archon of Emeria	pznr	4s	Owned	White	Foil	3	W	~~	~~	Creature — Archon
-Balance	sld	173	Owned	White	Non-foil	2	W	~~	~~	Sorcery
+Balance	g04	2	Owned	White	Foil	2	W	~~	~~	Sorcery
 Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
 Bolas's Citadel	plg21	3	Owned	Black	Foil	6	B	~~	~~	Legendary Artifact
 Hazoret the Fervent	akh	136	Owned	Red	Non-foil	4	R	~~	~~	Legendary Creature — God
