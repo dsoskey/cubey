@@ -96,7 +96,7 @@ Mutavault	pgpx	2018	Owned	Land	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	White	Non-foil	3	W	White	~~	Artifact Creature — Soldier
 Mimic Vat	som	175	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
-Brain Freeze	scg	29	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Brain Freeze	sld	410	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
 Luminarch Aspirant	pznr	24s	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Verdant Catacombs	zen	229	Owned	Land	Non-foil	0	B,G	~~	~~	Land
@@ -504,7 +504,7 @@ Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
 Tidehollow Sculler	f10	1	Owned	Gold	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
 Sprite Dragon	iko	382	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Faerie Dragon
-Putrefy	sta	63	Owned	Gold	Non-foil	3	B,G	~~	~~	Instant
+Life // Death	apc	130	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dead Weight	iko	83	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shock	sta	44	Owned	Red	Foil	1	R	~~	~~	Instant
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
@@ -534,7 +534,7 @@ Worldly Tutor	dmr	185	Owned	Green	Foil	1	G	~~	~~	Instant
 Entomb	dmr	304	Owned	Black	Foil	1	B	~~	~~	Instant
 Urza, Lord High Artificer	dmr	71	Owned	Blue	Foil	4	U	~~	~~	Legendary Creature — Human Artificer
 Emry, Lurker of the Loch	peld	43s	Owned	Blue	Foil	3	U	~~	~~	Legendary Creature — Merfolk Wizard
-Ertai Resurrected	dmu	339	Owned	Gold	Foil	4	U,B	~~	~~	Legendary Creature — Phyrexian Human Wizard
+Ashiok, Dream Render	war	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
 Recruitment Officer	bro	23	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
