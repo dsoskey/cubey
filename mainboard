@@ -96,7 +96,7 @@ Mutavault	pgpx	2018	Owned	Land	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	White	Non-foil	3	W	White	~~	Artifact Creature — Soldier
 Mimic Vat	som	175	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
-Cyclonic Rift	c14	104	Owned	Blue	Non-foil	2	U	~~	~~	Instant
+Brain Freeze	scg	29	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
 Luminarch Aspirant	pznr	24s	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Verdant Catacombs	zen	229	Owned	Land	Non-foil	0	B,G	~~	~~	Land
@@ -469,7 +469,7 @@ Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Portable Hole	afr	33	Owned	White	Foil	1	W	~~	~~	Artifact
 Rampant Growth	2x2	371	Owned	Green	Foil	2	G	~~	~~	Sorcery
 Cultivate	sld	246	Owned	Green	Foil	3	G	~~	~~	Sorcery
-Kodama's Reach	uma	171	Owned	Green	Foil	3	G	~~	~~	Sorcery — Arcane
+Kodama's Reach	cmm	649	Owned	Green	Foil	3	G	~~	~~	Sorcery — Arcane
 Roiling Regrowth	znr	201	Owned	Green	Foil	3	G	~~	~~	Instant
 Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
 Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -538,4 +538,4 @@ Ertai Resurrected	dmu	339	Owned	Gold	Foil	4	U,B	~~	~~	Legendary Creature — Phy
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
 Recruitment Officer	bro	23	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
-Song of the Dryads	c14	47	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
+Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
