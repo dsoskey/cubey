@@ -3373,3 +3373,6 @@ Timestamp	Board	ChangeType	Name
 2023-07-01T05:10:50.706+00:00	mainboard	edit	Wizard's Rockets
 2023-09-04T19:49:15.974+00:00	mainboard	edit	Craterhoof Behemoth
 2023-09-04T22:30:37.264+00:00	mainboard	edit	Tourach, Dread Cantor
+2023-09-06T04:32:48.252+00:00	mainboard	remove	Embereth Shieldbreaker
+2023-09-06T04:32:48.252+00:00	mainboard	add	Cast into the Fire
+2023-09-06T04:32:48.252+00:00	mainboard	edit	Ragavan, Nimble Pilferer

@@ -63,7 +63,7 @@ Hangarback Walker	ori	229	Owned	Artifact	Non-foil	0	~~	~~	~~	Artifact Creature �
 Everflowing Chalice	f11	1	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
 Mind Stone	dmr	385	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
-Embereth Shieldbreaker	eld	292	Owned	Red	Foil	2	R	~~	~~	Creature — Human Knight
+Cast into the Fire	ltr	118	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
 Bitterblossom	uma	85	Owned	Black	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
@@ -215,7 +215,7 @@ Elvish Mystic	sld	475	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Blade Splicer	2xm	9	Owned	White	Foil	3	W	~~	~~	Creature — Phyrexian Human Artificer
 Dreadhorde Arcanist	pwar	125s	Owned	Red	Foil	2	R	~~	~~	Creature — Zombie Wizard
 Myr Battlesphere	som	180	Owned	Alter,Artifact	Non-foil	7	~~	~~	~~	Artifact Creature — Myr Construct
-Ragavan, Nimble Pilferer	mh2	138	Owned	Red	Non-foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
+Ragavan, Nimble Pilferer	mul	21	Owned	Red	Foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Ignoble Hierarch	mh2	355	Owned	Green	Foil	1	G	~~	~~	Creature — Goblin Shaman
 Delighted Halfling	ltr	402	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
