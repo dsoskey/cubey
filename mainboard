@@ -35,7 +35,7 @@ Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Languish	pori	105	Owned	Black	Foil	4	B	~~	~~	Sorcery
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	peld	138s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Archer Rogue
-Scalding Viper	woe	235	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scalding Viper	woe	235	Owned	~~	Foil	"""~~"""	R	~~	~~	~~
 Young Pyromancer	tsr	353	Owned	Red	Foil	2	R	~~	~~	Creature — Human Shaman
 Chandra, Torch of Defiance	kld	110	Owned	Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Chandra
 Lightning Bolt	2x2	361	Owned	Red	Foil	1	R	~~	~~	Instant
@@ -300,7 +300,7 @@ Inquisition of Kozilek	roe	115	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Vampire Hexmage	cns	132	Owned	Black	Foil	2	B	~~	~~	Creature — Vampire Shaman
 Flame Slash	roe	145	Owned	Red	Non-foil	1	R	~~	~~	Sorcery
 Fiery Confluence	ss3	3	Owned	Red	Foil	4	R	~~	~~	Sorcery
-Goblin Cratermaker	grn	103	Owned	Red	Non-foil	2	R	~~	~~	Creature — Goblin Warrior
+Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
 Thrun, the Last Troll	mbs	92	Owned	Green	Non-foil	4	G	~~	~~	Legendary Creature — Troll Shaman
 Wild Growth	dmr	352	Owned	Green	Foil	1	G	~~	~~	Enchantment — Aura
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
@@ -411,7 +411,7 @@ Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mana Drain	2x2	348	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Green Sun's Zenith	ema	169	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
-Bramble Sovereign	clb	372	Owned	Green	Non-foil	4	G	~~	~~	Creature — Dryad
+Bramble Sovereign	clb	372	Owned	Green	Foil	4	G	~~	~~	Creature — Dryad
 City of Brass	2x2	403	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Maze of Ith	v12	10	Owned	Land	Foil	0	~~	~~	~~	Land
 Monastery Mentor	2x2	21	Owned	White	Foil	3	W	~~	~~	Creature — Human Monk
