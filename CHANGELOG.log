@@ -3388,3 +3388,7 @@ Timestamp	Board	ChangeType	Name
 2023-09-06T04:50:25.953+00:00	mainboard	edit	Ashiok, Dream Render
 2023-09-06T04:50:25.953+00:00	mainboard	edit	Life // Death
 2023-09-11T19:11:03.350+00:00	mainboard	edit	Cast into the Fire
+2023-09-25T01:47:04.670+00:00	mainboard	remove	Lumbering Falls
+2023-09-25T01:47:04.670+00:00	mainboard	add	Restless Vinestalk
+2023-09-25T01:47:04.670+00:00	mainboard	remove	Needle Spires
+2023-09-25T01:47:04.670+00:00	mainboard	add	Restless Bivouac
