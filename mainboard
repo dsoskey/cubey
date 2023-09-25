@@ -27,7 +27,7 @@ Ponder	sld	245	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Preordain	j22	63	Owned	Blue	Non-foil	1	U	~~	~~	Sorcery
 Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
-Rankle, Master of Pranks	eld	101	Owned	Black	Non-foil	4	B	~~	~~	Legendary Creature — Faerie Rogue
+Yawgmoth, Thran Physician	mh1	116	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	m12	98	Owned	Black	Non-foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	mbs	46	Owned	Black	Non-foil	6	B	~~	~~	Creature — Wurm
@@ -204,7 +204,7 @@ Chaos Defiler	40k	110★	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Deathrite Shaman	rtr	213	Owned	Gold	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
 Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Shaman
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
-Ravenous Chupacabra	rix	82	Owned	Black	Non-foil	4	B	~~	~~	Creature — Beast Horror
+Ravenous Chupacabra	a25	104	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Dig Through Time	plg21	2	Owned	Blue	Foil	8	U	~~	~~	Instant
 Sword of Sinew and Steel	h1r	31	Owned	Artifact	Foil	"""~~"""	~~	~~	~~	~~
@@ -272,7 +272,7 @@ Show and Tell	cn2	121	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
 Griselbrand	pgpx	2015	Owned	Black	Foil	8	B	~~	~~	Legendary Creature — Demon
 Putrid Imp	pd3	1	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie Imp
-Blade of the Oni	neo	89	Owned	Black	Non-foil	2	B	~~	~~	Artifact Creature — Equipment Demon
+Blade of the Oni	pneo	89s	Owned	Black	Foil	2	B	~~	~~	Artifact Creature — Equipment Demon
 Sneak Attack	dmr	331	Owned	Red	Foil	4	R	~~	~~	Enchantment
 Krenko, Tin Street Kingpin	war	137	Owned	Red	Foil	3	R	~~	~~	Legendary Creature — Goblin
 Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
@@ -380,7 +380,7 @@ Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bloodghast	plst	ZEN-83	Owned	Black	Non-foil	2	B	~~	~~	Creature — Vampire Spirit
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
 Carrion Feeder	sld	1114	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie
-Tourach, Dread Cantor	mh2	102	Owned	Black	Non-foil	2	B	~~	~~	Legendary Creature — Human Cleric
+Tourach, Dread Cantor	pmh2	102s	Owned	Black	Foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Recurring Nightmare	wc98	bs72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	oc14	33	Owned	Alter,Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
 Burning of Xinye	v14	2	Owned	Red	Foil	6	R	~~	~~	Sorcery
@@ -514,7 +514,7 @@ Thought Scour	2x2	351	Owned	Blue	Foil	1	U	~~	~~	Instant
 Zealous Conscripts	avr	166	Owned	Red	Non-foil	5	R	~~	~~	Creature — Human Warrior
 Guttersnipe	ima	131	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Shaman
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
-Hullbreacher	cmr	74	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hullbreacher	cmr	74	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Human Artificer
 Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
 Winota, Joiner of Forces	iko	216	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
