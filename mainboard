@@ -190,9 +190,9 @@ Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Hissing Quagmire	ogw	171	Owned	Land	Non-foil	0	B,G	~~	~~	Land
 Creeping Tar Pit	zne	24	Owned	Land	Foil	0	U,B	~~	~~	Land
-Restless Bivouac	woe	257	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Bivouac	woe	303	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Celestial Colonnade	pwwk	133	Owned	Land	Foil	0	W,U	~~	~~	Land
-Restless Vinestalk	woe	261	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shambling Vent	pbfz	244s	Owned	Land	Foil	0	B,W	~~	~~	Land
 Tectonic Edge	f12	3	Owned	Land	Foil	0	~~	~~	~~	Land
 Day of Judgment	p11	1	Owned	White	Foil	4	W	~~	~~	Sorcery
@@ -445,7 +445,7 @@ Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creature — Phyrexian Praetor
 Fury	mh2	313	Owned	Red	Non-foil	5	R	~~	~~	Creature — Elemental Incarnation
-Guardian of New Benalia	dmu	19	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
+Elite Spellbinder	stx	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fact or Fiction	sld	333	Owned	Blue	Foil	4	U	~~	~~	Instant
 Liliana of the Veil	dmu	97	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Tarmogoyf	tsr	235	Owned	Green	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
@@ -537,5 +537,5 @@ Emry, Lurker of the Loch	peld	43s	Owned	Blue	Foil	3	U	~~	~~	Legendary Creature �
 Ashiok, Dream Render	war	228	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
-Recruitment Officer	bro	23	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
+Weathered Wayfarer	ons	59	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
