@@ -3422,3 +3422,9 @@ Timestamp	Board	ChangeType	Name
 2023-09-30T01:51:48.301+00:00	mainboard	edit	Grafted Wargear
 2023-10-05T02:59:21.602+00:00	mainboard	edit	Eternal Witness
 2023-10-06T17:45:56.633+00:00	mainboard	edit	Field of the Dead
+2023-10-14T18:34:23.121+00:00	mainboard	remove	Windbrisk Heights
+2023-10-14T18:34:23.121+00:00	mainboard	add	Wheel of Fortune
+2023-10-14T18:34:23.121+00:00	mainboard	remove	Gifts Ungiven
+2023-10-14T18:34:23.121+00:00	mainboard	add	Time Spiral
+2023-10-14T18:34:23.121+00:00	mainboard	remove	Flame Slash
+2023-10-14T18:34:23.121+00:00	mainboard	add	Retrofitter Foundry
