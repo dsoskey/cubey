@@ -30,7 +30,7 @@ Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	m12	98	Owned	Black	Non-foil	6	B	~~	~~	Creature — Giant
-Massacre Wurm	mbs	46	Owned	Black	Non-foil	6	B	~~	~~	Creature — Wurm
+Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Languish	pori	105	Owned	Black	Foil	4	B	~~	~~	Sorcery
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
@@ -139,10 +139,10 @@ Lose Focus	mh2	49	Owned	Blue	Foil	2	U	~~	~~	Instant
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Memory Deluge	mid	62	Owned	Blue	Foil	4	U	~~	~~	Instant
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
-Dark Confidant	rav	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Infernal Grasp	mid	389	Owned	Black	Foil	2	B	~~	~~	Instant
-Liliana, the Last Hope	emn	93	Owned	Black	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
+Liliana, the Last Hope	2x2	333	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Play with Fire	mid	390	Owned	Red	Foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	Gold	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Walking Ballista	sld	1265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -431,7 +431,7 @@ Abbot of Keral Keep	pori	127s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Monk
 Bribery	j13	2	Owned	Blue	Foil	5	U	~~	~~	Sorcery
 Soulherder	h1r	30	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Soldier
-Hornet Queen	c21	193	Owned	Alter,Green	Non-foil	7	G	~~	~~	Creature — Insect
+Worldspine Wurm	rtr	140	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Minsc & Boo, Timeless Heroes	clb	285	Owned	Gold	Non-foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
 Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
