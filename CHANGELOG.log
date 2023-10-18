@@ -3434,3 +3434,10 @@ Timestamp	Board	ChangeType	Name
 2023-10-14T18:39:10.012+00:00	mainboard	edit	Remand
 2023-10-14T21:09:23.358+00:00	mainboard	edit	Bribery
 2023-10-15T19:27:49.515+00:00	mainboard	edit	Thran Dynamo
+2023-10-18T04:43:39.863+00:00	mainboard	remove	Reveillark
+2023-10-18T04:43:39.863+00:00	mainboard	add	Parallax Wave
+2023-10-18T04:43:39.863+00:00	mainboard	remove	Silverblade Paladin
+2023-10-18T04:43:39.863+00:00	mainboard	add	Solitude
+2023-10-18T04:43:39.863+00:00	mainboard	remove	Archon of Emeria
+2023-10-18T04:43:39.863+00:00	mainboard	add	Mirror Entity
+2023-10-18T04:43:39.863+00:00	mainboard	edit	Disenchant
