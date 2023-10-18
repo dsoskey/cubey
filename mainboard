@@ -12,9 +12,9 @@ Path to Exile	pdci	24	Owned	White	Foil	1	W	~~	~~	Instant
 Swords to Plowshares	a25	35	Owned	White	Foil	1	W	~~	~~	Instant
 Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
 Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
-Chrome Host Seedshark	mom	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Chrome Host Seedshark	pmom	51s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	eve	22	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
-Flash	mir	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Flash	a25	57	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
 Torrential Gearhulk	kld	67	Owned	Blue	Non-foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
@@ -405,7 +405,7 @@ Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plain
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Arcane Savant	cn2	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Arcane Savant	cn2	27	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -524,7 +524,7 @@ Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Gole
 Knight of Autumn	pgrn	183s	Owned	Gold	Foil	3	W,G	~~	~~	Creature — Dryad Knight
 Chromatic Star	brr	74	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
-Gitaxian Probe	nph	35	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gitaxian Probe	f12	12	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
 Unearth	2x2	357	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Quirion Beastcaller	pdmu	175s	Owned	Green	Foil	2	G	~~	~~	Creature — Dryad Warrior
