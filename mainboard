@@ -12,9 +12,9 @@ Path to Exile	pdci	24	Owned	White	Foil	1	W	~~	~~	Instant
 Swords to Plowshares	a25	35	Owned	White	Foil	1	W	~~	~~	Instant
 Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
 Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
-Thing in the Ice	soi	92	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Horror
+Chrome Host Seedshark	mom	51	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	eve	22	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
-Mulldrifter	sld	373	Owned	Blue	Foil	5	U	~~	~~	Creature — Elemental
+Flash	mir	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
 Torrential Gearhulk	kld	67	Owned	Blue	Non-foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
@@ -24,7 +24,7 @@ Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
 Ponder	sld	245	Owned	Blue	Foil	1	U	~~	~~	Sorcery
-Preordain	j22	63	Owned	Blue	Non-foil	1	U	~~	~~	Sorcery
+Preordain	cmr	84	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -174,7 +174,7 @@ Collected Company	sld	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Giant Killer	eld	275	Owned	White	Foil	1	W	~~	~~	Creature — Human Peasant
 Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Jace, Vryn's Prodigy	ori	60	Owned	Blue	Non-foil	2	U	~~	~~	Legendary Creature — Human Wizard
+Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
 Yorion, Sky Nomad	mul	64	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -330,7 +330,7 @@ Arbor Elf	a25	160	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Batterskull	pgpx	2014	Owned	Artifact	Foil	5	~~	~~	~~	Artifact — Equipment
 Daretti, Ingenious Iconoclast	cn2	74	Owned	Gold	Non-foil	3	B,R	~~	~~	Legendary Planeswalker — Daretti
 Craterhoof Behemoth	cmm	280	Owned	Green	Foil	8	G	~~	~~	Creature — Beast
-Solitude	mh2	307	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Solitude	pmh2	32s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Mirror Entity	lrw	31	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -405,7 +405,7 @@ Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plain
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Consecrated Sphinx	2x2	43	Owned	Blue	Non-foil	6	U	~~	~~	Creature — Sphinx
+Arcane Savant	cn2	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -524,7 +524,7 @@ Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Gole
 Knight of Autumn	pgrn	183s	Owned	Gold	Foil	3	W,G	~~	~~	Creature — Dryad Knight
 Chromatic Star	brr	74	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
-Serum Visions	sld	32	Owned	Blue	Foil	1	U	~~	~~	Sorcery
+Gitaxian Probe	nph	35	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
 Unearth	2x2	357	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Quirion Beastcaller	pdmu	175s	Owned	Green	Foil	2	G	~~	~~	Creature — Dryad Warrior
