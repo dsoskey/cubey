@@ -3473,3 +3473,5 @@ Timestamp	Board	ChangeType	Name
 2023-10-18T05:22:03.019+00:00	mainboard	add	Triplicate Titan
 2023-10-18T05:22:03.019+00:00	mainboard	edit	Worldspine Wurm
 2023-10-18T05:25:54.179+00:00	mainboard	edit	Portal to Phyrexia
+2023-10-18T05:26:13.502+00:00	mainboard	remove	Yorion, Sky Nomad
+2023-10-18T05:26:13.502+00:00	mainboard	add	Teferi, Hero of Dominaria
