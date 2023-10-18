@@ -3456,3 +3456,5 @@ Timestamp	Board	ChangeType	Name
 2023-10-18T04:57:33.920+00:00	mainboard	edit	Arcane Savant
 2023-10-18T04:57:33.920+00:00	mainboard	edit	Gitaxian Probe
 2023-10-18T04:57:33.920+00:00	mainboard	edit	Flash
+2023-10-18T04:58:02.108+00:00	mainboard	remove	Banefire
+2023-10-18T04:58:02.108+00:00	mainboard	add	Rolling Earthquake
