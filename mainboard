@@ -40,7 +40,7 @@ Young Pyromancer	tsr	353	Owned	Red	Foil	2	R	~~	~~	Creature — Human Shaman
 Chandra, Torch of Defiance	kld	110	Owned	Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Chandra
 Lightning Bolt	2x2	361	Owned	Red	Foil	1	R	~~	~~	Instant
 Incinerate	m12	146	Owned	Red	Foil	2	R	~~	~~	Instant
-Rolling Earthquake	ptk	122	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rolling Earthquake	2xm	142	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Embercleave	eld	120	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Birds of Paradise	pm11	165★	Owned	Green	Foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	pdom	168	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
@@ -139,7 +139,7 @@ Lose Focus	mh2	49	Owned	Blue	Foil	2	U	~~	~~	Instant
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Memory Deluge	mid	62	Owned	Blue	Foil	4	U	~~	~~	Instant
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
-Gutterbones	rna	76	Owned	Black	Non-foil	1	B	~~	~~	Creature — Skeleton Warrior
+Dark Confidant	rav	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
 Infernal Grasp	mid	389	Owned	Black	Foil	2	B	~~	~~	Instant
 Liliana, the Last Hope	emn	93	Owned	Black	Non-foil	3	B	~~	~~	Legendary Planeswalker — Liliana
@@ -403,7 +403,7 @@ Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountai
 Lethal Scheme	ncc	36	Owned	Black	Non-foil	4	B	~~	~~	Instant
 Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
-Hero's Downfall	ths	90	Owned	Alter,Black	Non-foil	3	B	~~	~~	Instant
+Hero's Downfall	cp2	2	Owned	Alter,Black	Foil	3	B	~~	~~	Instant
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Arcane Savant	cn2	27	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman

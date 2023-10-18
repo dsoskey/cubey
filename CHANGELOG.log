@@ -3458,3 +3458,7 @@ Timestamp	Board	ChangeType	Name
 2023-10-18T04:57:33.920+00:00	mainboard	edit	Flash
 2023-10-18T04:58:02.108+00:00	mainboard	remove	Banefire
 2023-10-18T04:58:02.108+00:00	mainboard	add	Rolling Earthquake
+2023-10-18T05:16:43.072+00:00	mainboard	remove	Gutterbones
+2023-10-18T05:16:43.072+00:00	mainboard	add	Dark Confidant
+2023-10-18T05:16:43.072+00:00	mainboard	edit	Rolling Earthquake
+2023-10-18T05:16:43.072+00:00	mainboard	edit	Hero's Downfall
