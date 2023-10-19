@@ -19,7 +19,7 @@ Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Crea
 Torrential Gearhulk	kld	67	Owned	Blue	Non-foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
 Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
-Temporal Manipulation	p02	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Temporal Manipulation	j15	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
@@ -172,7 +172,7 @@ Oracle of Mul Daya	jmp	415	Owned	Green	Non-foil	4	G	~~	~~	Creature — Elf Shama
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Collected Company	sld	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
-Ephemerate	mh1	7	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ephemerate	h1r	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
