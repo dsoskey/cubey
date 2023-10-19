@@ -3487,3 +3487,5 @@ Timestamp	Board	ChangeType	Name
 2023-10-19T00:33:47.776+00:00	mainboard	add	Temporal Manipulation
 2023-10-19T00:34:36.249+00:00	mainboard	edit	Temporal Manipulation
 2023-10-19T00:34:36.249+00:00	mainboard	edit	Ephemerate
+2023-10-19T04:23:21.955+00:00	mainboard	remove	Unearth
+2023-10-19T04:23:21.955+00:00	mainboard	add	Exhume
