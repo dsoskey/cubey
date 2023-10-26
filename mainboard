@@ -263,7 +263,7 @@ Golgari Signet	sld	292	Owned	Gold	Foil	2	B,G	Multicolored	~~	Artifact
 Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
 Court of Bounty	cmr	220	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Worn Powerstone	c14	282	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
+Worn Powerstone	ema	235	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
 Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
@@ -305,7 +305,7 @@ Thrun, the Last Troll	mbs	92	Owned	Green	Non-foil	4	G	~~	~~	Legendary Creature �
 Wild Growth	dmr	352	Owned	Green	Foil	1	G	~~	~~	Enchantment — Aura
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
 Scroll Rack	cmr	337	Owned	Artifact	Non-foil	2	~~	~~	~~	Artifact
-Grafted Wargear	cmr	312	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact — Equipment
+Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
 Gilded Lotus	brr	80	Owned	Artifact	Foil	5	~~	~~	~~	Artifact
 Lutri, the Spellchaser	mul	52	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dreadbore	sld	141	Owned	Gold	Non-foil	2	B,R	~~	~~	Sorcery
@@ -503,7 +503,7 @@ Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creatu
 Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
 Tidehollow Sculler	f10	1	Owned	Gold	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
-Cruel Ultimatum	ala	164	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cruel Ultimatum	mm3	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dead Weight	iko	83	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shock	sta	44	Owned	Red	Foil	1	R	~~	~~	Instant
