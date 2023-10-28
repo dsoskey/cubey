@@ -16,7 +16,7 @@ Chrome Host Seedshark	pmom	51s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	eve	22	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Faerie Wizard
 Flash	a25	57	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
-Torrential Gearhulk	kld	67	Owned	Blue	Non-foil	6	U	~~	~~	Artifact Creature — Construct
+Torrential Gearhulk	pkld	67s	Owned	Blue	Foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
 Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Temporal Manipulation	j15	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -75,7 +75,7 @@ Abrade	vow	139	Owned	Red	Foil	2	R	~~	~~	Instant
 Goblin Rabblemaster	p30a	22	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Warrior
 Kari Zev, Skyship Raider	paer	87s	Owned	Red	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
 Sulfuric Vortex	dmr	332	Owned	Red	Foil	3	R	~~	~~	Enchantment
-Brazen Borrower	eld	39	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
+Brazen Borrower	sld	234	Owned	Blue	Foil	3	U	~~	~~	Creature — Faerie Rogue
 Bomat Courier	kld	199	Owned	Red	Non-foil	1	R	Red	~~	Artifact Creature — Construct
 Smuggler's Copter	pkld	235s	Owned	Artifact	Foil	2	~~	~~	~~	Artifact — Vehicle
 Animate Dead	2ed	93	Owned	Black	Non-foil	2	B	~~	~~	Enchantment — Aura
@@ -195,7 +195,7 @@ Celestial Colonnade	pwwk	133	Owned	Land	Foil	0	W,U	~~	~~	Land
 Restless Vinestalk	woe	307	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shambling Vent	pbfz	244s	Owned	Land	Foil	0	B,W	~~	~~	Land
 Tectonic Edge	f12	3	Owned	Land	Foil	0	~~	~~	~~	Land
-Day of Judgment	p11	1	Owned	White	Foil	4	W	~~	~~	Sorcery
+Day of Judgment	pzen	9★	Owned	White	Foil	4	W	~~	~~	Sorcery
 Spirit of the Labyrinth	bng	27	Owned	White	Non-foil	2	W	~~	~~	Enchantment Creature — Spirit
 Sol Ring	pf19	7	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Zurgo Bellstriker	dtk	169	Owned	Red	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
@@ -333,7 +333,7 @@ Craterhoof Behemoth	cmm	280	Owned	Green	Foil	8	G	~~	~~	Creature — Beast
 Solitude	pmh2	32s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
-Mirror Entity	lrw	31	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirror Entity	mm2	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Balance	g04	2	Owned	White	Foil	2	W	~~	~~	Sorcery
 Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
 Bolas's Citadel	plg21	3	Owned	Black	Foil	6	B	~~	~~	Legendary Artifact
@@ -374,7 +374,7 @@ Fateful Absence	pw22	2	Owned	White	Foil	2	W	~~	~~	Instant
 Armageddon	v14	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ledger Shredder	snc	46	Owned	Blue	Non-foil	2	U	~~	~~	Creature — Bird Advisor
+Ledger Shredder	psnc	46s	Owned	Blue	Foil	2	U	~~	~~	Creature — Bird Advisor
 Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bloodghast	plst	ZEN-83	Owned	Black	Non-foil	2	B	~~	~~	Creature — Vampire Spirit
@@ -485,7 +485,7 @@ Brushland	bro	298	Owned	Land	Foil	0	W,G	~~	~~	Land
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	Land	Foil	0	W,R	~~	~~	Land
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
-Cyber Conversion	who	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Cyber Conversion	who	38	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Living Death	40k	202★	Owned	Black	Foil	5	B	~~	~~	Sorcery
 Misery's Shadow	bro	107	Owned	Black	Foil	2	B	~~	~~	Creature — Shade
