@@ -29,7 +29,7 @@ Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
-Grave Titan	m12	98	Owned	Black	Non-foil	6	B	~~	~~	Creature — Giant
+Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Languish	pori	105	Owned	Black	Foil	4	B	~~	~~	Sorcery
@@ -66,7 +66,7 @@ Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
 Cast into the Fire	ltr	118	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
 Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
-Bitterblossom	uma	85	Owned	Black	Non-foil	2	B	~~	~~	Tribal Enchantment — Faerie
+Bitterblossom	2x2	69	Owned	Black	Foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	White	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Jace, the Mind Sculptor	v13	18	Owned	Blue	Foil	4	U	~~	~~	Legendary Planeswalker — Jace
 Thraben Inspector	2xm	35	Owned	White	Foil	1	W	~~	~~	Creature — Human Soldier
@@ -78,7 +78,7 @@ Sulfuric Vortex	dmr	332	Owned	Red	Foil	3	R	~~	~~	Enchantment
 Brazen Borrower	sld	234	Owned	Blue	Foil	3	U	~~	~~	Creature — Faerie Rogue
 Bomat Courier	kld	199	Owned	Red	Non-foil	1	R	Red	~~	Artifact Creature — Construct
 Smuggler's Copter	pkld	235s	Owned	Artifact	Foil	2	~~	~~	~~	Artifact — Vehicle
-Animate Dead	2ed	93	Owned	Black	Non-foil	2	B	~~	~~	Enchantment — Aura
+Animate Dead	p22	7	Owned	Black	Foil	2	B	~~	~~	Enchantment — Aura
 Wrath of God	dmr	279	Owned	White	Foil	4	W	~~	~~	Sorcery
 Opposition	dmr	290	Owned	Blue	Foil	4	U	~~	~~	Enchantment
 Glorybringer	pakh	134	Owned	Red	Foil	5	R	~~	~~	Creature — Dragon
@@ -291,7 +291,7 @@ Atraxa, Grand Unifier	one	196	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
 Pestermite	lrw	78	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	Blue	Foil	1	U	~~	~~	Instant
-Dark Ritual	sta	26	Owned	Black	Non-foil	1	B	~~	~~	Instant
+Dark Ritual	v13	1	Owned	Black	Foil	1	B	~~	~~	Instant
 Baleful Mastery	pstx	64s	Owned	Black	Foil	2	B	~~	~~	Instant
 Demonic Tutor	sta	27	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
 Thoughtseize	sld	1117	Owned	Black	Foil	1	B	~~	~~	Sorcery
@@ -362,7 +362,7 @@ Talisman of Creativity	sld	1058	Owned	Gold	Foil	2	U,R	~~	~~	Artifact
 Talisman of Resilience	sld	1059	Owned	Gold	Foil	2	B,G	~~	~~	Artifact
 Talisman of Conviction	sld	1060	Owned	Gold	Foil	2	W,R	~~	~~	Artifact
 Talisman of Curiosity	sld	1061	Owned	Gold	Foil	2	U,G	~~	~~	Artifact
-Ophiomancer	cc2	3	Owned	Alter,Black	Non-foil	3	B	~~	~~	Creature — Human Shaman
+Ophiomancer	cc2	3	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Ziatora's Proving Ground	snc	359	Owned	Land	Foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Coldsteel Heart	2x2	301	Owned	Artifact	Foil	2	~~	~~	~~	Snow Artifact
 Rise and Shine	mh2	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
