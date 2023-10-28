@@ -163,7 +163,7 @@ Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Restoration Angel	pavr	32★	Owned	White	Foil	4	W	~~	~~	Creature — Angel
 Fiend Artisan	iko	220	Owned	Gold	Non-foil	2	B,G	~~	~~	Creature — Nightmare
 Bloodfeather Phoenix	mom	132	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Manaform Hellkite	vow	170	Owned	Red	Non-foil	4	R	~~	~~	Creature — Dragon
+Mana Flare	lea	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Plaguecrafter	sld	1116	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Evolving Adaptive	one	167	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
@@ -198,7 +198,7 @@ Tectonic Edge	f12	3	Owned	Land	Foil	0	~~	~~	~~	Land
 Day of Judgment	pzen	9★	Owned	White	Foil	4	W	~~	~~	Sorcery
 Spirit of the Labyrinth	bng	27	Owned	White	Non-foil	2	W	~~	~~	Enchantment Creature — Spirit
 Sol Ring	pf19	7	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
-Zurgo Bellstriker	dtk	169	Owned	Red	Non-foil	1	R	~~	~~	Legendary Creature — Orc Warrior
+Zurgo Bellstriker	pdtk	169s	Owned	Red	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
 Dragonlord Atarka	dtk	216	Owned	Gold	Non-foil	7	G,R	~~	~~	Legendary Creature — Elder Dragon
 Chaos Defiler	40k	110★	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Deathrite Shaman	rtr	213	Owned	Gold	Non-foil	1	B,G	~~	~~	Creature — Elf Shaman
@@ -511,7 +511,7 @@ Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrio
 Heirloom Blade	znc	113	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact — Equipment
 Ash Barrens	40k	265★	Owned	Land	Foil	0	~~	~~	~~	Land
 Echo of Eons	mh1	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Zealous Conscripts	avr	166	Owned	Red	Non-foil	5	R	~~	~~	Creature — Human Warrior
+Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
 Guttersnipe	ima	131	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Shaman
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
