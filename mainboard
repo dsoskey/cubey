@@ -156,7 +156,7 @@ Memory Lapse	sta	16	Owned	Blue	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Gonti, Lord of Luxury	pkld	84s	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Lightning Strike	dmu	137	Owned	Red	Foil	2	R	~~	~~	Instant
-Invasion of Ikoria	mom	190	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Fastbond	lea	192	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wall of Roots	p30a	4	Owned	Green	Foil	2	G	~~	~~	Creature — Plant Wall
 Disenchant	f03	13	Owned	White	Foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
@@ -167,8 +167,8 @@ Mana Flare	wot	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Plaguecrafter	sld	1116	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Evolving Adaptive	one	167	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
-Wrenn and Realmbreaker	mom	217	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Oracle of Mul Daya	jmp	415	Owned	Green	Non-foil	4	G	~~	~~	Creature — Elf Shaman
+Kogla, the Titan Ape	iko	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
@@ -262,7 +262,7 @@ Izzet Signet	sld	293	Owned	Gold	Foil	2	U,R	Multicolored	~~	Artifact
 Golgari Signet	sld	292	Owned	Gold	Foil	2	B,G	Multicolored	~~	Artifact
 Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
-Court of Bounty	cmr	220	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Exploration	usg	250	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Worn Powerstone	ema	235	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Dream Halls	sth	28	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	neo	42	Owned	White	Non-foil	4	W	~~	~~	Legendary Planeswalker
@@ -475,7 +475,7 @@ Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Cr
 Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
 Myrel, Shield of Argive	bro	18	Owned	White	Non-foil	4	W	~~	~~	Legendary Creature — Human Soldier
-Teething Wurmlet	bro	192	Owned	Green	Foil	1	G	~~	~~	Creature — Wurm
+Selvala, Heart of the Wilds	cn2	70	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Owned	Green	Foil	1	G	~~	~~	Artifact Creature — Insect
 Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Monk
 Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
