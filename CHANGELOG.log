@@ -3541,3 +3541,9 @@ Timestamp	Board	ChangeType	Name
 2023-10-29T17:48:28.111+00:00	mainboard	add	Makeshift Mannequin
 2023-10-29T17:50:25.653+00:00	mainboard	remove	Bloodchief's Thirst
 2023-10-29T17:50:25.653+00:00	mainboard	add	Cast Down
+2023-10-29T17:53:48.750+00:00	mainboard	remove	Guttersnipe
+2023-10-29T17:53:48.750+00:00	mainboard	add	Phyrexian Dragon Engine
+2023-10-29T17:53:48.750+00:00	mainboard	remove	Shock
+2023-10-29T17:53:48.750+00:00	mainboard	add	Mine Collapse
+2023-10-29T17:53:48.750+00:00	mainboard	remove	Goblin Bombardment
+2023-10-29T17:53:48.750+00:00	mainboard	add	Bitter Reunion
