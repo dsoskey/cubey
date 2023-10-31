@@ -137,7 +137,7 @@ Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scou
 Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Lose Focus	mh2	49	Owned	Blue	Foil	2	U	~~	~~	Instant
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
-Windfall	usg	111	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Windfall	p30a	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
 Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bloodsoaked Champion	ktk	66	Owned	Black	Non-foil	1	B	~~	~~	Creature — Human Warrior
@@ -180,7 +180,7 @@ Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
 Teferi, Hero of Dominaria	sld	248	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	mbs	8	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Knight
 Flickerwisp	2x2	339	Owned	White	Foil	3	W	~~	~~	Creature — Elemental
-Serra Paragon	dmu	32	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Serra Paragon	pdmu	32s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hanweir Garrison	emn	130a	Owned	Red	Foil	3	R	~~	~~	Creature — Human Soldier
 Joraga Treespeaker	sld	1281	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
@@ -201,7 +201,7 @@ Sol Ring	pf19	7	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Zurgo Bellstriker	pdtk	169s	Owned	Red	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
 Dragonlord Atarka	dtk	216	Owned	Gold	Non-foil	7	G,R	~~	~~	Legendary Creature — Elder Dragon
 Chaos Defiler	40k	110★	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
-Leovold, Emissary of Trest	cn2	77	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Leovold, Emissary of Trest	uma	202	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Shaman
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	a25	104	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
@@ -279,7 +279,7 @@ Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
 Natural Order	sta	54	Owned	Green	Non-foil	4	G	~~	~~	Sorcery
 Oath of Druids	c16	159	Owned	Green	Non-foil	2	G	~~	~~	Enchantment
 Rip Apart	stx	381	Owned	Gold	Foil	2	W,R	~~	~~	Sorcery
-Forth Eorlingas!	ltc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Forth Eorlingas!	ltc	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	f12	9	Owned	Gold	Foil	3	W,B	Multicolored	~~	Sorcery
 Fractured Identity	sld	272	Owned	Gold	Foil	5	W,U	~~	~~	Sorcery
 Dack Fayden	ema	199	Owned	Gold	Non-foil	3	U,R	~~	~~	Legendary Planeswalker — Dack
@@ -364,9 +364,9 @@ Talisman of Conviction	sld	1060	Owned	Gold	Foil	2	W,R	~~	~~	Artifact
 Talisman of Curiosity	sld	1061	Owned	Gold	Foil	2	U,G	~~	~~	Artifact
 Ophiomancer	cc2	3	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Ziatora's Proving Ground	snc	359	Owned	Land	Foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
-Lotus Petal	tmp	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-True-Name Nemesis	c13	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Terastodon	wwk	115	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lotus Petal	p30m	2	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+True-Name Nemesis	tsr	321	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Terastodon	p30a	18	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Unexpectedly Absent	ema	33	Owned	White	Non-foil	2	W	~~	~~	Instant
 Prismatic Ending	mh2	384	Owned	White	Foil	1	W	~~	~~	Sorcery
 Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
@@ -508,7 +508,7 @@ Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mine Collapse	mh2	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
-Andúril, Flame of the West	ltr	236	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
