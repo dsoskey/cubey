@@ -134,7 +134,7 @@ Wurmcoil Engine	psom	223★	Owned	Artifact	Foil	6	~~	~~	~~	Artifact Creature —
 Murktide Regent	mh2	337	Owned	Blue	Non-foil	7	U	~~	~~	Creature — Dragon
 Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scout
 Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Lose Focus	mh2	49	Owned	Blue	Foil	2	U	~~	~~	Instant
+Daze	nem	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Windfall	p30a	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
@@ -288,7 +288,7 @@ Winds of Abandon	mh1	37	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Orchard	v12	6	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
-Pestermite	lrw	78	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Faerie Rogue
+Pestermite	mma	59	Owned	Blue	Foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	Blue	Foil	1	U	~~	~~	Instant
 Dark Ritual	v13	1	Owned	Black	Foil	1	B	~~	~~	Instant
 Baleful Mastery	pstx	64s	Owned	Black	Foil	2	B	~~	~~	Instant
@@ -313,7 +313,7 @@ Vanishing Verse	stx	244	Owned	Gold	Foil	2	W,B	~~	~~	Instant
 Shelldock Isle	sld	230	Owned	Land	Foil	0	U	Blue	~~	Land
 Mother of Runes	sld	299	Owned	White	Foil	1	W	~~	~~	Creature — Human Cleric
 Adeline, Resplendent Cathar	mid	1	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Knight
-Deceiver Exarch	nph	33	Owned	Blue	Non-foil	3	U	~~	~~	Creature — Phyrexian Cleric
+Deceiver Exarch	cn2	106	Owned	Blue	Foil	3	U	~~	~~	Creature — Phyrexian Cleric
 Reanimate	uma	110	Owned	Alter,Black	Non-foil	1	B	~~	~~	Sorcery
 Splinter Twin	plst	ROE-165	Owned	Red	Non-foil	4	R	~~	~~	Enchantment — Aura
 Kiki-Jiki, Mirror Breaker	chk	175	Owned	Red	Non-foil	5	R	~~	~~	Legendary Creature — Goblin Shaman
