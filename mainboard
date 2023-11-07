@@ -315,8 +315,8 @@ Mother of Runes	sld	299	Owned	White	Foil	1	W	~~	~~	Creature — Human Cleric
 Adeline, Resplendent Cathar	mid	1	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Knight
 Deceiver Exarch	cn2	106	Owned	Blue	Foil	3	U	~~	~~	Creature — Phyrexian Cleric
 Reanimate	uma	110	Owned	Alter,Black	Non-foil	1	B	~~	~~	Sorcery
-Splinter Twin	plst	ROE-165	Owned	Red	Non-foil	4	R	~~	~~	Enchantment — Aura
-Kiki-Jiki, Mirror Breaker	chk	175	Owned	Red	Non-foil	5	R	~~	~~	Legendary Creature — Goblin Shaman
+Splinter Twin	mm2	129	Owned	Red	Foil	4	R	~~	~~	Enchantment — Aura
+Kiki-Jiki, Mirror Breaker	v11	4	Owned	Red	Foil	5	R	~~	~~	Legendary Creature — Goblin Shaman
 Through the Breach	uma	152	Owned	Red	Foil	5	R	~~	~~	Instant — Arcane
 Inferno Titan	sld	224	Owned	Red	Foil	6	R	~~	~~	Creature — Giant
 Bitter Reunion	bro	127	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -486,7 +486,7 @@ Battlefield Forge	bro	297	Owned	Land	Foil	0	W,R	~~	~~	Land
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Cyber Conversion	who	38	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
-Makeshift Mannequin	lrw	124	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Makeshift Mannequin	lrw	124	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Misery's Shadow	bro	107	Owned	Black	Foil	2	B	~~	~~	Creature — Shade
 Phyrexian Fleshgorger	bro	121	Owned	Black	Foil	3	B	~~	~~	Artifact Creature — Phyrexian Wurm
 Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
@@ -505,7 +505,7 @@ Tidehollow Sculler	f10	1	Owned	Gold	Foil	2	W,B	~~	~~	Artifact Creature — Zombi
 Cruel Ultimatum	mm3	158	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Mine Collapse	mh2	135	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mine Collapse	mh2	408	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
