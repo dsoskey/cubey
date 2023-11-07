@@ -303,7 +303,7 @@ Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
 Thrun, the Last Troll	mbs	92	Owned	Green	Non-foil	4	G	~~	~~	Legendary Creature — Troll Shaman
 Wild Growth	dmr	352	Owned	Green	Foil	1	G	~~	~~	Enchantment — Aura
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
-Mirage Mirror	hou	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
 Memory Jar	v10	8	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Lutri, the Spellchaser	mul	52	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -391,7 +391,7 @@ Manglehorn	akh	175	Owned	Green	Non-foil	3	G	~~	~~	Creature — Beast
 Noble Hierarch	2xm	352	Owned	Green	Foil	1	G	Green	~~	Creature — Human Druid
 Esika's Chariot	khm	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oko, Thief of Crowns	peld	197s	Owned	Gold	Foil	3	G,U	~~	~~	Legendary Planeswalker — Oko
-Mishra's Bauble	brr	34	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Mishra's Bauble	brr	97	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zagoth Triome	iko	313	Owned	Land	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
 Savai Triome	iko	312	Owned	Land	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
 Indatha Triome	iko	309	Owned	Land	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
@@ -434,7 +434,7 @@ Worldspine Wurm	sld	1305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Minsc & Boo, Timeless Heroes	pclb	285s	Owned	Gold	Foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
 Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
-Helm of Awakening	vis	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Helm of Awakening	dmr	379	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Dust Bowl	mmq	316	Owned	Land	Non-foil	0	~~	~~	~~	Land
@@ -511,7 +511,7 @@ Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
-Phyrexian Dragon Engine	bro	163a	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Phyrexian Dragon Engine	pbro	163as	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tolarian Academy	usg	330	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
