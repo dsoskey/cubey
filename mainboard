@@ -55,7 +55,7 @@ Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
 King Darien XLVIII	dmu	303	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Figure of Destiny	eve	139	Owned	Gold	Foil	1	W,R	Multicolored	~~	Creature — Kithkin
-Mindslaver	som	176	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mindslaver	som	176	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Revoker	brr	103	Owned	Artifact	Foil	2	~~	~~	~~	Artifact Creature — Horror
 Snuff Out	mmq	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	sld	1113	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
@@ -303,7 +303,7 @@ Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
 Thrun, the Last Troll	mbs	92	Owned	Green	Non-foil	4	G	~~	~~	Legendary Creature — Troll Shaman
 Wild Growth	dmr	352	Owned	Green	Foil	1	G	~~	~~	Enchantment — Aura
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
-Scroll Rack	cmr	337	Owned	Artifact	Non-foil	2	~~	~~	~~	Artifact
+Mirage Mirror	hou	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
 Memory Jar	v10	8	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Lutri, the Spellchaser	mul	52	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -391,7 +391,7 @@ Manglehorn	akh	175	Owned	Green	Non-foil	3	G	~~	~~	Creature — Beast
 Noble Hierarch	2xm	352	Owned	Green	Foil	1	G	Green	~~	Creature — Human Druid
 Esika's Chariot	khm	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oko, Thief of Crowns	peld	197s	Owned	Gold	Foil	3	G,U	~~	~~	Legendary Planeswalker — Oko
-Mishra's Bauble	brr	34	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mishra's Bauble	brr	34	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zagoth Triome	iko	313	Owned	Land	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
 Savai Triome	iko	312	Owned	Land	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains Swamp
 Indatha Triome	iko	309	Owned	Land	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
@@ -434,7 +434,7 @@ Worldspine Wurm	sld	1305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Minsc & Boo, Timeless Heroes	pclb	285s	Owned	Gold	Foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
 Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
-Fellwar Stone	sld	708	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
+Helm of Awakening	vis	145	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Dust Bowl	mmq	316	Owned	Land	Non-foil	0	~~	~~	~~	Land
@@ -496,7 +496,7 @@ Monster Manual	clb	242	Owned	Green	Foil	4	G	~~	~~	Artifact
 Lurrus of the Dream-Den	mul	51	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tangle Wire	v13	8	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Sundering Titan	brr	120	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Zuran Orb	mh2	300	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Zuran Orb	v10	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Smokestack	v14	11	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
@@ -516,7 +516,7 @@ Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tolarian Academy	usg	330	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
-Comet, Stellar Pup	unf	166	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Comet, Stellar Pup	unf	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Winter Orb	ema	234	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Loran of the Third Path	bro	12	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Artificer
 Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
