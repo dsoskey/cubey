@@ -187,7 +187,7 @@ Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
 Lavaclaw Reaches	wwk	139	Owned	Land	Non-foil	0	B,R	~~	~~	Land
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
-Hissing Quagmire	ogw	171	Owned	Land	Non-foil	0	B,G	~~	~~	Land
+Restless Cottage	woe	258	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Creeping Tar Pit	zne	24	Owned	Land	Foil	0	U,B	~~	~~	Land
 Restless Bivouac	woe	303	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Celestial Colonnade	pwwk	133	Owned	Land	Foil	0	W,U	~~	~~	Land
@@ -457,11 +457,11 @@ Adarkar Wastes	dmu	377	Owned	Land	Foil	0	W,U	~~	~~	Land
 Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
-Yavimaya Coast	dmu	382	Owned	Land	Foil	0	U,G	~~	~~	Land
+Waterlogged Grove	mh1	249	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ayara's Oathsworn	mat	61	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nicol Bolas, God-Pharaoh	slc	2017	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Shivan Reef	dmu	380	Owned	Land	Foil	0	U,R	~~	~~	Land
+Fiery Islet	mh1	238	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
@@ -480,9 +480,9 @@ Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Mon
 Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Expedition Map	2xm	359	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Underground River	bro	300	Owned	Land	Foil	0	U,B	~~	~~	Land
-Brushland	bro	298	Owned	Land	Foil	0	W,G	~~	~~	Land
+Horizon Canopy	fut	177	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
-Battlefield Forge	bro	297	Owned	Land	Foil	0	W,R	~~	~~	Land
+Sunbaked Canyon	mh1	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Cyber Conversion	who	38	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
