@@ -3707,3 +3707,13 @@ Timestamp	Board	ChangeType	Name
 2023-11-24T19:56:32.547+00:00	mainboard	edit	Mana Crypt
 2023-11-24T19:56:32.547+00:00	mainboard	edit	Deep-Cavern Bat
 2023-11-24T20:09:16.372+00:00	mainboard	edit	The Wandering Emperor
+2023-11-30T05:52:44.612+00:00	mainboard	remove	Rockfall Vale
+2023-11-30T05:52:44.612+00:00	mainboard	add	Restless Ridgeline
+2023-11-30T05:52:44.612+00:00	mainboard	remove	Shipwreck Marsh
+2023-11-30T05:52:44.612+00:00	mainboard	add	Restless Reef
+2023-11-30T05:52:44.612+00:00	mainboard	remove	Overgrown Farmland
+2023-11-30T05:52:44.612+00:00	mainboard	add	Restless Prairie
+2023-11-30T05:52:44.612+00:00	mainboard	remove	Haunted Ridge
+2023-11-30T05:52:44.612+00:00	mainboard	add	Restless Vents
+2023-11-30T05:52:44.612+00:00	mainboard	remove	Deserted Beach
+2023-11-30T05:52:44.612+00:00	mainboard	add	Restless Anchorage
