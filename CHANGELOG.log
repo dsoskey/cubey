@@ -3731,3 +3731,7 @@ Timestamp	Board	ChangeType	Name
 2023-11-30T05:58:11.007+00:00	mainboard	remove	Harrow
 2023-11-30T05:58:11.007+00:00	mainboard	add	Sentinel of the Nameless City
 2023-11-30T05:58:35.987+00:00	mainboard	edit	Sentinel of the Nameless City
+2023-11-30T06:03:35.686+00:00	mainboard	remove	Cast into the Fire
+2023-11-30T06:03:35.686+00:00	mainboard	add	Chain Lightning
+2023-11-30T06:03:35.686+00:00	mainboard	remove	Legion Warboss
+2023-11-30T06:03:35.686+00:00	mainboard	add	Scytheclaw Raptor
