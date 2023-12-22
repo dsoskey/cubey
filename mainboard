@@ -53,7 +53,7 @@ Sentinel of the Nameless City	lci	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Deranged Hermit	g04	5	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
-Mirari's Wake	jud	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Mirari's Wake	mh2	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Figure of Destiny	eve	139	Owned	Gold	Foil	1	W,R	Multicolored	~~	Creature — Kithkin
 Mindslaver	som	176	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Revoker	brr	103	Owned	Artifact	Foil	2	~~	~~	~~	Artifact Creature — Horror
@@ -439,7 +439,7 @@ Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legend
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Dust Bowl	mmq	316	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
-Gemstone Mine	dmr	455	Owned	Land	Foil	0	~~	~~	~~	Land
+Academy Ruins	tsp	269	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creature — Phyrexian Praetor
@@ -457,11 +457,11 @@ Adarkar Wastes	dmu	377	Owned	Land	Foil	0	W,U	~~	~~	Land
 Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
-Waterlogged Grove	who	922	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Yavimaya Coast	apc	143	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ayara's Oathsworn	mat	61	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nahiri, the Harbinger	soi	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Fiery Islet	who	1086	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Shivan Reef	apc	142	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
@@ -480,9 +480,9 @@ Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Mon
 Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Expedition Map	2xm	359	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Underground River	bro	300	Owned	Land	Foil	0	U,B	~~	~~	Land
-Horizon Canopy	who	1094	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Brushland	ice	352	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
-Sunbaked Canyon	who	1110	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Battlefield Forge	apc	139	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Cyber Conversion	who	38	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
