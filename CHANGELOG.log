@@ -3846,3 +3846,7 @@ Timestamp	Board	ChangeType	Name
 2023-12-27T06:28:51.700+00:00	mainboard	add	Imperial Seal
 2023-12-27T06:29:27.895+00:00	mainboard	edit	Imperial Seal
 2023-12-27T06:29:27.895+00:00	mainboard	edit	Spellseeker
+2023-12-28T03:45:29.073+00:00	mainboard	remove	Mirror Entity
+2023-12-28T03:45:29.073+00:00	mainboard	add	Eldrazi Displacer
+2023-12-28T03:45:29.073+00:00	mainboard	remove	Unearth
+2023-12-28T03:45:29.073+00:00	mainboard	add	Valki, God of Lies
