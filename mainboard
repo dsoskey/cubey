@@ -19,7 +19,7 @@ Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Crea
 Torrential Gearhulk	pkld	67s	Owned	Blue	Foil	6	U	~~	~~	Artifact Creature — Construct
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
 Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
-Temporal Manipulation	j15	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Astral Dragon	clb	664	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
@@ -32,7 +32,7 @@ Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
-Languish	pori	105	Owned	Black	Foil	4	B	~~	~~	Sorcery
+Night's Whisper	5dn	55	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	peld	138s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Archer Rogue
 Inti, Seneschal of the Sun	lci	156	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -162,7 +162,6 @@ Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Restoration Angel	pavr	32★	Owned	White	Foil	4	W	~~	~~	Creature — Angel
 Maelstrom Pulse	uma	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Mana Flare	wot	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -172,7 +171,7 @@ Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Ephemerate	h1r	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Ruin Crab	znr	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
@@ -203,9 +202,9 @@ Chaos Defiler	40k	110★	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Leovold, Emissary of Trest	uma	202	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Shaman
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
-Ravenous Chupacabra	a25	104	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
+Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
-Dig Through Time	plg21	2	Owned	Blue	Foil	8	U	~~	~~	Instant
+Gush	mmq	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Sinew and Steel	h1r	31	Owned	Artifact	Foil	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	cmm	658	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	Red	Foil	1	R	~~	~~	Sorcery
@@ -249,7 +248,7 @@ Rabbit Battery	neo	157	Owned	Alter,Red	Foil	1	R	~~	~~	Artifact Creature — Equi
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scytheclaw Raptor	lci	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	Owned	Red	Foil	2	R	~~	~~	Creature — Kavu
-Ertai Resurrected	dmu	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Omnath, Locus of Creation	znr	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Kozilek, Butcher of Truth	roe	6	Owned	Artifact	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
 Azorius Signet	sld	286	Owned	Gold	Foil	2	W,U	Multicolored	~~	Artifact
 Dimir Signet	sld	287	Owned	Gold	Foil	2	U,B	Multicolored	~~	Artifact
@@ -378,7 +377,7 @@ Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Necromancy	vis	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
-Carrion Feeder	sld	1114	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie
+Troll of Khazad-dûm	ltr	111	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tourach, Dread Cantor	pmh2	102s	Owned	Black	Foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Recurring Nightmare	exo	72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	oc14	33	Owned	Alter,Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
@@ -404,7 +403,7 @@ Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plain
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Arcane Savant	cn2	27	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Sphinx's Tutelage	ori	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -419,10 +418,10 @@ Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
 Pithing Needle	2x2	397	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Sleight of Hand	uma	70	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Time Spiral	usg	103	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Baral, Chief of Compliance	mul	138	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
+Hedron Crab	zen	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Subtlety	mh2	309	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Elemental Incarnation
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
-Vampiric Tutor	cmr	156	Owned	Alter,Black	Non-foil	1	B	~~	~~	Instant
+Vampiric Tutor	dmr	314	Owned	Alter,Black	Foil	1	B	~~	~~	Instant
 Timeless Dragon	mh2	388	Owned	White	Foil	5	W	~~	~~	Creature — Dragon
 March of Otherworldly Light	neo	28	Owned	White	Foil	1	W	~~	~~	Instant
 Dire Fleet Daredevil	prix	99s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Pirate
@@ -458,7 +457,7 @@ Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ayara's Oathsworn	mat	61	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Concealing Curtains	vow	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nahiri, the Harbinger	soi	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -484,7 +483,7 @@ Brushland	bro	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
-Cyber Conversion	who	38	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Lórien Revealed	ltr	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Frogkin Kidnapper	cmb1	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -501,7 +500,7 @@ Teferi's Puzzle Box	vis	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
-Tidehollow Sculler	f10	1	Owned	Gold	Foil	2	W,B	~~	~~	Artifact Creature — Zombie
+Torsten, Founder of Benalia	dmc	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bring to Light	bfz	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	B	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
