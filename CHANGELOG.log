@@ -3898,3 +3898,7 @@ Timestamp	Board	ChangeType	Name
 2024-01-03T07:20:13.738+00:00	mainboard	edit	Selesnya Sanctuary
 2024-01-03T07:20:13.738+00:00	mainboard	edit	Golgari Rot Farm
 2024-01-03T07:20:13.738+00:00	mainboard	edit	Simic Growth Chamber
+2024-01-03T07:34:34.905+00:00	mainboard	remove	Selvala's Stampede
+2024-01-03T07:34:34.905+00:00	mainboard	add	Harmonize
+2024-01-03T07:34:34.905+00:00	mainboard	remove	Wild Growth
+2024-01-03T07:34:34.905+00:00	mainboard	add	Explore
