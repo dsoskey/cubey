@@ -171,7 +171,7 @@ Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Ephemerate	h1r	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ruin Crab	znr	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ruin Crab	znr	295	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
@@ -204,7 +204,7 @@ Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Sham
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
-Gush	mmq	82	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gush	dd2	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sword of Sinew and Steel	h1r	31	Owned	Artifact	Foil	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	cmm	658	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	Red	Foil	1	R	~~	~~	Sorcery
@@ -403,7 +403,7 @@ Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plain
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Sphinx's Tutelage	ori	76	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sphinx's Tutelage	ori	76	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -483,7 +483,7 @@ Brushland	bro	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
-Lórien Revealed	ltr	60	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Lórien Revealed	ltr	60	Owned	~~	Foil	"""~~"""	U	~~	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Frogkin Kidnapper	cmb1	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
