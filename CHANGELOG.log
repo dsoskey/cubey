@@ -3886,3 +3886,11 @@ Timestamp	Board	ChangeType	Name
 2024-01-03T07:14:39.807+00:00	mainboard	edit	Night's Whisper
 2024-01-03T07:14:39.807+00:00	mainboard	edit	Torsten, Founder of Benalia
 2024-01-03T07:14:39.807+00:00	mainboard	edit	Omnath, Locus of Creation
+2024-01-03T07:18:49.191+00:00	mainboard	remove	Sakura-Tribe Elder
+2024-01-03T07:18:49.191+00:00	mainboard	add	Gruul Turf
+2024-01-03T07:18:49.191+00:00	mainboard	remove	Wandering Fumarole
+2024-01-03T07:18:49.191+00:00	mainboard	add	Selesnya Sanctuary
+2024-01-03T07:18:49.191+00:00	mainboard	remove	Shattered Sanctum
+2024-01-03T07:18:49.191+00:00	mainboard	add	Golgari Rot Farm
+2024-01-03T07:18:49.191+00:00	mainboard	remove	Blooming Marsh
+2024-01-03T07:18:49.191+00:00	mainboard	add	Simic Growth Chamber
