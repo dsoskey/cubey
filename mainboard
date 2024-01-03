@@ -32,7 +32,7 @@ Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
-Night's Whisper	5dn	55	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Night's Whisper	ema	100	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	peld	138s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Archer Rogue
 Inti, Seneschal of the Sun	lci	156	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -248,7 +248,7 @@ Rabbit Battery	neo	157	Owned	Alter,Red	Foil	1	R	~~	~~	Artifact Creature — Equi
 Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Scytheclaw Raptor	lci	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	Owned	Red	Foil	2	R	~~	~~	Creature — Kavu
-Omnath, Locus of Creation	znr	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Omnath, Locus of Creation	pznr	232s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Kozilek, Butcher of Truth	roe	6	Owned	Artifact	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
 Azorius Signet	sld	286	Owned	Gold	Foil	2	W,U	Multicolored	~~	Artifact
 Dimir Signet	sld	287	Owned	Gold	Foil	2	U,B	Multicolored	~~	Artifact
@@ -377,7 +377,7 @@ Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Necromancy	vis	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
-Troll of Khazad-dûm	ltr	111	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Troll of Khazad-dûm	ltr	111	Owned	~~	Foil	"""~~"""	~~	Black	~~	land-
 Tourach, Dread Cantor	pmh2	102s	Owned	Black	Foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Recurring Nightmare	exo	72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	oc14	33	Owned	Alter,Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
@@ -483,7 +483,7 @@ Brushland	bro	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
-Lórien Revealed	ltr	60	Owned	~~	Foil	"""~~"""	U	~~	~~	Land
+Lórien Revealed	ltr	60	Owned	~~	Foil	"""~~"""	U	Blue	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Frogkin Kidnapper	cmb1	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -500,7 +500,7 @@ Teferi's Puzzle Box	vis	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
-Torsten, Founder of Benalia	dmc	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Torsten, Founder of Benalia	dmc	47	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bring to Light	bfz	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	B	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
