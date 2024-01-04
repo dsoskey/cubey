@@ -74,7 +74,7 @@ Giver of Runes	mh1	13	Owned	White	Non-foil	1	W	~~	~~	Creature — Kor Cleric
 Abrade	vow	139	Owned	Red	Foil	2	R	~~	~~	Instant
 Goblin Rabblemaster	p30a	22	Owned	Red	Foil	3	R	~~	~~	Creature — Goblin Warrior
 Kari Zev, Skyship Raider	paer	87s	Owned	Red	Foil	2	R	~~	~~	Legendary Creature — Human Pirate
-Underworld Breach	thb	161	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Underworld Breach	spg	9	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Brazen Borrower	sld	234	Owned	Blue	Foil	3	U	~~	~~	Creature — Faerie Rogue
 Bomat Courier	kld	199	Owned	Red	Non-foil	1	R	Red	~~	Artifact Creature — Construct
 Smuggler's Copter	pkld	235s	Owned	Artifact	Foil	2	~~	~~	~~	Artifact — Vehicle
@@ -165,7 +165,7 @@ Bloodfeather Phoenix	mom	132	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gruff Triplets	woe	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gruff Triplets	pwoe	172s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -436,7 +436,7 @@ Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Ichor Wellspring	brr	84	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
-Karakas	leg	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Karakas	j12	6	Owned	~~	Foil	"""~~"""	~~	White	~~	~~
 Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Academy Ruins	tsp	269	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
@@ -494,7 +494,7 @@ Saheeli, Sublime Artificer	sld	1143	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Monster Manual	clb	242	Owned	Green	Foil	4	G	~~	~~	Artifact
 Bloodtithe Harvester	vow	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	v13	8	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
-Heart of Kiran	aer	153	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Heart of Kiran	paer	153s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zuran Orb	v10	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Teferi's Puzzle Box	vis	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
@@ -539,16 +539,16 @@ Weathered Wayfarer	2x2	578	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	v13	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Goblin Engineer	mh1	128	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Goblin Engineer	h1r	16	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 The World Tree	sld	1266	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Smoldering Egg	pmid	159s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Gut, True Soul Zealot	clb	180	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bolas's Citadel	plg21	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tezzeret the Seeker	sld	1111	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Sword of the Meek	fut	165	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Gitrog Monster	soi	245	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
