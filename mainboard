@@ -61,7 +61,7 @@ Snuff Out	mmq	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	sld	1113	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Hangarback Walker	ori	229	Owned	Artifact	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Everflowing Chalice	f11	1	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
-Mind Stone	dmr	385	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
+Mind Stone	clb	325	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
 Chain Lightning	dmr	316	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
@@ -415,11 +415,11 @@ Maze of Ith	v12	10	Owned	Land	Foil	0	~~	~~	~~	Land
 Monastery Mentor	2x2	21	Owned	White	Foil	3	W	~~	~~	Creature — Human Monk
 Force of Negation	2x2	346	Owned	Blue	Non-foil	0	U	~~	~~	Instant
 Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
-Pithing Needle	2x2	397	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
+Amulet of Vigor	wwk	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sleight of Hand	uma	70	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Time Spiral	usg	103	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Subtlety	mh2	309	Owned	Blue	Non-foil	4	U	~~	~~	Creature — Elemental Incarnation
+Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
 Vampiric Tutor	dmr	314	Owned	Alter,Black	Foil	1	B	~~	~~	Instant
 Timeless Dragon	mh2	388	Owned	White	Foil	5	W	~~	~~	Creature — Dragon
@@ -520,7 +520,7 @@ Winter Orb	ema	234	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Loran of the Third Path	bro	12	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Artificer
 Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Knight of Autumn	pgrn	183s	Owned	Gold	Foil	3	W,G	~~	~~	Creature — Dryad Knight
-Chromatic Star	brr	74	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
+Relic of Progenitus	ala	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
 Gitaxian Probe	f12	12	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
