@@ -45,12 +45,12 @@ Embercleave	eld	120	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Birds of Paradise	pm11	165★	Owned	Green	Foil	1	G	~~	~~	Creature — Bird
 Llanowar Elves	pdom	168	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Fauna Shaman	pbro	179s	Owned	Green	Foil	2	G	~~	~~	Creature — Elf Shaman
-Rofellos, Llanowar Emissary	uds	118	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Rofellos, Llanowar Emissary	uds	118	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Scavenging Ooze	plg21	5	Owned	Green	Foil	2	G	~~	~~	Creature — Ooze
 Tireless Tracker	psoi	233s	Owned	Green	Foil	3	G	~~	~~	Creature — Human Scout
 Primeval Titan	sld	494	Owned	Green	Foil	6	G	~~	~~	Creature — Giant
-Sentinel of the Nameless City	lci	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ojer Kaslem, Deepest Growth	lci	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sentinel of the Nameless City	lci	211	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
+Ojer Kaslem, Deepest Growth	lci	204	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
 Mirari's Wake	mh2	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -165,7 +165,7 @@ Bloodfeather Phoenix	mom	132	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Gruff Triplets	pwoe	172s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Gruff Triplets	pwoe	172s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -215,7 +215,7 @@ Dreadhorde Arcanist	pwar	125s	Owned	Red	Foil	2	R	~~	~~	Creature — Zombie Wizar
 Myr Battlesphere	som	180	Owned	Alter,Artifact	Non-foil	7	~~	~~	~~	Artifact Creature — Myr Construct
 Ragavan, Nimble Pilferer	mul	21	Owned	Red	Foil	1	R	~~	~~	Legendary Creature — Monkey Pirate
 Ignoble Hierarch	mh2	355	Owned	Green	Foil	1	G	~~	~~	Creature — Goblin Shaman
-Delighted Halfling	ltr	402	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Delighted Halfling	ltr	402	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Blooming Marsh	pkld	243s	Owned	Land	Foil	0	B,G	~~	~~	Land
 Simic Growth Chamber	mm2	249	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Concealed Courtyard	kld	245	Owned	Land	Non-foil	0	B,W	~~	~~	Land
@@ -299,7 +299,7 @@ Vampire Hexmage	cns	132	Owned	Black	Foil	2	B	~~	~~	Creature — Vampire Shaman
 Retrofitter Foundry	p23	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Fiery Confluence	ss3	3	Owned	Red	Foil	4	R	~~	~~	Sorcery
 Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
-Magus of the Order	cmr	242	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magus of the Order	cmr	242	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Explore	wwk	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
 Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -364,7 +364,7 @@ Ophiomancer	cc2	3	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Ziatora's Proving Ground	snc	359	Owned	Land	Foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Lotus Petal	p30m	2	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
 True-Name Nemesis	tsr	321	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
-Terastodon	p30a	18	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Terastodon	p30a	18	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Unexpectedly Absent	ema	33	Owned	White	Non-foil	2	W	~~	~~	Instant
 Prismatic Ending	mh2	384	Owned	White	Foil	1	W	~~	~~	Sorcery
 Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
@@ -396,7 +396,7 @@ Savai Triome	iko	312	Owned	Land	Non-foil	0	W,B,R	~~	~~	Land — Mountain Plains 
 Indatha Triome	iko	309	Owned	Land	Non-foil	0	W,B,G	~~	~~	Land — Plains Swamp Forest
 Raffine's Tower	snc	353	Owned	Land	Foil	0	W,U,B	~~	~~	Land — Plains Island Swamp
 Xander's Lounge	snc	358	Owned	Land	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
-Questing Beast	sld	1263	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Questing Beast	sld	1263	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
 Victimize	cma	72	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
@@ -429,7 +429,7 @@ Abbot of Keral Keep	pori	127s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Monk
 Bribery	j13	2	Owned	Blue	Foil	5	U	~~	~~	Sorcery
 Soulherder	h1r	30	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Soldier
-Worldspine Wurm	sld	1305	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Worldspine Wurm	sld	1305	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Minsc & Boo, Timeless Heroes	pclb	285s	Owned	Gold	Foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
 Dance of the Dead	ice	118	Owned	Alter,Black	Non-foil	2	B	~~	~~	Enchantment — Aura
 Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
@@ -473,7 +473,7 @@ Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Cr
 Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
 Myrel, Shield of Argive	bro	18	Owned	White	Foil	4	W	~~	~~	Legendary Creature — Human Soldier
-Selvala, Heart of the Wilds	cmm	320	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Selvala, Heart of the Wilds	cmm	320	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Owned	Green	Foil	1	G	~~	~~	Artifact Creature — Insect
 Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Monk
 Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
