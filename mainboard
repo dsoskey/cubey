@@ -136,7 +136,7 @@ Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scou
 Reprieve	ltr	26	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Daze	ema	44	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
-Windfall	p30a	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Windfall	p30a	6	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
 Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Deep-Cavern Bat	lci	102	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -417,7 +417,7 @@ Force of Negation	2x2	346	Owned	Blue	Non-foil	0	U	~~	~~	Instant
 Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
 Amulet of Vigor	wwk	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sleight of Hand	uma	70	Owned	Blue	Foil	1	U	~~	~~	Sorcery
-Time Spiral	usg	103	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Time Spiral	usg	103	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Hedron Crab	zen	47	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
@@ -508,7 +508,7 @@ Mine Collapse	mh2	408	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Echo of Eons	mh1	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Echo of Eons	mh1	46	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
 Phyrexian Dragon Engine	pbro	163as	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
@@ -522,7 +522,7 @@ Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Gole
 Knight of Autumn	pgrn	183s	Owned	Gold	Foil	3	W,G	~~	~~	Creature — Dryad Knight
 Relic of Progenitus	ala	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
-Gitaxian Probe	f12	12	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Gitaxian Probe	f12	12	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
 Exhume	pd3	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	pdmu	175s	Owned	Green	Foil	2	G	~~	~~	Creature — Dryad Warrior
