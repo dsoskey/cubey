@@ -4,7 +4,7 @@ Student of Warfare	roe	47	Owned	White	Foil	1	W	~~	~~	Creature — Human Knight
 Selfless Spirit	pemn	40s	Owned	White	Foil	2	W	~~	~~	Creature — Spirit Cleric
 Stoneforge Mystic	pgpx	2016	Owned	White	Foil	2	W	~~	~~	Creature — Kor Artificer
 Wall of Omens	f11	3	Owned	White	Foil	2	W	~~	~~	Creature — Wall
-Parallax Wave	nem	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Parallax Wave	nem	17	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Guardian Scalelord	moc	16	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Gideon, Ally of Zendikar	pbfz	29s	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker — Gideon
 Elspeth, Sun's Champion	sld	1140	Owned	White	Foil	6	W	~~	~~	Legendary Planeswalker — Elspeth
@@ -118,7 +118,7 @@ Sacred Foundry	unf	285	Owned	Land	Foil	0	W,R	~~	~~	Land — Mountain Plains
 Watery Grave	unf	278	Owned	Land	Foil	0	U,B	~~	~~	Land — Island Swamp
 Breeding Pool	unf	286	Owned	Land	Foil	0	U,G	~~	~~	Land — Forest Island
 Steam Vents	unf	283	Owned	Land	Foil	0	U,R	~~	~~	Land — Island Mountain
-Staff of the Storyteller	onc	10	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Staff of the Storyteller	onc	10	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Unmarked Grave	pmh2	106s	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Grief	mh2	311	Owned	Black	Non-foil	4	B	~~	~~	Creature — Elemental Incarnation
 Sedgemoor Witch	pstx	86s	Owned	Black	Foil	3	B	~~	~~	Creature — Human Warlock
@@ -133,7 +133,7 @@ Sensei's Divining Top	2x2	398	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Wurmcoil Engine	psom	223★	Owned	Artifact	Foil	6	~~	~~	~~	Artifact Creature — Phyrexian Wurm
 Murktide Regent	mh2	337	Owned	Blue	Non-foil	7	U	~~	~~	Creature — Dragon
 Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scout
-Reprieve	ltr	26	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Reprieve	ltr	26	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Daze	ema	44	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Windfall	p30a	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -170,7 +170,7 @@ Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
-Ephemerate	h1r	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Ephemerate	h1r	1	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Ruin Crab	znr	295	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
@@ -283,7 +283,7 @@ Fractured Identity	sld	272	Owned	Gold	Foil	5	W,U	~~	~~	Sorcery
 Dack Fayden	ema	199	Owned	Gold	Non-foil	3	U,R	~~	~~	Legendary Planeswalker — Dack
 Bonesplitter	pal03	8	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Boseiju, Who Endures	neo	266	Owned	Land	Non-foil	0	G	Green	~~	Legendary Land
-Winds of Abandon	mh1	37	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Winds of Abandon	mh1	37	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Forbidden Orchard	v12	6	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Atraxa, Grand Unifier	one	196	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Human Soldier
@@ -368,7 +368,7 @@ Terastodon	p30a	18	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Unexpectedly Absent	ema	33	Owned	White	Non-foil	2	W	~~	~~	Instant
 Prismatic Ending	mh2	384	Owned	White	Foil	1	W	~~	~~	Sorcery
 Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
-Get Lost	plci	14s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Get Lost	plci	14s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Armageddon	v14	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
 Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -406,7 +406,7 @@ Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker —
 Sphinx's Tutelage	ori	76	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
-Ossification	one	277	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Ossification	one	277	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Mana Drain	2x2	348	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Green Sun's Zenith	ema	169	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Bramble Sovereign	clb	372	Owned	Green	Foil	4	G	~~	~~	Creature — Dryad
@@ -436,7 +436,7 @@ Basalt Monolith	2xm	232	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Ichor Wellspring	brr	84	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legendary Artifact Creature — Scout
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
-Karakas	j12	6	Owned	~~	Foil	"""~~"""	~~	White	~~	~~
+Karakas	j12	6	Owned	Land	Foil	"""~~"""	~~	White	~~	~~
 Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Academy Ruins	tsp	269	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
@@ -538,7 +538,7 @@ Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
 Weathered Wayfarer	2x2	578	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	v13	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Wedding Announcement	vow	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Wedding Announcement	vow	45	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Goblin Engineer	h1r	16	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 The World Tree	sld	1266	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
