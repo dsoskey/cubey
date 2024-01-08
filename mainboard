@@ -53,8 +53,8 @@ Sentinel of the Nameless City	lci	211	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Ojer Kaslem, Deepest Growth	lci	204	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
 Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
-Mirari's Wake	mh2	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rip Apart	stx	225	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Mirari's Wake	mh2	291	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+Rip Apart	stx	225	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Mindslaver	som	176	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Revoker	brr	103	Owned	Artifact	Foil	2	~~	~~	~~	Artifact Creature — Horror
 Snuff Out	mmq	162	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
@@ -146,7 +146,7 @@ Play with Fire	mid	390	Owned	Red	Foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	Gold	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Walking Ballista	sld	1265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Khenra Spellspear	mom	151	Owned	Red	Foil	"""~~"""	R	~~	~~	~~
-Knight of the Reliquary	con	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Knight of the Reliquary	con	113	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Looter il-Kor	tsp	66	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	Owned	Blue	Foil	2	U	~~	~~	Sorcery
 Mystic Confluence	tsr	312	Owned	Blue	Non-foil	5	U	~~	~~	Instant
@@ -160,7 +160,7 @@ Wall of Roots	p30a	4	Owned	Green	Foil	2	G	~~	~~	Creature — Plant Wall
 Disenchant	f03	13	Owned	White	Foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Restoration Angel	pavr	32★	Owned	White	Foil	4	W	~~	~~	Creature — Angel
-Maelstrom Pulse	uma	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Maelstrom Pulse	uma	204	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
@@ -199,7 +199,7 @@ Sol Ring	pf19	7	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Zurgo Bellstriker	pdtk	169s	Owned	Red	Foil	1	R	~~	~~	Legendary Creature — Orc Warrior
 Dragonlord Atarka	dtk	216	Owned	Gold	Non-foil	7	G,R	~~	~~	Legendary Creature — Elder Dragon
 Chaos Defiler	40k	110★	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
-Leovold, Emissary of Trest	uma	202	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Leovold, Emissary of Trest	uma	202	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Shaman
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
@@ -248,7 +248,7 @@ Rabbit Battery	neo	157	Owned	Alter,Red	Foil	1	R	~~	~~	Artifact Creature — Equi
 Death-Greeter's Champion	moc	30	Owned	Red	~~	"""~~"""	~~	~~	~~	~~
 Scytheclaw Raptor	lci	165	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	Owned	Red	Foil	2	R	~~	~~	Creature — Kavu
-Omnath, Locus of Creation	pznr	232s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Omnath, Locus of Creation	pznr	232s	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Kozilek, Butcher of Truth	roe	6	Owned	Artifact	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
 Azorius Signet	sld	286	Owned	Gold	Foil	2	W,U	Multicolored	~~	Artifact
 Dimir Signet	sld	287	Owned	Gold	Foil	2	U,B	Multicolored	~~	Artifact
@@ -276,8 +276,8 @@ Voldaren Thrillseeker	pmom	171s	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
 Natural Order	sta	54	Owned	Green	Non-foil	4	G	~~	~~	Sorcery
 Oath of Druids	c16	159	Owned	Green	Non-foil	2	G	~~	~~	Enchantment
-Otharri, Suns' Glory	onc	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Forth Eorlingas!	ltc	56	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Otharri, Suns' Glory	onc	3	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
+Forth Eorlingas!	ltc	56	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	f12	9	Owned	Gold	Foil	3	W,B	Multicolored	~~	Sorcery
 Fractured Identity	sld	272	Owned	Gold	Foil	5	W,U	~~	~~	Sorcery
 Dack Fayden	ema	199	Owned	Gold	Non-foil	3	U,R	~~	~~	Legendary Planeswalker — Dack
@@ -305,10 +305,10 @@ Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Crea
 Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
 Memory Jar	v10	8	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Expressive Iteration	stx	186	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Expressive Iteration	stx	186	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Dreadbore	rtr	157	Owned	Gold	Foil	2	B,R	~~	~~	Sorcery
 Sphinx of the Steel Wind	ema	207	Owned	Gold	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
-Sail into the West	ltc	475	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Sail into the West	ltc	475	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Shelldock Isle	sld	230	Owned	Land	Foil	0	U	Blue	~~	Land
 Mother of Runes	sld	299	Owned	White	Foil	1	W	~~	~~	Creature — Human Cleric
 Adeline, Resplendent Cathar	mid	1	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Knight
@@ -334,7 +334,7 @@ Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Eldrazi Displacer	ogw	13	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Balance	g04	2	Owned	White	Foil	2	W	~~	~~	Sorcery
 Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
-Valki, God of Lies	khm	308	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Valki, God of Lies	khm	308	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Hazoret the Fervent	akh	136	Owned	Red	Non-foil	4	R	~~	~~	Legendary Creature — God
 Endurance	mh2	157	Owned	Green	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
 Fyndhorn Elves	v13	4	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
@@ -459,10 +459,10 @@ Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Concealing Curtains	vow	101	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
-Nahiri, the Harbinger	soi	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Nahiri, the Harbinger	soi	247	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
-Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fallen Shinobi	mh1	199	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Portable Hole	afr	33	Owned	White	Foil	1	W	~~	~~	Artifact
 Scapeshift	mor	136	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
@@ -492,7 +492,7 @@ Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
 Custodi Lich	cn2	41	Owned	Black	Foil	5	B	~~	~~	Creature — Zombie Cleric
 Saheeli, Sublime Artificer	sld	1143	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Monster Manual	clb	242	Owned	Green	Foil	4	G	~~	~~	Artifact
-Bloodtithe Harvester	vow	232	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodtithe Harvester	vow	232	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	v13	8	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
 Heart of Kiran	paer	153s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zuran Orb	v10	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -500,14 +500,14 @@ Teferi's Puzzle Box	vis	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
 Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
-Torsten, Founder of Benalia	dmc	47	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Bring to Light	bfz	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Torsten, Founder of Benalia	dmc	47	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
+Bring to Light	bfz	209	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	Black	Foil	"""~~"""	B	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Mine Collapse	mh2	408	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Notion Thief	a25	211	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
 Phyrexian Dragon Engine	pbro	163as	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
@@ -515,7 +515,7 @@ Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Tolarian Academy	usg	330	Owned	Land	~~	"""~~"""	~~	Blue	~~	~~
 Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
-Comet, Stellar Pup	unf	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Comet, Stellar Pup	unf	166	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Winter Orb	ema	234	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Loran of the Third Path	bro	12	Owned	White	Foil	3	W	~~	~~	Legendary Creature — Human Artificer
 Lodestone Golem	brr	29	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
@@ -532,7 +532,7 @@ Worldly Tutor	dmr	185	Owned	Green	Foil	1	G	~~	~~	Instant
 Entomb	dmr	304	Owned	Black	Foil	1	B	~~	~~	Instant
 Urza, Lord High Artificer	dmr	71	Owned	Blue	Foil	4	U	~~	~~	Legendary Creature — Human Artificer
 Spellseeker	j20	3	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
-Thief of Sanity	grn	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thief of Sanity	grn	205	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
 Weathered Wayfarer	2x2	578	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
@@ -549,8 +549,8 @@ Tezzeret the Seeker	sld	1111	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Ashen Rider	ths	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-The Gitrog Monster	soi	245	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ashen Rider	ths	187	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+The Gitrog Monster	soi	245	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Once Upon a Time	peld	169s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
-Thopter Foundry	arb	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Thopter Foundry	arb	133	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
