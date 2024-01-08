@@ -14,7 +14,7 @@ Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
 Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
 Chrome Host Seedshark	pmom	51s	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	p30a	16	Owned	Blue	Foil	4	U	~~	~~	Creature — Faerie Wizard
-Flash	a25	57	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Flash	a25	57	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
 Kappa Cannoneer	nec	14	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
@@ -95,7 +95,7 @@ Mutavault	pgpx	2018	Owned	Land	Foil	0	~~	~~	~~	Land
 Porcelain Legionnaire	nph	19	Owned	White	Non-foil	3	W	White	~~	Artifact Creature — Soldier
 Palantír of Orthanc	pltr	247s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Alesha, Who Smiles at Death	sld	1007	Owned	Red	Foil	3	R	Red	~~	Legendary Creature — Human Warrior
-Brain Freeze	sld	410	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Brain Freeze	sld	410	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Control Magic	ema	42	Owned	Blue	Foil	4	U	~~	~~	Enchantment — Aura
 Luminarch Aspirant	pznr	24s	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
 Verdant Catacombs	zen	229	Owned	Land	Non-foil	0	B,G	~~	~~	Land
@@ -134,7 +134,7 @@ Wurmcoil Engine	psom	223★	Owned	Artifact	Foil	6	~~	~~	~~	Artifact Creature —
 Murktide Regent	mh2	337	Owned	Blue	Non-foil	7	U	~~	~~	Creature — Dragon
 Intrepid Adversary	dbl	25	Owned	White	Non-foil	2	W	~~	~~	Creature — Human Scout
 Reprieve	ltr	26	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
-Daze	ema	44	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Daze	ema	44	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Windfall	p30a	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
@@ -204,7 +204,7 @@ Dragon's Rage Channeler	mh2	121	Owned	Red	Foil	1	R	~~	~~	Creature — Human Sham
 Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
-Gush	dd2	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Gush	dd2	27	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of Sinew and Steel	h1r	31	Owned	Artifact	Foil	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	cmm	658	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	Red	Foil	1	R	~~	~~	Sorcery
@@ -545,7 +545,7 @@ Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Gut, True Soul Zealot	clb	180	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bolas's Citadel	plg21	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Tezzeret the Seeker	sld	1111	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Tezzeret the Seeker	sld	1111	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
