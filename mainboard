@@ -35,7 +35,7 @@ Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Night's Whisper	ema	100	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	peld	138s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Archer Rogue
-Inti, Seneschal of the Sun	lci	156	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Inti, Seneschal of the Sun	lci	156	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Young Pyromancer	tsr	353	Owned	Red	Foil	2	R	~~	~~	Creature — Human Shaman
 Chandra, Torch of Defiance	kld	110	Owned	Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Chandra
 Lightning Bolt	2x2	361	Owned	Red	Foil	1	R	~~	~~	Instant
@@ -145,7 +145,7 @@ Liliana, the Last Hope	2x2	333	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker
 Play with Fire	mid	390	Owned	Red	Foil	1	R	~~	~~	Instant
 Grist, the Hunger Tide	mh2	202	Owned	Gold	Non-foil	3	B,G	~~	~~	Legendary Planeswalker — Grist
 Walking Ballista	sld	1265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Khenra Spellspear	mom	151	Owned	~~	Foil	"""~~"""	R	~~	~~	~~
+Khenra Spellspear	mom	151	Owned	Red	Foil	"""~~"""	R	~~	~~	~~
 Knight of the Reliquary	con	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Looter il-Kor	tsp	66	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	Owned	Blue	Foil	2	U	~~	~~	Sorcery
@@ -161,7 +161,7 @@ Disenchant	f03	13	Owned	White	Foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
 Restoration Angel	pavr	32★	Owned	White	Foil	4	W	~~	~~	Creature — Angel
 Maelstrom Pulse	uma	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Bloodfeather Phoenix	mom	132	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Bloodfeather Phoenix	mom	132	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -245,8 +245,8 @@ Cabal Initiate	mh2	78	Owned	Black	Foil	2	B	~~	~~	Creature — Human Warlock
 Flametongue Kavu	f05	3	Owned	Red	Foil	4	R	~~	~~	Creature — Kavu
 Fable of the Mirror-Breaker	pneo	141s	Owned	Red	Foil	3	R	~~	~~	Enchantment — Saga
 Rabbit Battery	neo	157	Owned	Alter,Red	Foil	1	R	~~	~~	Artifact Creature — Equipment Rabbit
-Death-Greeter's Champion	moc	30	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Scytheclaw Raptor	lci	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Death-Greeter's Champion	moc	30	Owned	Red	~~	"""~~"""	~~	~~	~~	~~
+Scytheclaw Raptor	lci	165	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Flametongue Yearling	mh2	125	Owned	Red	Foil	2	R	~~	~~	Creature — Kavu
 Omnath, Locus of Creation	pznr	232s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Kozilek, Butcher of Truth	roe	6	Owned	Artifact	Non-foil	10	~~	~~	~~	Legendary Creature — Eldrazi
@@ -272,7 +272,7 @@ Griselbrand	pgpx	2015	Owned	Black	Foil	8	B	~~	~~	Legendary Creature — Demon
 Putrid Imp	pd3	1	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie Imp
 Bloodghast	zen	83	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Sneak Attack	dmr	331	Owned	Red	Foil	4	R	~~	~~	Enchantment
-Voldaren Thrillseeker	pmom	171s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Voldaren Thrillseeker	pmom	171s	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
 Natural Order	sta	54	Owned	Green	Non-foil	4	G	~~	~~	Sorcery
 Oath of Druids	c16	159	Owned	Green	Non-foil	2	G	~~	~~	Enchantment
@@ -510,7 +510,7 @@ Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Notion Thief	a25	211	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Echo of Eons	mh1	46	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
-Phyrexian Dragon Engine	pbro	163as	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Phyrexian Dragon Engine	pbro	163as	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Tolarian Academy	usg	330	Owned	Land	~~	"""~~"""	~~	Blue	~~	~~
@@ -539,10 +539,10 @@ Weathered Wayfarer	2x2	578	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	v13	15	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	Owned	White	~~	"""~~"""	~~	~~	~~	~~
-Goblin Engineer	h1r	16	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Goblin Engineer	h1r	16	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 The World Tree	sld	1266	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Gut, True Soul Zealot	clb	180	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Gut, True Soul Zealot	clb	180	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bolas's Citadel	plg21	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Tezzeret the Seeker	sld	1111	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
