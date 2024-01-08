@@ -5,7 +5,7 @@ Selfless Spirit	pemn	40s	Owned	White	Foil	2	W	~~	~~	Creature — Spirit Cleric
 Stoneforge Mystic	pgpx	2016	Owned	White	Foil	2	W	~~	~~	Creature — Kor Artificer
 Wall of Omens	f11	3	Owned	White	Foil	2	W	~~	~~	Creature — Wall
 Parallax Wave	nem	17	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Guardian Scalelord	moc	16	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Guardian Scalelord	moc	16	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Gideon, Ally of Zendikar	pbfz	29s	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker — Gideon
 Elspeth, Sun's Champion	sld	1140	Owned	White	Foil	6	W	~~	~~	Legendary Planeswalker — Elspeth
 Path to Exile	pdci	24	Owned	White	Foil	1	W	~~	~~	Instant
@@ -178,7 +178,7 @@ Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
 Teferi, Hero of Dominaria	sld	248	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Hero of Bladehold	mbs	8	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Knight
 Flickerwisp	2x2	339	Owned	White	Foil	3	W	~~	~~	Creature — Elemental
-Serra Paragon	pdmu	32s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Serra Paragon	pdmu	32s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Hanweir Garrison	emn	130a	Owned	Red	Foil	3	R	~~	~~	Creature — Human Soldier
 Joraga Treespeaker	sld	1281	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
@@ -328,10 +328,10 @@ Ancient Tomb	v12	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Batterskull	pgpx	2014	Owned	Artifact	Foil	5	~~	~~	~~	Artifact — Equipment
 Daretti, Ingenious Iconoclast	cn2	74	Owned	Gold	Non-foil	3	B,R	~~	~~	Legendary Planeswalker — Daretti
 Craterhoof Behemoth	cmm	280	Owned	Green	Foil	8	G	~~	~~	Creature — Beast
-Solitude	pmh2	32s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Solitude	pmh2	32s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
-Eldrazi Displacer	ogw	13	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Eldrazi Displacer	ogw	13	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Balance	g04	2	Owned	White	Foil	2	W	~~	~~	Sorcery
 Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
 Valki, God of Lies	khm	308	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -346,7 +346,7 @@ Portal to Phyrexia	pbro	240s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wheel of Fortune	3ed	185	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rona, Herald of Invasion	mom	75	Owned	~~	Foil	"""~~"""	U	~~	~~	~~
 Valakut, the Molten Pinnacle	zen	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Archon of Emeria	pznr	4s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Archon of Emeria	pznr	4s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	351	Owned	Land	Foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
 Talisman of Progress	sld	1052	Owned	Gold	Foil	2	W,U	~~	~~	Artifact
 Talisman of Indulgence	sld	1054	Owned	Gold	Foil	2	B,R	~~	~~	Artifact
@@ -443,7 +443,7 @@ Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creature — Phyrexian Praetor
 Fury	mh2	313	Owned	Red	Non-foil	5	R	~~	~~	Creature — Elemental Incarnation
-Elite Spellbinder	pstx	17s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Elite Spellbinder	pstx	17s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Fact or Fiction	sld	333	Owned	Blue	Foil	4	U	~~	~~	Instant
 Liliana of the Veil	dmu	97	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Tarmogoyf	tsr	235	Owned	Green	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
@@ -535,7 +535,7 @@ Spellseeker	j20	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
-Weathered Wayfarer	2x2	578	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Weathered Wayfarer	2x2	578	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Venser, Shaper Savant	v13	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
