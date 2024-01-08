@@ -27,7 +27,7 @@ Ponder	sld	245	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Preordain	cmr	84	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
-Yawgmoth, Thran Physician	mh1	116	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Yawgmoth, Thran Physician	mh1	116	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
@@ -138,8 +138,8 @@ Daze	ema	44	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Consider	mid	388	Owned	Blue	Foil	1	U	~~	~~	Instant
 Windfall	p30a	6	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Archon of Cruelty	mh2	342	Owned	Black	Non-foil	8	B	~~	~~	Creature — Archon
-Dark Confidant	g11	6	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Deep-Cavern Bat	lci	102	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Dark Confidant	g11	6	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
+Deep-Cavern Bat	lci	102	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Infernal Grasp	mid	389	Owned	Black	Foil	2	B	~~	~~	Instant
 Liliana, the Last Hope	2x2	333	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker — Liliana
 Play with Fire	mid	390	Owned	Red	Foil	1	R	~~	~~	Instant
@@ -163,7 +163,7 @@ Restoration Angel	pavr	32★	Owned	White	Foil	4	W	~~	~~	Creature — Angel
 Maelstrom Pulse	uma	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
-Spitting Dilophosaurus	rex	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Spitting Dilophosaurus	rex	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Gruff Triplets	pwoe	172s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
@@ -270,7 +270,7 @@ Show and Tell	cn2	121	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
 Griselbrand	pgpx	2015	Owned	Black	Foil	8	B	~~	~~	Legendary Creature — Demon
 Putrid Imp	pd3	1	Owned	Black	Foil	1	B	~~	~~	Creature — Zombie Imp
-Bloodghast	zen	83	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bloodghast	zen	83	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Sneak Attack	dmr	331	Owned	Red	Foil	4	R	~~	~~	Enchantment
 Voldaren Thrillseeker	pmom	171s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
@@ -374,7 +374,7 @@ Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature 
 Faerie Mastermind	mom	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	psnc	46s	Owned	Blue	Foil	2	U	~~	~~	Creature — Bird Advisor
 Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
-Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Orcish Bowmasters	ltr	103	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Necromancy	vis	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
 Troll of Khazad-dûm	ltr	111	Owned	~~	Foil	"""~~"""	~~	Black	~~	land-
@@ -457,7 +457,7 @@ Sulfurous Springs	dmu	381	Owned	Land	Foil	0	B,R	~~	~~	Land
 Karplusan Forest	dmu	379	Owned	Land	Foil	0	R,G	~~	~~	Land
 Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Concealing Curtains	vow	101	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Concealing Curtains	vow	101	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
 Nahiri, the Harbinger	soi	247	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -486,7 +486,7 @@ Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Lórien Revealed	ltr	60	Owned	Blue	Foil	"""~~"""	U	Blue	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Frogkin Kidnapper	cmb1	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Frogkin Kidnapper	cmb1	42	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Owned	Black	Foil	3	B	~~	~~	Artifact Creature — Phyrexian Wurm
 Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
 Custodi Lich	cn2	41	Owned	Black	Foil	5	B	~~	~~	Creature — Zombie Cleric
