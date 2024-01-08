@@ -262,7 +262,7 @@ Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
 Exploration	2xm	351	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mana Crypt	spg	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Treachery	uds	50	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Treachery	uds	50	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	pneo	42p	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker
 Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
 Tinker	v09	14	Owned	Blue	Foil	3	U	~~	~~	Sorcery
@@ -403,7 +403,7 @@ Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plain
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
-Sphinx's Tutelage	ori	76	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Sphinx's Tutelage	ori	76	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
 Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
@@ -483,7 +483,7 @@ Brushland	bro	298	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
 Battlefield Forge	bro	297	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
-Lórien Revealed	ltr	60	Owned	~~	Foil	"""~~"""	U	Blue	~~	Land
+Lórien Revealed	ltr	60	Owned	Blue	Foil	"""~~"""	U	Blue	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
 Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Frogkin Kidnapper	cmb1	42	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -513,7 +513,7 @@ Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
 Phyrexian Dragon Engine	pbro	163as	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
 Hullbreacher	cmr	74	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
-Tolarian Academy	usg	330	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
+Tolarian Academy	usg	330	Owned	Land	~~	"""~~"""	~~	Blue	~~	~~
 Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
 Comet, Stellar Pup	unf	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Winter Orb	ema	234	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
