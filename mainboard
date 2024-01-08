@@ -12,14 +12,14 @@ Path to Exile	pdci	24	Owned	White	Foil	1	W	~~	~~	Instant
 Swords to Plowshares	a25	35	Owned	White	Foil	1	W	~~	~~	Instant
 Oblivion Ring	f09	11	Owned	White	Foil	3	W	~~	~~	Enchantment
 Snapcaster Mage	uma	71	Owned	Blue	Foil	2	U	~~	~~	Creature — Human Wizard
-Chrome Host Seedshark	pmom	51s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Chrome Host Seedshark	pmom	51s	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Glen Elendra Archmage	p30a	16	Owned	Blue	Foil	4	U	~~	~~	Creature — Faerie Wizard
 Flash	a25	57	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Creature — Shapeshifter
-Kappa Cannoneer	nec	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Kappa Cannoneer	nec	14	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
 Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
-Astral Dragon	clb	664	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Astral Dragon	clb	664	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
@@ -147,7 +147,7 @@ Grist, the Hunger Tide	mh2	202	Owned	Gold	Non-foil	3	B,G	~~	~~	Legendary Planesw
 Walking Ballista	sld	1265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Khenra Spellspear	mom	151	Owned	~~	Foil	"""~~"""	R	~~	~~	~~
 Knight of the Reliquary	con	113	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Looter il-Kor	tsp	66	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Looter il-Kor	tsp	66	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	Owned	Blue	Foil	2	U	~~	~~	Sorcery
 Mystic Confluence	tsr	312	Owned	Blue	Non-foil	5	U	~~	~~	Instant
 Thirst for Knowledge	f08	9	Owned	Blue	Foil	3	U	~~	~~	Instant
@@ -171,7 +171,7 @@ Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
 Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Ephemerate	h1r	1	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
-Ruin Crab	znr	295	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Ruin Crab	znr	295	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Jace, Vryn's Prodigy	v17	12	Owned	Blue	Foil	2	U	~~	~~	Legendary Creature — Human Wizard
 Remand	f08	1	Owned	Blue	Foil	2	U	~~	~~	Instant
 Frantic Search	dmr	285	Owned	Blue	Foil	3	U	~~	~~	Instant
@@ -344,7 +344,7 @@ Karn, Scion of Urza	dom	1	Owned	Artifact	Non-foil	4	~~	~~	~~	Legendary Planeswal
 Fabled Passage	pw21	4	Owned	Land	Foil	0	~~	~~	~~	Land
 Portal to Phyrexia	pbro	240s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wheel of Fortune	3ed	185	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Rona, Herald of Invasion	mom	75	Owned	~~	Foil	"""~~"""	U	~~	~~	~~
+Rona, Herald of Invasion	mom	75	Owned	Blue	Foil	"""~~"""	U	~~	~~	~~
 Valakut, the Molten Pinnacle	zen	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Archon of Emeria	pznr	4s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	351	Owned	Land	Foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
@@ -363,7 +363,7 @@ Talisman of Curiosity	sld	1061	Owned	Gold	Foil	2	U,G	~~	~~	Artifact
 Ophiomancer	cc2	3	Owned	Black	Foil	3	B	~~	~~	Creature — Human Shaman
 Ziatora's Proving Ground	snc	359	Owned	Land	Foil	0	B,R,G	~~	~~	Land — Swamp Mountain Forest
 Lotus Petal	p30m	2	Owned	~~	Etched	"""~~"""	~~	~~	~~	~~
-True-Name Nemesis	tsr	321	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+True-Name Nemesis	tsr	321	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Terastodon	p30a	18	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Unexpectedly Absent	ema	33	Owned	White	Non-foil	2	W	~~	~~	Instant
 Prismatic Ending	mh2	384	Owned	White	Foil	1	W	~~	~~	Sorcery
@@ -371,7 +371,7 @@ Council's Judgment	2xm	336	Owned	White	Foil	3	W	~~	~~	Sorcery
 Get Lost	plci	14s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Armageddon	v14	1	Owned	White	Foil	4	W	~~	~~	Sorcery
 Thalia, Heretic Cathar	emn	46	Owned	White	Non-foil	3	W	~~	~~	Legendary Creature — Human Soldier
-Faerie Mastermind	mom	58	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Faerie Mastermind	mom	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	psnc	46s	Owned	Blue	Foil	2	U	~~	~~	Creature — Bird Advisor
 Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Orcish Bowmasters	ltr	103	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -418,7 +418,7 @@ Mana Vault	2x2	394	Owned	Artifact	Non-foil	1	~~	~~	~~	Artifact
 Amulet of Vigor	wwk	121	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sleight of Hand	uma	70	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Time Spiral	usg	103	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Hedron Crab	zen	47	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Hedron Crab	zen	47	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Otawara, Soaring City	neo	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Tithe	tsr	26	Owned	White	Foil	1	W	~~	~~	Instant
 Vampiric Tutor	dmr	314	Owned	Alter,Black	Foil	1	B	~~	~~	Instant
@@ -512,7 +512,7 @@ Echo of Eons	mh1	46	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zealous Conscripts	mm3	116	Owned	Red	Foil	5	R	~~	~~	Creature — Human Warrior
 Phyrexian Dragon Engine	pbro	163as	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Monastery Swiftspear	2x2	119	Owned	Red	Foil	1	R	~~	~~	Creature — Human Monk
-Hullbreacher	cmr	74	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Hullbreacher	cmr	74	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Tolarian Academy	usg	330	Owned	~~	~~	"""~~"""	~~	Blue	~~	~~
 Trygon Predator	tsr	389	Owned	Gold	Foil	3	U,G	~~	~~	Creature — Beast
 Comet, Stellar Pup	unf	166	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -531,13 +531,13 @@ Force of Will	dmr	50	Owned	Blue	Foil	0	U	~~	~~	Instant
 Worldly Tutor	dmr	185	Owned	Green	Foil	1	G	~~	~~	Instant
 Entomb	dmr	304	Owned	Black	Foil	1	B	~~	~~	Instant
 Urza, Lord High Artificer	dmr	71	Owned	Blue	Foil	4	U	~~	~~	Legendary Creature — Human Artificer
-Spellseeker	j20	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Spellseeker	j20	3	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Thief of Sanity	grn	205	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mystical Tutor	dmr	60	Owned	Blue	Foil	1	U	~~	~~	Instant
 Enlightened Tutor	dmr	6	Owned	White	Foil	1	W	~~	~~	Instant
 Weathered Wayfarer	2x2	578	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Song of the Dryads	cmm	324	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
-Venser, Shaper Savant	v13	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Venser, Shaper Savant	v13	15	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Wedding Announcement	vow	45	Owned	White	~~	"""~~"""	~~	~~	~~	~~
 Goblin Engineer	h1r	16	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 The World Tree	sld	1266	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -546,8 +546,8 @@ Gut, True Soul Zealot	clb	180	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bolas's Citadel	plg21	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tezzeret the Seeker	sld	1111	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Sai, Master Thopterist	m19	69	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Phantasmal Image	m12	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
+Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Gitrog Monster	soi	245	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
