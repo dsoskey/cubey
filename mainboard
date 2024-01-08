@@ -155,7 +155,7 @@ Memory Lapse	sta	16	Owned	Blue	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Gonti, Lord of Luxury	pkld	84s	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
 Lightning Strike	dmu	137	Owned	Red	Foil	2	R	~~	~~	Instant
-Fastbond	3ed	194	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Fastbond	3ed	194	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Wall of Roots	p30a	4	Owned	Green	Foil	2	G	~~	~~	Creature — Plant Wall
 Disenchant	f03	13	Owned	White	Foil	2	W	~~	~~	Instant
 Skullclamp	sld	1112	Owned	Artifact	Foil	1	~~	~~	~~	Artifact — Equipment
@@ -164,11 +164,11 @@ Maelstrom Pulse	uma	204	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Bloodfeather Phoenix	mom	132	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Firebolt	f07	1	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Spitting Dilophosaurus	rex	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
-Prismatic Omen	shm	126	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Prismatic Omen	shm	126	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Gruff Triplets	pwoe	172s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Oracle of Mul Daya	2x2	154	Owned	Green	Foil	4	G	~~	~~	Creature — Elf Shaman
 Deep Forest Hermit	h1r	20	Owned	Green	Foil	5	G	~~	~~	Creature — Elf Druid
-Nissa, Ascended Animist	one	339	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Nissa, Ascended Animist	one	339	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Pest Infestation	c21	65	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
 Ephemerate	h1r	1	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Ruin Crab	znr	295	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
@@ -260,7 +260,7 @@ Izzet Signet	sld	293	Owned	Gold	Foil	2	U,R	Multicolored	~~	Artifact
 Golgari Signet	sld	292	Owned	Gold	Foil	2	B,G	Multicolored	~~	Artifact
 Boros Signet	sld	291	Owned	Gold	Foil	2	W,R	Multicolored	~~	Artifact
 Simic Signet	sld	295	Owned	Gold	Foil	2	U,G	Multicolored	~~	Artifact
-Exploration	2xm	351	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Exploration	2xm	351	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Mana Crypt	spg	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Treachery	uds	50	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	pneo	42p	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker
@@ -300,7 +300,7 @@ Retrofitter Foundry	p23	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Fiery Confluence	ss3	3	Owned	Red	Foil	4	R	~~	~~	Sorcery
 Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
 Magus of the Order	cmr	242	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
-Explore	wwk	99	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Explore	wwk	99	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
 Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
@@ -385,10 +385,10 @@ Burning of Xinye	v14	2	Owned	Red	Foil	6	R	~~	~~	Sorcery
 Wildfire	mm2	134	Owned	Red	Foil	6	R	~~	~~	Sorcery
 Searing Spear	f13	1	Owned	Red	Foil	2	R	~~	~~	Instant
 Grim Lavamancer	dmr	434	Owned	Red	Foil	1	R	~~	~~	Creature — Human Wizard
-Harmonize	ema	170	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Court of Garenbrig	woc	33	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Harmonize	ema	170	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
+Court of Garenbrig	woc	33	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Noble Hierarch	2xm	352	Owned	Green	Foil	1	G	Green	~~	Creature — Human Druid
-Esika's Chariot	khm	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Esika's Chariot	khm	169	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Oko, Thief of Crowns	peld	197s	Owned	Gold	Foil	3	G,U	~~	~~	Legendary Planeswalker — Oko
 Mishra's Bauble	brr	97	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Zagoth Triome	iko	313	Owned	Land	Non-foil	0	U,B,G	~~	~~	Land — Swamp Forest Island
@@ -465,10 +465,10 @@ Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Fallen Shinobi	mh1	199	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Miscalculation	ulg	36	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Portable Hole	afr	33	Owned	White	Foil	1	W	~~	~~	Artifact
-Scapeshift	mor	136	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Scapeshift	mor	136	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Cultivate	sld	246	Owned	Green	Foil	3	G	~~	~~	Sorcery
 Manamorphose	2xm	208	Owned	Red	Foil	"""~~"""	R	Red	~~	~~
-Crop Rotation	2xm	349	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Crop Rotation	2xm	349	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
 Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
@@ -552,5 +552,5 @@ Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 The Gitrog Monster	soi	245	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Once Upon a Time	peld	169s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Once Upon a Time	peld	169s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Thopter Foundry	arb	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
