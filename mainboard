@@ -32,7 +32,7 @@ Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
-Night's Whisper	ema	100	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Night's Whisper	ema	100	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Guide	plg21	4	Owned	Red	Foil	1	R	~~	~~	Creature — Goblin Scout
 Robber of the Rich	peld	138s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Archer Rogue
 Inti, Seneschal of the Sun	lci	156	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -57,7 +57,7 @@ Mirari's Wake	mh2	291	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Rip Apart	stx	225	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mindslaver	som	176	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Phyrexian Revoker	brr	103	Owned	Artifact	Foil	2	~~	~~	~~	Artifact Creature — Horror
-Snuff Out	mmq	162	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Snuff Out	mmq	162	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Solemn Simulacrum	sld	1113	Owned	Artifact	Foil	4	~~	~~	~~	Artifact Creature — Golem
 Hangarback Walker	ori	229	Owned	Artifact	Non-foil	0	~~	~~	~~	Artifact Creature — Construct
 Everflowing Chalice	f11	1	Owned	Artifact	Foil	0	~~	~~	~~	Artifact
@@ -124,7 +124,7 @@ Grief	mh2	311	Owned	Black	Non-foil	4	B	~~	~~	Creature — Elemental Incarnation
 Sedgemoor Witch	pstx	86s	Owned	Black	Foil	3	B	~~	~~	Creature — Human Warlock
 Persist	pmh2	96s	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Damn	mh2	396	Owned	Gold	Foil	2	W,B	Multicolored	~~	Sorcery
-Bitter Triumph	lci	91	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Bitter Triumph	lci	91	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Soul-Scar Mage	pakh	148s	Owned	Red	Foil	1	R	~~	~~	Creature — Human Wizard
 Laelia, the Blade Reforged	c21	380	Owned	Red	Non-foil	3	R	~~	~~	Legendary Creature — Spirit Warrior
 Valakut Exploration	znr	303	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -240,7 +240,7 @@ Tropical Island	3ed	288	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
 Golgari Rot Farm	mm2	243	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Upheaval	v14	13	Owned	Blue	Foil	6	U	~~	~~	Sorcery
-Cast Down	pdom	81	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Cast Down	pdom	81	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Cabal Initiate	mh2	78	Owned	Black	Foil	2	B	~~	~~	Creature — Human Warlock
 Flametongue Kavu	f05	3	Owned	Red	Foil	4	R	~~	~~	Creature — Kavu
 Fable of the Mirror-Breaker	pneo	141s	Owned	Red	Foil	3	R	~~	~~	Enchantment — Saga
@@ -375,9 +375,9 @@ Faerie Mastermind	mom	58	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Ledger Shredder	psnc	46s	Owned	Blue	Foil	2	U	~~	~~	Creature — Bird Advisor
 Hymn to Tourach	v13	3	Owned	Black	Foil	2	B	~~	~~	Sorcery
 Orcish Bowmasters	ltr	103	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
-Necromancy	vis	64	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Necromancy	vis	64	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Dauthi Voidwalker	mh2	81	Owned	Black	Non-foil	2	B	~~	~~	Creature — Dauthi Rogue
-Troll of Khazad-dûm	ltr	111	Owned	~~	Foil	"""~~"""	~~	Black	~~	land-
+Troll of Khazad-dûm	ltr	111	Owned	Black	Foil	"""~~"""	~~	Black	~~	land-
 Tourach, Dread Cantor	pmh2	102s	Owned	Black	Foil	2	B	~~	~~	Legendary Creature — Human Cleric
 Recurring Nightmare	exo	72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	oc14	33	Owned	Alter,Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
@@ -398,10 +398,10 @@ Raffine's Tower	snc	353	Owned	Land	Foil	0	W,U,B	~~	~~	Land — Plains Island Swa
 Xander's Lounge	snc	358	Owned	Land	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Questing Beast	sld	1263	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
-Victimize	cma	72	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Victimize	cma	72	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
-Bone Shards	mh2	395	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Bone Shards	mh2	395	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Wrenn and Six	2x2	296	Owned	Gold	Non-foil	2	R,G	~~	~~	Legendary Planeswalker — Wrenn
 Sphinx's Tutelage	ori	76	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Pyromancer	2x2	363	Owned	Red	Non-foil	3	R	~~	~~	Creature — Human Shaman
@@ -485,7 +485,7 @@ Battlefield Forge	bro	297	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Lórien Revealed	ltr	60	Owned	Blue	Foil	"""~~"""	U	Blue	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
-Imperial Seal	2x2	79	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Imperial Seal	2x2	79	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Frogkin Kidnapper	cmb1	42	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Phyrexian Fleshgorger	bro	121	Owned	Black	Foil	3	B	~~	~~	Artifact Creature — Phyrexian Wurm
 Cut Down	dmu	432	Owned	Black	Foil	1	B	~~	~~	Instant
@@ -502,8 +502,8 @@ Cave of the Frost Dragon	pafr	253s	Owned	Land	Foil	0	W	White	~~	Land
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
 Torsten, Founder of Benalia	dmc	47	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bring to Light	bfz	209	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Life // Death	f06	11a	Owned	~~	Foil	"""~~"""	B	~~	~~	~~
-Virtue of Persistence	pwoe	115s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Life // Death	f06	11a	Owned	Black	Foil	"""~~"""	B	~~	~~	~~
+Virtue of Persistence	pwoe	115s	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Mine Collapse	mh2	408	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Seasoned Hallowblade	m21	34	Owned	White	Foil	2	W	~~	~~	Creature — Human Warrior
 Andúril, Flame of the West	pltr	236s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -524,7 +524,7 @@ Relic of Progenitus	ala	218	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Cathar Commando	dbl	10	Owned	White	Foil	2	W	~~	~~	Creature — Human Soldier
 Gitaxian Probe	f12	12	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Fatal Push	f17	8	Owned	Black	Foil	1	B	~~	~~	Instant
-Exhume	pd3	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Exhume	pd3	17	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Quirion Beastcaller	pdmu	175s	Owned	Green	Foil	2	G	~~	~~	Creature — Dryad Warrior
 Sylvan Library	dmr	441	Owned	Green	Foil	2	G	~~	~~	Enchantment
 Force of Will	dmr	50	Owned	Blue	Foil	0	U	~~	~~	Instant
@@ -544,7 +544,7 @@ The World Tree	sld	1266	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Gut, True Soul Zealot	clb	180	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
-Bolas's Citadel	plg21	3	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Bolas's Citadel	plg21	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Tezzeret the Seeker	sld	1111	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
