@@ -234,7 +234,7 @@ Restless Prairie	lci	348	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Plateau	3ed	284	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
 Stormcarved Coast	vow	265	Owned	Land	Non-foil	0	U,R	~~	~~	Land
 Restless Ridgeline	lci	350	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
-Restless Reef	lci	349	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
+Undercity Sewers	mkm	270	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Restless Vents	lci	351	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Tropical Island	3ed	288	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
 Shattered Sanctum	vow	264	Owned	Land	Non-foil	0	W,B	~~	~~	Land
@@ -449,7 +449,7 @@ Liliana of the Veil	dmu	97	Owned	Black	Foil	3	B	~~	~~	Legendary Planeswalker —
 Tarmogoyf	tsr	235	Owned	Green	Non-foil	2	G	~~	~~	Creature — Lhurgoyf
 Cankerbloom	one	294	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Field of the Dead	pm20	247s	Owned	Land	Foil	0	~~	~~	~~	Land
-Prismatic Vista	mh1	244	Owned	Land	Non-foil	0	~~	~~	~~	Land
+Prismatic Vista	h1r	40	Owned	Land	Foil	0	~~	~~	~~	Land
 Urza's Saga	mh2	259	Owned	Land	Non-foil	0	~~	~~	~~	Enchantment Land — Urza’s Saga
 Rishadan Port	a25	246	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Adarkar Wastes	dmu	377	Owned	Land	Foil	0	W,U	~~	~~	Land
@@ -459,7 +459,7 @@ Caves of Koilos	dmu	378	Owned	Land	Foil	0	W,B	~~	~~	Land
 Yavimaya Coast	dmu	382	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Concealing Curtains	vow	101	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
 Sheoldred, the Apocalypse	dmu	107	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Phyrexian Praetor
-Questing Druid	woe	234	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Questing Druid	woe	294	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Shivan Reef	dmu	380	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Cathartic Pyre	dbl	133	Owned	Red	Foil	2	R	~~	~~	Instant
 Fallen Shinobi	mh1	199	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
@@ -473,7 +473,7 @@ Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Cr
 Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
 Myrel, Shield of Argive	bro	18	Owned	White	Foil	4	W	~~	~~	Legendary Creature — Human Soldier
-Augur of Autumn	mid	168	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Augur of Autumn	pmid	168p	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Haywire Mite	bro	199	Owned	Green	Foil	1	G	~~	~~	Artifact Creature — Insect
 Third Path Iconoclast	bro	223	Owned	Gold	Foil	2	U,R	~~	~~	Creature — Human Monk
 Thespian's Stage	2xm	327	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
@@ -494,7 +494,7 @@ Saheeli, Sublime Artificer	sld	1143	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Monster Manual	clb	242	Owned	Green	Foil	4	G	~~	~~	Artifact
 Bloodtithe Harvester	vow	310	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Tangle Wire	v13	8	Owned	Artifact	Foil	3	~~	~~	~~	Artifact
-Heart of Kiran	paer	153s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Deathrite Shaman	rtr	213	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Zuran Orb	v10	15	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Teferi's Puzzle Box	vis	156	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creature — Elemental
