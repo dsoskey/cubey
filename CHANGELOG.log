@@ -4459,3 +4459,6 @@ Timestamp	Board	ChangeType	Name
 2024-01-08T22:53:39.883+00:00	mainboard	edit	Wasteland
 2024-01-17T23:19:30.649+00:00	mainboard	edit	Vampiric Tutor
 2024-02-06T05:10:37.199+00:00	mainboard	edit	Bloodtithe Harvester
+2024-02-25T04:48:11.996+00:00	mainboard	remove	Cave of the Frost Dragon
+2024-02-25T04:48:11.996+00:00	mainboard	add	Virtue of Loyalty
+2024-02-25T04:48:11.996+00:00	mainboard	edit	Skyclave Apparition
