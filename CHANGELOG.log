@@ -4504,3 +4504,7 @@ Timestamp	Board	ChangeType	Name
 2024-04-07T03:37:53.271+00:00	mainboard	edit	Seismic Assault
 2024-04-07T03:37:53.271+00:00	mainboard	edit	Sulfuric Vortex
 2024-04-07T03:37:53.271+00:00	mainboard	edit	Scalding Viper
+2024-04-07T04:07:32.433+00:00	mainboard	remove	Stormcarved Coast
+2024-04-07T04:07:32.433+00:00	mainboard	add	Cascade Bluffs
+2024-04-07T04:07:32.433+00:00	mainboard	remove	Lavaclaw Reaches
+2024-04-07T04:07:32.433+00:00	mainboard	add	Graven Cairns
