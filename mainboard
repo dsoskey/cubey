@@ -25,7 +25,7 @@ Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
 Ponder	sld	245	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Preordain	cmr	84	Owned	Blue	Foil	1	U	~~	~~	Sorcery
-Shark Typhoon	iko	67	Owned	Blue	Non-foil	6	U	~~	~~	Enchantment
+Displacer Kitten	clb	63	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
@@ -300,7 +300,7 @@ Retrofitter Foundry	p23	4	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Fiery Confluence	ss3	3	Owned	Red	Foil	4	R	~~	~~	Sorcery
 Goblin Cratermaker	grn	103	Owned	Red	Foil	2	R	~~	~~	Creature — Goblin Warrior
 Magus of the Order	cmr	242	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
-Explore	wwk	99	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
+Life from the Loam	rav	172	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
 Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
@@ -427,7 +427,7 @@ March of Otherworldly Light	neo	28	Owned	White	Foil	1	W	~~	~~	Instant
 Dire Fleet Daredevil	prix	99s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Pirate
 Abbot of Keral Keep	pori	127s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Monk
 Bribery	j13	2	Owned	Blue	Foil	5	U	~~	~~	Sorcery
-Soulherder	h1r	30	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
+No More Lies	mkm	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Palace Jailer	cn2	18	Owned	White	Non-foil	4	W	~~	~~	Creature — Human Soldier
 Worldspine Wurm	sld	1305	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Minsc & Boo, Timeless Heroes	pclb	285s	Owned	Gold	Foil	4	G,R	~~	~~	Legendary Planeswalker — Minsc
@@ -441,7 +441,7 @@ Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Academy Ruins	tsp	269	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
 Ratchet Bomb	pm14	215★	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
-Elesh Norn, Grand Cenobite	nph	9	Owned	White	Non-foil	7	W	~~	~~	Legendary Creature — Phyrexian Praetor
+Swans of Bryn Argoll	shm	151	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Fury	mh2	313	Owned	Red	Non-foil	5	R	~~	~~	Creature — Elemental Incarnation
 Elite Spellbinder	pstx	17s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Fact or Fiction	sld	333	Owned	Blue	Foil	4	U	~~	~~	Instant
