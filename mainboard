@@ -52,7 +52,7 @@ Primeval Titan	sld	494	Owned	Green	Foil	6	G	~~	~~	Creature — Giant
 Sentinel of the Nameless City	lci	211	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Ojer Kaslem, Deepest Growth	lci	204	Owned	Green	~~	"""~~"""	~~	~~	~~	~~
 Baleful Strix	e01	80	Owned	Gold	Non-foil	2	U,B	~~	~~	Artifact Creature — Bird
-Bloodbraid Elf	f10	4	Owned	Gold	Foil	4	R,G	~~	~~	Creature — Elf Berserker
+Currency Converter	ncc	81	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mirari's Wake	mh2	291	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Rip Apart	stx	225	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
 Mindslaver	som	176	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -182,7 +182,7 @@ Serra Paragon	pdmu	32s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Hanweir Garrison	emn	130a	Owned	Red	Foil	3	R	~~	~~	Creature — Human Soldier
 Joraga Treespeaker	sld	1281	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
 Sakura-Tribe Elder	f09	12	Owned	Green	Foil	2	G	~~	~~	Creature — Snake Shaman
-Gruul Turf	2x2	407	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
+Fire-Lit Thicket	shm	271	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Graven Cairns	fut	175	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Wandering Fumarole	pogw	182s	Owned	Land	Foil	0	R,U	~~	~~	Land
 Selesnya Sanctuary	mm2	248	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
@@ -331,10 +331,10 @@ Craterhoof Behemoth	cmm	280	Owned	Green	Foil	8	G	~~	~~	Creature — Beast
 Solitude	pmh2	32s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Imposing Sovereign	m14	22	Owned	White	Foil	2	W	~~	~~	Creature — Human Noble
 Containment Priest	m21	314	Owned	White	Foil	2	W	~~	~~	Creature — Human Cleric
-Eldrazi Displacer	ogw	13	Owned	White	~~	"""~~"""	~~	~~	~~	~~
+Werefox Bodyguard	woe	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Balance	g04	2	Owned	White	Foil	2	W	~~	~~	Sorcery
 Collective Brutality	emn	85	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
-Valki, God of Lies	khm	308	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+Elvish Reclaimer	m20	169	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Hazoret the Fervent	akh	136	Owned	Red	Non-foil	4	R	~~	~~	Legendary Creature — God
 Endurance	mh2	157	Owned	Green	Non-foil	3	G	~~	~~	Creature — Elemental Incarnation
 Fyndhorn Elves	v13	4	Owned	Green	Foil	1	G	~~	~~	Creature — Elf Druid
@@ -409,7 +409,7 @@ Crucible of Worlds	2x2	393	Owned	Artifact	Non-foil	3	~~	~~	~~	Artifact
 Ossification	one	277	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
 Mana Drain	2x2	348	Owned	Blue	Non-foil	2	U	~~	~~	Instant
 Green Sun's Zenith	ema	169	Owned	Green	Non-foil	1	G	~~	~~	Sorcery
-Bramble Sovereign	clb	372	Owned	Green	Foil	4	G	~~	~~	Creature — Dryad
+Vengevine	roe	212	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 City of Brass	2x2	403	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Maze of Ith	v12	10	Owned	Land	Foil	0	~~	~~	~~	Land
 Monastery Mentor	2x2	21	Owned	White	Foil	3	W	~~	~~	Creature — Human Monk
@@ -481,7 +481,7 @@ Expedition Map	2xm	359	Owned	Artifact	Foil	1	~~	~~	~~	Artifact
 Underground River	bro	300	Owned	Land	Foil	0	U,B	~~	~~	Land
 Brushland	bro	298	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Llanowar Wastes	bro	299	Owned	Land	Foil	0	B,G	~~	~~	Land
-Battlefield Forge	bro	297	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
+Rugged Prairie	eve	178	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Steel Seraph	bro	38	Owned	White	Foil	3	W	~~	~~	Artifact Creature — Angel
 Lórien Revealed	ltr	60	Owned	Blue	Foil	"""~~"""	U	Blue	~~	Land
 Toxic Deluge	cc2	6	Owned	Black	Foil	3	B	~~	~~	Sorcery
@@ -501,7 +501,7 @@ Titania, Protector of Argoth	mh2	416	Owned	Green	Foil	5	G	~~	~~	Legendary Creatu
 Virtue of Loyalty	woe	38	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Spell Queller	sld	193	Owned	Gold	Foil	3	W,U	~~	~~	Creature — Spirit
 Torsten, Founder of Benalia	dmc	47	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
-Bring to Light	bfz	209	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+Worldsoul's Rage	mkm	244	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Life // Death	f06	11a	Owned	Black	Foil	"""~~"""	B	~~	~~	~~
 Virtue of Persistence	pwoe	115s	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
 Mine Collapse	mh2	408	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
