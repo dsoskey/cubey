@@ -28,7 +28,7 @@ Preordain	cmr	84	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
-Shriekmaw	plrw	139★	Owned	Black	Foil	5	B	~~	~~	Creature — Elemental
+Harvester of Misery	big	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
@@ -150,7 +150,7 @@ Knight of the Reliquary	con	113	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Looter il-Kor	tsp	66	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Chart a Course	xln	48	Owned	Blue	Foil	2	U	~~	~~	Sorcery
 Mystic Confluence	tsr	312	Owned	Blue	Non-foil	5	U	~~	~~	Instant
-Thirst for Knowledge	f08	9	Owned	Blue	Foil	3	U	~~	~~	Instant
+Three Steps Ahead	otj	75	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Memory Lapse	sta	16	Owned	Blue	Foil	2	U	~~	~~	Instant
 Vendilion Clique	a25	76	Owned	Blue	Non-foil	3	U	~~	~~	Legendary Creature — Faerie Wizard
 Gonti, Lord of Luxury	pkld	84s	Owned	Black	Foil	4	B	~~	~~	Legendary Creature — Aetherborn Rogue
@@ -205,7 +205,7 @@ Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Gush	dd2	27	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
-Sword of Sinew and Steel	h1r	31	Owned	Artifact	Foil	"""~~"""	~~	~~	~~	~~
+Sword of Fire and Ice	dst	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	cmm	658	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Avenger of Zendikar	2xm	152	Owned	Green	Foil	7	G	~~	~~	Creature — Elemental
@@ -264,7 +264,7 @@ Exploration	2xm	351	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Mana Crypt	spg	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Treachery	uds	50	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	pneo	42p	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker
-Lion Sash	neo	368	Owned	White	Foil	2	W	~~	~~	Artifact Creature — Equipment Cat
+Dust Animus	otj	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Tinker	v09	14	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Show and Tell	cn2	121	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
@@ -346,7 +346,7 @@ Portal to Phyrexia	pbro	240s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Wheel of Fortune	3ed	185	Owned	Red	~~	"""~~"""	~~	~~	~~	~~
 Rona, Herald of Invasion	mom	75	Owned	Blue	Foil	"""~~"""	U	~~	~~	~~
 Seismic Assault	10e	228	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
-Archon of Emeria	pznr	4s	Owned	White	Foil	"""~~"""	~~	~~	~~	~~
+Aven Interrupter	otj	4	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Jetmir's Garden	snc	351	Owned	Land	Foil	0	W,R,G	~~	~~	Land — Mountain Forest Plains
 Talisman of Progress	sld	1052	Owned	Gold	Foil	2	W,U	~~	~~	Artifact
 Talisman of Indulgence	sld	1054	Owned	Gold	Foil	2	B,R	~~	~~	Artifact
@@ -382,7 +382,7 @@ Tourach, Dread Cantor	pmh2	102s	Owned	Black	Foil	2	B	~~	~~	Legendary Creature �
 Recurring Nightmare	exo	72	Owned	Black	Non-foil	3	B	~~	~~	Enchantment
 Daretti, Scrap Savant	oc14	33	Owned	Alter,Red	Non-foil	4	R	~~	~~	Legendary Planeswalker — Daretti
 Burning of Xinye	v14	2	Owned	Red	Foil	6	R	~~	~~	Sorcery
-Wildfire	mm2	134	Owned	Red	Foil	6	R	~~	~~	Sorcery
+Molten Duplication	big	14	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Searing Spear	f13	1	Owned	Red	Foil	2	R	~~	~~	Instant
 Grim Lavamancer	dmr	434	Owned	Red	Foil	1	R	~~	~~	Creature — Human Wizard
 Harmonize	ema	170	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
@@ -470,7 +470,7 @@ Cultivate	sld	246	Owned	Green	Foil	3	G	~~	~~	Sorcery
 Manamorphose	2xm	208	Owned	Red	Foil	"""~~"""	R	Red	~~	~~
 Crop Rotation	2xm	349	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
-Sword of Once and Future	mom	265	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Sword of Feast and Famine	mbs	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
 Myrel, Shield of Argive	bro	18	Owned	White	Foil	4	W	~~	~~	Legendary Creature — Human Soldier
 Augur of Autumn	pmid	168p	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -550,7 +550,7 @@ Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
-The Gitrog Monster	soi	245	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
+The Gitrog, Ravenous Ride	otj	206	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Once Upon a Time	peld	169s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Thopter Foundry	arb	133	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
