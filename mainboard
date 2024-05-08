@@ -28,7 +28,7 @@ Preordain	cmr	84	Owned	Blue	Foil	1	U	~~	~~	Sorcery
 Displacer Kitten	clb	63	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Oona's Prowler	2x2	85	Owned	Black	Foil	2	B	~~	~~	Creature — Faerie Rogue
 Yawgmoth, Thran Physician	mh1	116	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
-Harvester of Misery	big	39	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Harvester of Misery	big	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Grave Titan	pdp12	2	Owned	Black	Foil	6	B	~~	~~	Creature — Giant
 Massacre Wurm	m21	316	Owned	Black	Foil	6	B	~~	~~	Creature — Wurm
 Duress	f05	10	Owned	Black	Foil	1	B	~~	~~	Sorcery
@@ -205,7 +205,7 @@ Dismember	f12	4	Owned	Artifact	Foil	3	~~	Colorless	~~	Instant
 Ravenous Chupacabra	pw23	10	Owned	Black	Foil	4	B	~~	~~	Creature — Beast Horror
 Drana, Liberator of Malakir	bfz	109	Owned	Black	Non-foil	3	B	~~	~~	Legendary Creature — Vampire Ally
 Gush	dd2	27	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
-Sword of Fire and Ice	dst	148	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of Fire and Ice	2xm	365	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Thran Dynamo	cmm	658	Owned	Artifact	Foil	4	~~	~~	~~	Artifact
 Faithless Looting	dka	87	Owned	Red	Foil	1	R	~~	~~	Sorcery
 Avenger of Zendikar	2xm	152	Owned	Green	Foil	7	G	~~	~~	Creature — Elemental
@@ -264,7 +264,7 @@ Exploration	2xm	351	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Mana Crypt	spg	17	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Treachery	uds	50	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 The Wandering Emperor	pneo	42p	Owned	White	Foil	4	W	~~	~~	Legendary Planeswalker
-Dust Animus	otj	9	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Dust Animus	otj	311	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Tinker	v09	14	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Show and Tell	cn2	121	Owned	Blue	Foil	3	U	~~	~~	Sorcery
 Narset, Parter of Veils	sld	1141	Owned	Blue	Foil	3	U	~~	~~	Legendary Planeswalker — Narset
@@ -470,7 +470,7 @@ Cultivate	sld	246	Owned	Green	Foil	3	G	~~	~~	Sorcery
 Manamorphose	2xm	208	Owned	Red	Foil	"""~~"""	R	Red	~~	~~
 Crop Rotation	2xm	349	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Dryad of the Ilysian Grove	thb	169	Owned	Green	Non-foil	3	G	~~	~~	Enchantment Creature — Nymph Dryad
-Sword of Feast and Famine	mbs	138	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Sword of Feast and Famine	2xm	296	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Vindicate	mh2	322	Owned	Gold	Foil	3	W,B	~~	~~	Sorcery
 Myrel, Shield of Argive	bro	18	Owned	White	Foil	4	W	~~	~~	Legendary Creature — Human Soldier
 Augur of Autumn	pmid	168p	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
@@ -550,7 +550,7 @@ Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Ashen Rider	ths	187	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
-The Gitrog, Ravenous Ride	otj	206	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+The Gitrog, Ravenous Ride	otj	206	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Lore Seeker	cns	62	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Once Upon a Time	peld	169s	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Thopter Foundry	arb	133	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
