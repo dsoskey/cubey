@@ -4593,3 +4593,6 @@ Timestamp	Board	ChangeType	Name
 2024-05-14T06:35:26.797+00:00	mainboard	edit	Vaultborn Tyrant
 2024-05-14T06:38:45.409+00:00	mainboard	remove	Song of the Dryads
 2024-05-14T06:38:45.409+00:00	mainboard	add	Goldvein Hydra
+2024-05-14T06:41:49.418+00:00	mainboard	remove	Thragtusk
+2024-05-14T06:41:49.418+00:00	mainboard	add	Railway Brawler
+2024-05-14T06:41:49.418+00:00	mainboard	edit	Goldvein Hydra
