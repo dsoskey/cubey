@@ -228,7 +228,7 @@ Skyclave Apparition	gdy	2	Owned	White	Foil	3	W	~~	~~	Creature — Kor Spirit
 Thassa's Oracle	thb	73	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Woodfall Primus	uma	195	Owned	Green	Foil	8	G	~~	~~	Creature — Treefolk Shaman
 Inspiring Vantage	otj	303	Owned	Land	Foil	0	R,W	~~	~~	Land
-Spirebluff Canal	kld	249	Owned	Land	Non-foil	0	R,U	~~	~~	Land
+Spirebluff Canal	otj	304	Owned	Land	Foil	0	R,U	~~	~~	Land
 Restless Anchorage	lci	347	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Restless Prairie	lci	348	Owned	Land	Foil	"""~~"""	~~	~~	~~	~~
 Plateau	3ed	284	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
@@ -290,7 +290,7 @@ Esper Sentinel	mh2	328	Owned	White	Non-foil	1	W	~~	~~	Artifact Creature — Huma
 Pestermite	mma	59	Owned	Blue	Foil	3	U	~~	~~	Creature — Faerie Rogue
 Force Spike	f07	12	Owned	Blue	Foil	1	U	~~	~~	Instant
 Dark Ritual	v13	1	Owned	Black	Foil	1	B	~~	~~	Instant
-Lurrus of the Dream-Den	mul	51	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Lurrus of the Dream-Den	piko	226s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Demonic Tutor	sta	27	Owned	Black	Non-foil	2	B	~~	~~	Sorcery
 Thoughtseize	sld	1117	Owned	Black	Foil	1	B	~~	~~	Sorcery
 Sheoldred's Edict	one	108	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
@@ -304,7 +304,7 @@ Life from the Loam	rvr	350	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Emrakul, the Aeons Torn	roe	4	Owned	Artifact	Non-foil	15	~~	~~	~~	Legendary Creature — Eldrazi
 Mirage Mirror	hou	165	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Grafted Wargear	cmr	312	Owned	Artifact	Foil	3	~~	~~	~~	Artifact — Equipment
-Memory Jar	v10	8	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
+Blossoming Tortoise	woe	163	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Expressive Iteration	stx	186	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Dreadbore	rtr	157	Owned	Gold	Foil	2	B,R	~~	~~	Sorcery
 Sphinx of the Steel Wind	ema	207	Owned	Gold	Foil	8	W,U,B	~~	~~	Artifact Creature — Sphinx
