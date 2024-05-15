@@ -19,7 +19,7 @@ Phyrexian Metamorph	sld	1110	Owned	Artifact	Foil	3	~~	Colorless	~~	Artifact Crea
 Kappa Cannoneer	nec	14	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Brainstorm	sld	174	Owned	Blue	Foil	1	U	~~	~~	Instant
 Opt	pdom	60	Owned	Blue	Foil	1	U	~~	~~	Instant
-Astral Dragon	clb	664	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
+Arcane Savant	cn2	27	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Counterspell	dmr	281	Owned	Blue	Foil	2	U	~~	~~	Instant
 Mana Leak	2x2	58	Owned	Blue	Foil	2	U	~~	~~	Instant
 Cryptic Command	ppro	2020-1	Owned	Blue	Foil	4	U	~~	~~	Instant
@@ -424,7 +424,7 @@ Collector's Cage	big	1	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Vampiric Tutor	dmr	314	Owned	Black	Foil	1	B	~~	~~	Instant
 Timeless Dragon	mh2	388	Owned	White	Foil	5	W	~~	~~	Creature — Dragon
 March of Otherworldly Light	neo	28	Owned	White	Foil	1	W	~~	~~	Instant
-Magda, the Hoardmaster	otj	133	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Magda, the Hoardmaster	otj	133	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Abbot of Keral Keep	pori	127s	Owned	Red	Foil	2	R	~~	~~	Creature — Human Monk
 Bribery	j13	2	Owned	Blue	Foil	5	U	~~	~~	Sorcery
 No More Lies	mkm	221	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -438,7 +438,7 @@ Golos, Tireless Pilgrim	m20	226	Owned	Artifact	Non-foil	5	~~	Colorless	~~	Legend
 Mishra's Factory	mh2	326	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Karakas	j12	6	Owned	Land	Foil	"""~~"""	~~	White	~~	~~
 Strip Mine	4ed	363	Owned	Land	Non-foil	0	~~	~~	~~	Land
-Academy Ruins	tsp	269	Owned	Land	~~	"""~~"""	~~	~~	~~	~~
+Afterlife Insurance	clu	23	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Unicycle	cmb1	110	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Mana Confluence	sld	1012a	Owned	Land	Non-foil	0	~~	~~	~~	Land
 Swans of Bryn Argoll	shm	151	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
@@ -545,7 +545,7 @@ Aetherflux Reservoir	pkld	192s	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Gut, True Soul Zealot	clb	180	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Mimic Vat	som	175	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Bolas's Citadel	plg21	3	Owned	Black	Foil	"""~~"""	~~	~~	~~	~~
-Tezzeret the Seeker	sld	1111	Owned	Blue	Foil	"""~~"""	~~	~~	~~	~~
+Jace, Wielder of Mysteries	war	54	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Sai, Master Thopterist	m19	69	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Phantasmal Image	m12	72	Owned	Blue	~~	"""~~"""	~~	~~	~~	~~
 Sword of the Meek	brr	122	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
