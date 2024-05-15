@@ -4606,3 +4606,6 @@ Timestamp	Board	ChangeType	Name
 2024-05-15T04:00:00.569+00:00	mainboard	add	Unholy Heat
 2024-05-15T04:00:00.569+00:00	mainboard	edit	Pest Infestation
 2024-05-15T04:00:00.569+00:00	mainboard	edit	Concealed Courtyard
+2024-05-15T04:02:14.946+00:00	mainboard	remove	Spell Queller
+2024-05-15T04:02:14.946+00:00	mainboard	add	Twining Twins
+2024-05-15T04:02:14.946+00:00	mainboard	edit	Unholy Heat
