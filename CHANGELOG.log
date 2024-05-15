@@ -4612,3 +4612,6 @@ Timestamp	Board	ChangeType	Name
 2024-05-15T04:02:24.893+00:00	mainboard	edit	Twining Twins
 2024-05-15T04:07:50.347+00:00	mainboard	remove	Daretti, Scrap Savant
 2024-05-15T04:07:50.347+00:00	mainboard	add	Chandra, Hope's Beacon
+2024-05-15T04:10:41.102+00:00	mainboard	remove	Courser of Kruphix
+2024-05-15T04:10:41.102+00:00	mainboard	add	Sandstorm Salvager
+2024-05-15T04:10:41.102+00:00	mainboard	edit	Chandra, Hope's Beacon
