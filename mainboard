@@ -65,7 +65,7 @@ Mind Stone	clb	325	Owned	Artifact	Foil	2	~~	~~	~~	Artifact
 Murderous Rider	eld	287	Owned	Black	Foil	3	B	~~	~~	Creature — Zombie Knight
 Chain Lightning	dmr	316	Owned	Red	Foil	"""~~"""	~~	~~	~~	~~
 Bonecrusher Giant	peld	115s	Owned	Red	Foil	3	R	~~	~~	Creature — Giant
-Damnation	sld	121	Owned	Black	Non-foil	4	B	~~	~~	Sorcery
+Damnation	2x2	73	Owned	Black	Foil	4	B	~~	~~	Sorcery
 Bitterblossom	2x2	69	Owned	Black	Foil	2	B	~~	~~	Tribal Enchantment — Faerie
 Thalia, Guardian of Thraben	vow	38	Owned	White	Foil	2	W	~~	~~	Legendary Creature — Human Soldier
 Jace, the Mind Sculptor	v13	18	Owned	Blue	Foil	4	U	~~	~~	Legendary Planeswalker — Jace
@@ -276,7 +276,7 @@ Legion Warboss	rvr	337	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Goblin Welder	c14	177	Owned	Red	Non-foil	1	R	~~	~~	Creature — Goblin Artificer
 Natural Order	sta	54	Owned	Green	Non-foil	4	G	~~	~~	Sorcery
 Oath of Druids	c16	159	Owned	Green	Non-foil	2	G	~~	~~	Enchantment
-Otharri, Suns' Glory	onc	3	Owned	Gold	Foil	"""~~"""	~~	~~	~~	~~
+Bruse Tarl, Roving Rancher	otj	198	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
 Forth Eorlingas!	ltc	56	Owned	Gold	~~	"""~~"""	~~	~~	~~	~~
 Lingering Souls	f12	9	Owned	Gold	Foil	3	W,B	Multicolored	~~	Sorcery
 Fractured Identity	sld	272	Owned	Gold	Foil	5	W,U	~~	~~	Sorcery
@@ -398,7 +398,7 @@ Raffine's Tower	snc	353	Owned	Land	Foil	0	W,U,B	~~	~~	Land — Plains Island Swa
 Xander's Lounge	snc	358	Owned	Land	Foil	0	U,B,R	~~	~~	Land — Island Swamp Mountain
 Questing Beast	sld	1263	Owned	Green	Foil	"""~~"""	~~	~~	~~	~~
 Raugrin Triome	iko	311	Owned	Land	Non-foil	0	W,U,R	~~	~~	Land — Island Mountain Plains
-Forsaken Miner	otj	88	Owned	~~	~~	"""~~"""	~~	~~	~~	~~
+Forsaken Miner	otj	88	Owned	~~	Foil	"""~~"""	~~	~~	~~	~~
 Spara's Headquarters	snc	355	Owned	Land	Foil	0	W,U,G	~~	~~	Land — Forest Plains Island
 Wasteland	sld	178	Owned	Alter,Land	Non-foil	0	~~	~~	~~	Land
 Bone Shards	mh2	395	Owned	Black	~~	"""~~"""	~~	~~	~~	~~
